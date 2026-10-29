@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy | Title 5 Roster"
-description: "What Title 5 Roster collects (very little), how listing requests are handled, and your choices."
+description: "Title 5 Roster privacy policy: what we collect through the contact and listing forms, how business listings are handled, what we don't do and your choices."
 canonical: https://title5roster.com/privacy/
 ---
 

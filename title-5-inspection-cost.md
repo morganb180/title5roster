@@ -1,5 +1,5 @@
 ---
-title: "Title 5 Inspection Cost in Massachusetts: Prices, Pumping, Repairs and Tax Credit | Title 5 Roster"
+title: "Title 5 Inspection Cost in MA: Prices, Pumping & Tax Credit"
 description: "What a Title 5 septic inspection costs in Massachusetts, what pumping and a failed system add, and the 60% state septic tax credit, with sources."
 canonical: https://title5roster.com/title-5-inspection-cost/
 ---
@@ -18,7 +18,9 @@ canonical: https://title5roster.com/title-5-inspection-cost/
 
 These are published estimates, not quotes. We last checked them on 2026-10-13.
 
-## What affects the price
+## What affects the price of a Title 5 inspection?
+
+Pumping and locating or digging up components, the system type, the number of systems and bedrooms, travel and season, and any Board of Health filing fee.
 
 * Whether the tank must be pumped and the components located or dug up
 * System type (cesspool, conventional, innovative/alternative technology)
@@ -26,7 +28,9 @@ These are published estimates, not quotes. We last checked them on 2026-10-13.
 * Travel and season (frozen ground)
 * Town filing fees, where the Board of Health charges one
 
-## Who pays?
+## Who pays for a Title 5 inspection?
+
+Title 5 doesn't say. In practice the seller usually orders the inspection, and repair costs are often negotiated as a price credit or escrow.
 
 Title 5 doesn't say who pays for the inspection or repairs. In practice the seller usually orders the inspection, and repair costs are often negotiated as a price credit or escrow ([Mass.gov](https://www.mass.gov/guides/consumer-protection-tips-septic-system-inspections-and-repairs)).
 
@@ -52,6 +56,6 @@ Yes. The state septic tax credit is 60% of eligible costs up to $30,000 (max $4,
 
 [Find approved inspectors](https://title5roster.com/towns/)
 
-## Find an approved inspector
+## How do I find a MassDEP-approved Title 5 inspector?
 
 [Browse all towns](https://title5roster.com/towns/) · [Browse by county](https://title5roster.com/counties/) · [Plymouth](https://title5roster.com/town/plymouth-ma/) · [Barnstable](https://title5roster.com/town/barnstable-ma/) · [Middleborough](https://title5roster.com/town/middleborough-ma/) · [Sandwich](https://title5roster.com/town/sandwich-ma/) · [Bourne](https://title5roster.com/town/bourne-ma/) · [Falmouth](https://title5roster.com/town/falmouth-ma/)

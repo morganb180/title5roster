@@ -1,5 +1,5 @@
 ---
-title: "Title 5 Inspectors in Hampshire County, MA: 34 Approved Inspectors | Title 5 Roster"
+title: "Title 5 Septic Inspectors in Hampshire County, MA"
 description: "All MassDEP-approved Title 5 septic System Inspectors with an address in Hampshire County, Massachusetts, by town."
 canonical: https://title5roster.com/county/hampshire/
 ---
@@ -7,6 +7,8 @@ canonical: https://title5roster.com/county/hampshire/
 [Home](https://title5roster.com/) › [Counties](https://title5roster.com/counties/) › Hampshire County
 
 # Title 5 septic inspectors in Hampshire County, MA
+
+**Quick answer:** Title 5 Roster lists 34 MassDEP-approved System Inspectors (34 listings) with an address in 11 towns in Hampshire County, from NEIWPCC's 10/2/2026 list. Inspectors often work across a region. Title 5 generally requires an inspection within 2 years before a sale (3 years with annual pumping), and the report goes to the local Board of Health.
 
 34 approved System Inspectors (34 listings) list an address in 11 Hampshire County towns.
 
@@ -446,7 +448,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## Neighboring counties
+## Which counties border Hampshire County, MA?
 
 [Berkshire County](https://title5roster.com/county/berkshire/) · [Franklin County](https://title5roster.com/county/franklin/) · [Hampden County](https://title5roster.com/county/hampden/) · [Worcester County](https://title5roster.com/county/worcester/)
 

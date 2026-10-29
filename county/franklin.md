@@ -1,5 +1,5 @@
 ---
-title: "Title 5 Inspectors in Franklin County, MA: 29 Approved Inspectors | Title 5 Roster"
+title: "Title 5 Septic Inspectors in Franklin County, MA"
 description: "All MassDEP-approved Title 5 septic System Inspectors with an address in Franklin County, Massachusetts, by town."
 canonical: https://title5roster.com/county/franklin/
 ---
@@ -7,6 +7,8 @@ canonical: https://title5roster.com/county/franklin/
 [Home](https://title5roster.com/) › [Counties](https://title5roster.com/counties/) › Franklin County
 
 # Title 5 septic inspectors in Franklin County, MA
+
+**Quick answer:** Title 5 Roster lists 29 MassDEP-approved System Inspectors (27 listings) with an address in 10 towns in Franklin County, from NEIWPCC's 10/2/2026 list. Inspectors often work across a region. Title 5 generally requires an inspection within 2 years before a sale (3 years with annual pumping), and the report goes to the local Board of Health.
 
 29 approved System Inspectors (27 listings) list an address in 10 Franklin County towns.
 
@@ -362,7 +364,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## Neighboring counties
+## Which counties border Franklin County, MA?
 
 [Berkshire County](https://title5roster.com/county/berkshire/) · [Hampshire County](https://title5roster.com/county/hampshire/) · [Worcester County](https://title5roster.com/county/worcester/)
 

@@ -1,5 +1,5 @@
 ---
-title: "Title 5 Inspectors in Norfolk County, MA: 73 Approved Inspectors | Title 5 Roster"
+title: "Title 5 Septic Inspectors in Norfolk County, MA"
 description: "All MassDEP-approved Title 5 septic System Inspectors with an address in Norfolk County, Massachusetts, by town."
 canonical: https://title5roster.com/county/norfolk/
 ---
@@ -7,6 +7,8 @@ canonical: https://title5roster.com/county/norfolk/
 [Home](https://title5roster.com/) › [Counties](https://title5roster.com/counties/) › Norfolk County
 
 # Title 5 septic inspectors in Norfolk County, MA
+
+**Quick answer:** Title 5 Roster lists 73 MassDEP-approved System Inspectors (71 listings) with an address in 24 towns in Norfolk County, from NEIWPCC's 10/2/2026 list. Inspectors often work across a region. Title 5 generally requires an inspection within 2 years before a sale (3 years with annual pumping), and the report goes to the local Board of Health.
 
 73 approved System Inspectors (71 listings) list an address in 24 Norfolk County towns.
 
@@ -918,7 +920,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## Neighboring counties
+## Which counties border Norfolk County, MA?
 
 [Bristol County](https://title5roster.com/county/bristol/) · [Middlesex County](https://title5roster.com/county/middlesex/) · [Plymouth County](https://title5roster.com/county/plymouth/) · [Suffolk County](https://title5roster.com/county/suffolk/) · [Worcester County](https://title5roster.com/county/worcester/)
 

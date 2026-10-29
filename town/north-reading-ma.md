@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in North Reading, MA: 5 Approved Inspectors | Title 5 Roster"
-description: "5 MassDEP-approved Title 5 septic inspectors list a North Reading address, plus 138 more listings in Middlesex County. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in North Reading, MA"
+description: "5 MassDEP-approved Title 5 septic inspectors list a North Reading address, plus 138 more listings in Middlesex County. From NEIWPCC's list."
 canonical: https://title5roster.com/town/north-reading-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/north-reading-ma/
 
 # Title 5 septic inspectors in North Reading, MA
 
+**Quick answer:** Selling a home with a septic system in North Reading? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the North Reading Board of Health. Title 5 Roster lists 5 approved inspectors with a North Reading address and 138 more listings elsewhere in Middlesex County. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
 **5 MassDEP-approved System Inspectors** list a North Reading address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Middlesex County inspectors below may also cover North Reading. Ask each one about availability and price.
 
 Selling a home with a septic system in North Reading? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the North Reading Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the North Reading Board of Health.
 
-## Inspectors based in North Reading (5)
+## Which Title 5 inspectors are based in North Reading, MA? (5)
+
+5 MassDEP-approved System Inspectors list a North Reading address on NEIWPCC's 10/2/2026 list.
 
 ✔ MassDEP-approved System Inspector
 
@@ -74,7 +78,9 @@ North Reading, MA
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4409)
 
-## Other inspectors in Middlesex County (138)
+## Which other Middlesex County Title 5 inspectors may cover North Reading? (138)
+
+138 more listings are elsewhere in Middlesex County. Inspectors often work across a region, so ask each one about availability and price.
 
 ✔ MassDEP-approved System Inspector
 
@@ -2020,7 +2026,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## More towns in Middlesex County
+## Which other Middlesex County towns have Title 5 inspector pages?
 
 [Westford](https://title5roster.com/town/westford-ma/) · [Hopkinton](https://title5roster.com/town/hopkinton-ma/) · [Littleton](https://title5roster.com/town/littleton-ma/) · [Holliston](https://title5roster.com/town/holliston-ma/) · [Acton](https://title5roster.com/town/acton-ma/) · [Ayer](https://title5roster.com/town/ayer-ma/)
 

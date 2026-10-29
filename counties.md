@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Septic Inspectors by Massachusetts County | Title 5 Roster"
-description: "Browse MassDEP-approved Title 5 System Inspectors by county."
+title: "Title 5 Septic Inspectors by Massachusetts County"
+description: "Browse MassDEP-approved Title 5 septic System Inspectors by Massachusetts county, with approval IDs and expiry dates from NEIWPCC's official list."
 canonical: https://title5roster.com/counties/
 ---
 

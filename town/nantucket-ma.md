@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in Nantucket, MA: 10 Approved Inspectors | Title 5 Roster"
-description: "10 MassDEP-approved Title 5 septic inspectors list a Nantucket address. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in Nantucket, MA"
+description: "10 MassDEP-approved Title 5 septic inspectors list a Nantucket address. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
 canonical: https://title5roster.com/town/nantucket-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/nantucket-ma/
 
 # Title 5 septic inspectors in Nantucket, MA
 
+**Quick answer:** Selling a home with a septic system in Nantucket? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Nantucket Board of Health. Title 5 Roster lists 10 approved inspectors with a Nantucket address. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
 **10 MassDEP-approved System Inspectors** list a Nantucket address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Nantucket County inspectors below may also cover Nantucket. Ask each one about availability and price.
 
 Selling a home with a septic system in Nantucket? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Nantucket Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Nantucket Board of Health.
 
-## Inspectors based in Nantucket (10)
+## Which Title 5 inspectors are based in Nantucket, MA? (10)
+
+10 MassDEP-approved System Inspectors list a Nantucket address on NEIWPCC's 10/2/2026 list.
 
 ✔ MassDEP-approved System Inspector
 

@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in Hanover, MA: 10 Approved Inspectors | Title 5 Roster"
-description: "10 MassDEP-approved Title 5 septic inspectors list a Hanover address, plus 152 more listings in Plymouth County. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in Hanover, MA"
+description: "10 MassDEP-approved Title 5 septic inspectors list a Hanover address, plus 152 more listings in Plymouth County. Approval IDs and expiry dates from NEIWPCC."
 canonical: https://title5roster.com/town/hanover-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/hanover-ma/
 
 # Title 5 septic inspectors in Hanover, MA
 
+**Quick answer:** Selling a home with a septic system in Hanover? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Hanover Board of Health. Title 5 Roster lists 10 approved inspectors with a Hanover address (8 listings) and 152 more listings elsewhere in Plymouth County. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
 **10 MassDEP-approved System Inspectors** list a Hanover address on NEIWPCC's 10/2/2026 list, grouped into 8 listings. Inspectors often work across a region, so the Plymouth County inspectors below may also cover Hanover. Ask each one about availability and price.
 
 Selling a home with a septic system in Hanover? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Hanover Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Hanover Board of Health.
 
-## Inspectors based in Hanover (8)
+## Which Title 5 inspectors are based in Hanover, MA? (8)
+
+10 MassDEP-approved System Inspectors list a Hanover address on NEIWPCC's 10/2/2026 list, grouped into 8 listings.
 
 ✔ MassDEP-approved System Inspector
 
@@ -112,7 +116,9 @@ Hanover, MA
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1754)
 
-## Other inspectors in Plymouth County (152)
+## Which other Plymouth County Title 5 inspectors may cover Hanover? (152)
+
+152 more listings are elsewhere in Plymouth County. Inspectors often work across a region, so ask each one about availability and price.
 
 ✔ MassDEP-approved System Inspector
 
@@ -2252,7 +2258,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## More towns in Plymouth County
+## Which other Plymouth County towns have Title 5 inspector pages?
 
 [Plymouth](https://title5roster.com/town/plymouth-ma/) · [Middleborough](https://title5roster.com/town/middleborough-ma/) · [Wareham](https://title5roster.com/town/wareham-ma/) · [Pembroke](https://title5roster.com/town/pembroke-ma/) · [Lakeville](https://title5roster.com/town/lakeville-ma/) · [Carver](https://title5roster.com/town/carver-ma/)
 

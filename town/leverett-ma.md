@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in Leverett, MA: 1 Approved Inspector | Title 5 Roster"
-description: "1 MassDEP-approved Title 5 septic inspector list a Leverett address, plus 26 more listings in Franklin County. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in Leverett, MA"
+description: "1 MassDEP-approved Title 5 septic inspector lists a Leverett address, plus 26 more listings in Franklin County. Approval IDs and expiry dates from NEIWPCC."
 canonical: https://title5roster.com/town/leverett-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/leverett-ma/
 
 # Title 5 septic inspectors in Leverett, MA
 
-**1 MassDEP-approved System Inspector** list a Leverett address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Franklin County inspectors below may also cover Leverett. Ask each one about availability and price.
+**Quick answer:** Selling a home with a septic system in Leverett? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Leverett Board of Health. Title 5 Roster lists 1 approved inspector with a Leverett address and 26 more listings elsewhere in Franklin County. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
+**1 MassDEP-approved System Inspector** lists a Leverett address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Franklin County inspectors below may also cover Leverett. Ask each one about availability and price.
 
 Selling a home with a septic system in Leverett? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Leverett Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Leverett Board of Health.
 
-## Inspectors based in Leverett (1)
+## Which Title 5 inspectors are based in Leverett, MA? (1)
+
+1 MassDEP-approved System Inspector lists a Leverett address on NEIWPCC's 10/2/2026 list.
 
 ✔ MassDEP-approved System Inspector
 
@@ -26,7 +30,9 @@ Leverett, MA
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4072)
 
-## Other inspectors in Franklin County (26)
+## Which other Franklin County Title 5 inspectors may cover Leverett? (26)
+
+26 more listings are elsewhere in Franklin County. Inspectors often work across a region, so ask each one about availability and price.
 
 ✔ MassDEP-approved System Inspector
 
@@ -400,7 +406,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## More towns in Franklin County
+## Which other Franklin County towns have Title 5 inspector pages?
 
 [Deerfield](https://title5roster.com/town/deerfield-ma/) · [Orange](https://title5roster.com/town/orange-ma/) · [Ashfield](https://title5roster.com/town/ashfield-ma/) · [Montague](https://title5roster.com/town/montague-ma/) · [Northfield](https://title5roster.com/town/northfield-ma/) · [Warwick](https://title5roster.com/town/warwick-ma/)
 

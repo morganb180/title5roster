@@ -1,6 +1,6 @@
 ---
 title: "Contact | Title 5 Roster"
-description: "How to reach us about listings, corrections or questions."
+description: "Contact Title 5 Roster about a listing, a correction or a guide. We are an independent directory, not an inspector, a Board of Health or MassDEP."
 canonical: https://title5roster.com/contact/
 ---
 

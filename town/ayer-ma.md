@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in Ayer, MA: 7 Approved Inspectors | Title 5 Roster"
-description: "7 MassDEP-approved Title 5 septic inspectors list a Ayer address, plus 137 more listings in Middlesex County. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in Ayer, MA"
+description: "7 MassDEP-approved Title 5 septic inspectors list an Ayer address, plus 137 more listings in Middlesex County. Approval IDs and expiry dates from NEIWPCC."
 canonical: https://title5roster.com/town/ayer-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/ayer-ma/
 
 # Title 5 septic inspectors in Ayer, MA
 
-**7 MassDEP-approved System Inspectors** list a Ayer address on NEIWPCC's 10/2/2026 list, grouped into 6 listings. Inspectors often work across a region, so the Middlesex County inspectors below may also cover Ayer. Ask each one about availability and price.
+**Quick answer:** Selling a home with a septic system in Ayer? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Ayer Board of Health. Title 5 Roster lists 7 approved inspectors with an Ayer address (6 listings) and 137 more listings elsewhere in Middlesex County. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
+**7 MassDEP-approved System Inspectors** list an Ayer address on NEIWPCC's 10/2/2026 list, grouped into 6 listings. Inspectors often work across a region, so the Middlesex County inspectors below may also cover Ayer. Ask each one about availability and price.
 
 Selling a home with a septic system in Ayer? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Ayer Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Ayer Board of Health.
 
-## Inspectors based in Ayer (6)
+## Which Title 5 inspectors are based in Ayer, MA? (6)
+
+7 MassDEP-approved System Inspectors list an Ayer address on NEIWPCC's 10/2/2026 list, grouped into 6 listings.
 
 ✔ MassDEP-approved System Inspector
 
@@ -87,7 +91,9 @@ Ayer, MA
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14657)
 
-## Other inspectors in Middlesex County (137)
+## Which other Middlesex County Title 5 inspectors may cover Ayer? (137)
+
+137 more listings are elsewhere in Middlesex County. Inspectors often work across a region, so ask each one about availability and price.
 
 ✔ MassDEP-approved System Inspector
 
@@ -2018,7 +2024,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## More towns in Middlesex County
+## Which other Middlesex County towns have Title 5 inspector pages?
 
 [Westford](https://title5roster.com/town/westford-ma/) · [Hopkinton](https://title5roster.com/town/hopkinton-ma/) · [Littleton](https://title5roster.com/town/littleton-ma/) · [Holliston](https://title5roster.com/town/holliston-ma/) · [Acton](https://title5roster.com/town/acton-ma/) · [Hudson](https://title5roster.com/town/hudson-ma/)
 

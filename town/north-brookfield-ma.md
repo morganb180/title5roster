@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in North Brookfield, MA: 1 Approved Inspector | Title 5 Roster"
-description: "1 MassDEP-approved Title 5 septic inspector list a North Brookfield address, plus 184 more listings in Worcester County. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in North Brookfield, MA"
+description: "1 MassDEP-approved Title 5 septic inspector lists a North Brookfield address, plus 184 more listings in Worcester County. From NEIWPCC's list."
 canonical: https://title5roster.com/town/north-brookfield-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/north-brookfield-ma/
 
 # Title 5 septic inspectors in North Brookfield, MA
 
-**1 MassDEP-approved System Inspector** list a North Brookfield address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Worcester County inspectors below may also cover North Brookfield. Ask each one about availability and price.
+**Quick answer:** Selling a home with a septic system in North Brookfield? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the North Brookfield Board of Health. Title 5 Roster lists 1 approved inspector with a North Brookfield address and 184 more listings elsewhere in Worcester County. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
+**1 MassDEP-approved System Inspector** lists a North Brookfield address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Worcester County inspectors below may also cover North Brookfield. Ask each one about availability and price.
 
 Selling a home with a septic system in North Brookfield? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the North Brookfield Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the North Brookfield Board of Health.
 
-## Inspectors based in North Brookfield (1)
+## Which Title 5 inspectors are based in North Brookfield, MA? (1)
+
+1 MassDEP-approved System Inspector lists a North Brookfield address on NEIWPCC's 10/2/2026 list.
 
 ✔ MassDEP-approved System Inspector
 
@@ -26,7 +30,9 @@ North Brookfield, MA (listed as Noth Brookfield)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14640)
 
-## Other inspectors in Worcester County (184)
+## Which other Worcester County Title 5 inspectors may cover North Brookfield? (184)
+
+184 more listings are elsewhere in Worcester County. Inspectors often work across a region, so ask each one about availability and price.
 
 ✔ MassDEP-approved System Inspector
 
@@ -2613,7 +2619,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## More towns in Worcester County
+## Which other Worcester County towns have Title 5 inspector pages?
 
 [Leominster](https://title5roster.com/town/leominster-ma/) · [Lunenburg](https://title5roster.com/town/lunenburg-ma/) · [Sutton](https://title5roster.com/town/sutton-ma/) · [Sterling](https://title5roster.com/town/sterling-ma/) · [Ashburnham](https://title5roster.com/town/ashburnham-ma/) · [Holden](https://title5roster.com/town/holden-ma/)
 

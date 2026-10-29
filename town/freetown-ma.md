@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in Freetown, MA: 7 Approved Inspectors | Title 5 Roster"
-description: "7 MassDEP-approved Title 5 septic inspectors list a Freetown address, plus 100 more listings in Bristol County. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in Freetown, MA"
+description: "7 MassDEP-approved Title 5 septic inspectors list a Freetown address, plus 100 more listings in Bristol County. Approval IDs and expiry dates from NEIWPCC."
 canonical: https://title5roster.com/town/freetown-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/freetown-ma/
 
 # Title 5 septic inspectors in Freetown, MA
 
+**Quick answer:** Selling a home with a septic system in Freetown? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Freetown Board of Health. Title 5 Roster lists 7 approved inspectors with a Freetown address and 100 more listings elsewhere in Bristol County. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
 **7 MassDEP-approved System Inspectors** list a Freetown address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Bristol County inspectors below may also cover Freetown. Ask each one about availability and price.
 
 Selling a home with a septic system in Freetown? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Freetown Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Freetown Board of Health.
 
-## Inspectors based in Freetown (7)
+## Which Title 5 inspectors are based in Freetown, MA? (7)
+
+7 MassDEP-approved System Inspectors list a Freetown address on NEIWPCC's 10/2/2026 list.
 
 ✔ MassDEP-approved System Inspector
 
@@ -98,7 +102,9 @@ Freetown, MA (listed as Assonet)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2888)
 
-## Other inspectors in Bristol County (100)
+## Which other Bristol County Title 5 inspectors may cover Freetown? (100)
+
+100 more listings are elsewhere in Bristol County. Inspectors often work across a region, so ask each one about availability and price.
 
 ✔ MassDEP-approved System Inspector
 
@@ -1511,7 +1517,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## More towns in Bristol County
+## Which other Bristol County towns have Title 5 inspector pages?
 
 [Attleboro](https://title5roster.com/town/attleboro-ma/) · [Westport](https://title5roster.com/town/westport-ma/) · [Easton](https://title5roster.com/town/easton-ma/) · [Taunton](https://title5roster.com/town/taunton-ma/) · [Rehoboth](https://title5roster.com/town/rehoboth-ma/) · [New Bedford](https://title5roster.com/town/new-bedford-ma/)
 

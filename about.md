@@ -1,6 +1,6 @@
 ---
 title: "About Title 5 Roster | Title 5 Roster"
-description: "What Title 5 Roster is, who it's for, where its information comes from and how it's funded."
+description: "What Title 5 Roster is, who operates it, where its MassDEP-approved septic inspector data comes from, how it's built and how we stay independent."
 canonical: https://title5roster.com/about/
 ---
 
@@ -21,6 +21,10 @@ It is for Massachusetts home buyers, sellers, agents and attorneys who need a Ti
 * Listings are rebuilt from the official source files on each refresh; every listing shows its source and retrieval date.
 * Rules and cost guides link the statute, regulation, agency page or official fee schedule they rely on. Where we couldn't confirm something from an official source, we say so or leave it out.
 * Nothing here is legal advice. Requirements change, so confirm with the agency or town before you act.
+
+## Who operates Title 5 Roster
+
+Title 5 Roster (title5roster.com) is operated by Title 5 Roster. Contact us through the [contact page](https://title5roster.com/contact/).
 
 ## Independence
 

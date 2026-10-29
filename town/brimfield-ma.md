@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in Brimfield, MA: 3 Approved Inspectors | Title 5 Roster"
-description: "3 MassDEP-approved Title 5 septic inspectors list a Brimfield address, plus 46 more listings in Hampden County. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in Brimfield, MA"
+description: "3 MassDEP-approved Title 5 septic inspectors list a Brimfield address, plus 46 more listings in Hampden County. Approval IDs and expiry dates from NEIWPCC."
 canonical: https://title5roster.com/town/brimfield-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/brimfield-ma/
 
 # Title 5 septic inspectors in Brimfield, MA
 
+**Quick answer:** Selling a home with a septic system in Brimfield? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Brimfield Board of Health. Title 5 Roster lists 3 approved inspectors with a Brimfield address and 46 more listings elsewhere in Hampden County. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
 **3 MassDEP-approved System Inspectors** list a Brimfield address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Hampden County inspectors below may also cover Brimfield. Ask each one about availability and price.
 
 Selling a home with a septic system in Brimfield? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Brimfield Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Brimfield Board of Health.
 
-## Inspectors based in Brimfield (3)
+## Which Title 5 inspectors are based in Brimfield, MA? (3)
+
+3 MassDEP-approved System Inspectors list a Brimfield address on NEIWPCC's 10/2/2026 list.
 
 ✔ MassDEP-approved System Inspector
 
@@ -50,7 +54,9 @@ Brimfield, MA
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4405)
 
-## Other inspectors in Hampden County (46)
+## Which other Hampden County Title 5 inspectors may cover Brimfield? (46)
+
+46 more listings are elsewhere in Hampden County. Inspectors often work across a region, so ask each one about availability and price.
 
 ✔ MassDEP-approved System Inspector
 
@@ -702,7 +708,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## More towns in Hampden County
+## Which other Hampden County towns have Title 5 inspector pages?
 
 [Ludlow](https://title5roster.com/town/ludlow-ma/) · [Southwick](https://title5roster.com/town/southwick-ma/) · [Springfield](https://title5roster.com/town/springfield-ma/) · [Westfield](https://title5roster.com/town/westfield-ma/) · [Palmer](https://title5roster.com/town/palmer-ma/) · [Agawam](https://title5roster.com/town/agawam-ma/)
 

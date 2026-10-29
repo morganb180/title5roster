@@ -1,5 +1,5 @@
 ---
-title: "Title 5 Inspectors in Barnstable County, MA: 129 Approved Inspectors | Title 5 Roster"
+title: "Title 5 Septic Inspectors in Barnstable County, MA"
 description: "All MassDEP-approved Title 5 septic System Inspectors with an address in Barnstable County, Massachusetts, by town."
 canonical: https://title5roster.com/county/barnstable/
 ---
@@ -7,6 +7,8 @@ canonical: https://title5roster.com/county/barnstable/
 [Home](https://title5roster.com/) › [Counties](https://title5roster.com/counties/) › Barnstable County
 
 # Title 5 septic inspectors in Barnstable County, MA
+
+**Quick answer:** Title 5 Roster lists 129 MassDEP-approved System Inspectors (122 listings) with an address in 15 towns in Barnstable County, from NEIWPCC's 10/2/2026 list. Inspectors often work across a region. Title 5 generally requires an inspection within 2 years before a sale (3 years with annual pumping), and the report goes to the local Board of Health.
 
 129 approved System Inspectors (122 listings) list an address in 15 Barnstable County towns.
 
@@ -1517,7 +1519,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## Neighboring counties
+## Which counties border Barnstable County, MA?
 
 [Bristol County](https://title5roster.com/county/bristol/) · [Dukes County](https://title5roster.com/county/dukes/) · [Plymouth County](https://title5roster.com/county/plymouth/)
 

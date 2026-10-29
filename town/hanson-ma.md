@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in Hanson, MA: 4 Approved Inspectors | Title 5 Roster"
-description: "4 MassDEP-approved Title 5 septic inspectors list a Hanson address, plus 156 more listings in Plymouth County. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in Hanson, MA"
+description: "4 MassDEP-approved Title 5 septic inspectors list a Hanson address, plus 156 more listings in Plymouth County. Approval IDs and expiry dates from NEIWPCC."
 canonical: https://title5roster.com/town/hanson-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/hanson-ma/
 
 # Title 5 septic inspectors in Hanson, MA
 
+**Quick answer:** Selling a home with a septic system in Hanson? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Hanson Board of Health. Title 5 Roster lists 4 approved inspectors with a Hanson address and 156 more listings elsewhere in Plymouth County. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
 **4 MassDEP-approved System Inspectors** list a Hanson address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Plymouth County inspectors below may also cover Hanson. Ask each one about availability and price.
 
 Selling a home with a septic system in Hanson? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Hanson Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Hanson Board of Health.
 
-## Inspectors based in Hanson (4)
+## Which Title 5 inspectors are based in Hanson, MA? (4)
+
+4 MassDEP-approved System Inspectors list a Hanson address on NEIWPCC's 10/2/2026 list.
 
 ✔ MassDEP-approved System Inspector
 
@@ -62,7 +66,9 @@ Hanson, MA
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14217)
 
-## Other inspectors in Plymouth County (156)
+## Which other Plymouth County Title 5 inspectors may cover Hanson? (156)
+
+156 more listings are elsewhere in Plymouth County. Inspectors often work across a region, so ask each one about availability and price.
 
 ✔ MassDEP-approved System Inspector
 
@@ -2260,7 +2266,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## More towns in Plymouth County
+## Which other Plymouth County towns have Title 5 inspector pages?
 
 [Plymouth](https://title5roster.com/town/plymouth-ma/) · [Middleborough](https://title5roster.com/town/middleborough-ma/) · [Wareham](https://title5roster.com/town/wareham-ma/) · [Pembroke](https://title5roster.com/town/pembroke-ma/) · [Hanover](https://title5roster.com/town/hanover-ma/) · [Lakeville](https://title5roster.com/town/lakeville-ma/)
 

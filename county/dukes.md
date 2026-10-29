@@ -1,5 +1,5 @@
 ---
-title: "Title 5 Inspectors in Dukes County, MA: 10 Approved Inspectors | Title 5 Roster"
+title: "Title 5 Septic Inspectors in Dukes County, MA"
 description: "All MassDEP-approved Title 5 septic System Inspectors with an address in Dukes County, Massachusetts, by town."
 canonical: https://title5roster.com/county/dukes/
 ---
@@ -7,6 +7,8 @@ canonical: https://title5roster.com/county/dukes/
 [Home](https://title5roster.com/) › [Counties](https://title5roster.com/counties/) › Dukes County
 
 # Title 5 septic inspectors in Dukes County, MA
+
+**Quick answer:** Title 5 Roster lists 10 MassDEP-approved System Inspectors (10 listings) with an address in 5 towns in Dukes County, from NEIWPCC's 10/2/2026 list. Inspectors often work across a region. Title 5 generally requires an inspection within 2 years before a sale (3 years with annual pumping), and the report goes to the local Board of Health.
 
 10 approved System Inspectors (10 listings) list an address in 5 Dukes County towns.
 
@@ -146,7 +148,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## Neighboring counties
+## Which counties border Dukes County, MA?
 
 [Barnstable County](https://title5roster.com/county/barnstable/) · [Bristol County](https://title5roster.com/county/bristol/) · [Nantucket County](https://title5roster.com/county/nantucket/)
 

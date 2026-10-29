@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in Chatham, MA: 2 Approved Inspectors | Title 5 Roster"
-description: "2 MassDEP-approved Title 5 septic inspectors list a Chatham address, plus 120 more listings in Barnstable County. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in Chatham, MA"
+description: "2 MassDEP-approved Title 5 septic inspectors list a Chatham address, plus 120 more listings in Barnstable County. Approval IDs and expiry dates from NEIWPCC."
 canonical: https://title5roster.com/town/chatham-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/chatham-ma/
 
 # Title 5 septic inspectors in Chatham, MA
 
+**Quick answer:** Selling a home with a septic system in Chatham? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Chatham Board of Health. Title 5 Roster lists 2 approved inspectors with a Chatham address and 120 more listings elsewhere in Barnstable County. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
 **2 MassDEP-approved System Inspectors** list a Chatham address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Barnstable County inspectors below may also cover Chatham. Ask each one about availability and price.
 
 Selling a home with a septic system in Chatham? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Chatham Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Chatham Board of Health.
 
-## Inspectors based in Chatham (2)
+## Which Title 5 inspectors are based in Chatham, MA? (2)
+
+2 MassDEP-approved System Inspectors list a Chatham address on NEIWPCC's 10/2/2026 list.
 
 ✔ MassDEP-approved System Inspector
 
@@ -38,7 +42,9 @@ Chatham, MA
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3082)
 
-## Other inspectors in Barnstable County (120)
+## Which other Barnstable County Title 5 inspectors may cover Chatham? (120)
+
+120 more listings are elsewhere in Barnstable County. Inspectors often work across a region, so ask each one about availability and price.
 
 ✔ MassDEP-approved System Inspector
 
@@ -1733,7 +1739,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## More towns in Barnstable County
+## Which other Barnstable County towns have Title 5 inspector pages?
 
 [Barnstable](https://title5roster.com/town/barnstable-ma/) · [Sandwich](https://title5roster.com/town/sandwich-ma/) · [Falmouth](https://title5roster.com/town/falmouth-ma/) · [Bourne](https://title5roster.com/town/bourne-ma/) · [Dennis](https://title5roster.com/town/dennis-ma/) · [Yarmouth](https://title5roster.com/town/yarmouth-ma/)
 

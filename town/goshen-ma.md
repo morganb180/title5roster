@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in Goshen, MA: 1 Approved Inspector | Title 5 Roster"
-description: "1 MassDEP-approved Title 5 septic inspector list a Goshen address, plus 33 more listings in Hampshire County. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in Goshen, MA"
+description: "1 MassDEP-approved Title 5 septic inspector lists a Goshen address, plus 33 more listings in Hampshire County. Approval IDs and expiry dates from NEIWPCC."
 canonical: https://title5roster.com/town/goshen-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/goshen-ma/
 
 # Title 5 septic inspectors in Goshen, MA
 
-**1 MassDEP-approved System Inspector** list a Goshen address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Hampshire County inspectors below may also cover Goshen. Ask each one about availability and price.
+**Quick answer:** Selling a home with a septic system in Goshen? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Goshen Board of Health. Title 5 Roster lists 1 approved inspector with a Goshen address and 33 more listings elsewhere in Hampshire County. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
+**1 MassDEP-approved System Inspector** lists a Goshen address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Hampshire County inspectors below may also cover Goshen. Ask each one about availability and price.
 
 Selling a home with a septic system in Goshen? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Goshen Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Goshen Board of Health.
 
-## Inspectors based in Goshen (1)
+## Which Title 5 inspectors are based in Goshen, MA? (1)
+
+1 MassDEP-approved System Inspector lists a Goshen address on NEIWPCC's 10/2/2026 list.
 
 ✔ MassDEP-approved System Inspector
 
@@ -26,7 +30,9 @@ Goshen, MA
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14801)
 
-## Other inspectors in Hampshire County (33)
+## Which other Hampshire County Title 5 inspectors may cover Goshen? (33)
+
+33 more listings are elsewhere in Hampshire County. Inspectors often work across a region, so ask each one about availability and price.
 
 ✔ MassDEP-approved System Inspector
 
@@ -496,7 +502,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## More towns in Hampshire County
+## Which other Hampshire County towns have Title 5 inspector pages?
 
 [Southampton](https://title5roster.com/town/southampton-ma/) · [Granby](https://title5roster.com/town/granby-ma/) · [Hadley](https://title5roster.com/town/hadley-ma/) · [Ware](https://title5roster.com/town/ware-ma/) · [Belchertown](https://title5roster.com/town/belchertown-ma/) · [Chesterfield](https://title5roster.com/town/chesterfield-ma/)
 

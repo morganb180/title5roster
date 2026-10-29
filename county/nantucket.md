@@ -1,5 +1,5 @@
 ---
-title: "Title 5 Inspectors in Nantucket County, MA: 10 Approved Inspectors | Title 5 Roster"
+title: "Title 5 Septic Inspectors in Nantucket County, MA"
 description: "All MassDEP-approved Title 5 septic System Inspectors with an address in Nantucket County, Massachusetts, by town."
 canonical: https://title5roster.com/county/nantucket/
 ---
@@ -7,6 +7,8 @@ canonical: https://title5roster.com/county/nantucket/
 [Home](https://title5roster.com/) › [Counties](https://title5roster.com/counties/) › Nantucket County
 
 # Title 5 septic inspectors in Nantucket County, MA
+
+**Quick answer:** Title 5 Roster lists 10 MassDEP-approved System Inspectors (10 listings) with an address in 1 town in Nantucket County, from NEIWPCC's 10/2/2026 list. Inspectors often work across a region. Title 5 generally requires an inspection within 2 years before a sale (3 years with annual pumping), and the report goes to the local Board of Health.
 
 10 approved System Inspectors (10 listings) list an address in 1 Nantucket County towns.
 
@@ -138,7 +140,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## Neighboring counties
+## Which counties border Nantucket County, MA?
 
 [Dukes County](https://title5roster.com/county/dukes/)
 

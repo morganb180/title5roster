@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in Phillipston, MA: 2 Approved Inspectors | Title 5 Roster"
-description: "2 MassDEP-approved Title 5 septic inspectors list a Phillipston address, plus 183 more listings in Worcester County. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in Phillipston, MA"
+description: "2 MassDEP-approved Title 5 septic inspectors list a Phillipston address, plus 183 more listings in Worcester County. Approval IDs and expiry dates from NEIWPCC."
 canonical: https://title5roster.com/town/phillipston-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/phillipston-ma/
 
 # Title 5 septic inspectors in Phillipston, MA
 
+**Quick answer:** Selling a home with a septic system in Phillipston? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Phillipston Board of Health. Title 5 Roster lists 2 approved inspectors with a Phillipston address and 183 more listings elsewhere in Worcester County. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
 **2 MassDEP-approved System Inspectors** list a Phillipston address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Worcester County inspectors below may also cover Phillipston. Ask each one about availability and price.
 
 Selling a home with a septic system in Phillipston? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Phillipston Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Phillipston Board of Health.
 
-## Inspectors based in Phillipston (2)
+## Which Title 5 inspectors are based in Phillipston, MA? (2)
+
+2 MassDEP-approved System Inspectors list a Phillipston address on NEIWPCC's 10/2/2026 list.
 
 ✔ MassDEP-approved System Inspector
 
@@ -38,7 +42,9 @@ Phillipston, MA
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14689)
 
-## Other inspectors in Worcester County (183)
+## Which other Worcester County Title 5 inspectors may cover Phillipston? (183)
+
+183 more listings are elsewhere in Worcester County. Inspectors often work across a region, so ask each one about availability and price.
 
 ✔ MassDEP-approved System Inspector
 
@@ -2611,7 +2617,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## More towns in Worcester County
+## Which other Worcester County towns have Title 5 inspector pages?
 
 [Leominster](https://title5roster.com/town/leominster-ma/) · [Lunenburg](https://title5roster.com/town/lunenburg-ma/) · [Sutton](https://title5roster.com/town/sutton-ma/) · [Sterling](https://title5roster.com/town/sterling-ma/) · [Ashburnham](https://title5roster.com/town/ashburnham-ma/) · [Holden](https://title5roster.com/town/holden-ma/)
 

@@ -1,6 +1,6 @@
 ---
 title: "About Our Data | Title 5 Roster"
-description: "Where the listings come from, the source terms, and how the data was cleaned."
+description: "Where Title 5 Roster data comes from: NEIWPCC's list of MassDEP-approved System Inspectors, how we match towns and counties, and retrieval dates."
 canonical: https://title5roster.com/about-our-data/
 ---
 

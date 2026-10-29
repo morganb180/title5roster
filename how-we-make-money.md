@@ -1,6 +1,6 @@
 ---
 title: "How We Make Money | Title 5 Roster"
-description: "How Title 5 Roster is funded today and later, and the rules for labeled paid placements."
+description: "How Title 5 Roster is funded today and in future, and our rules for clearly labelled paid placements next to the full free list of approved inspectors."
 canonical: https://title5roster.com/how-we-make-money/
 ---
 

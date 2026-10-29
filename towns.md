@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Septic Inspectors by Massachusetts Town | Title 5 Roster"
-description: "Browse MassDEP-approved Title 5 System Inspectors by the town on their approval record."
+title: "Title 5 Septic Inspectors by Massachusetts Town"
+description: "Browse 277 Massachusetts towns for MassDEP-approved Title 5 septic System Inspectors, with approval IDs and expiry dates from NEIWPCC's official list."
 canonical: https://title5roster.com/towns/
 ---
 

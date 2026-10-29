@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in Hingham, MA: 6 Approved Inspectors | Title 5 Roster"
-description: "6 MassDEP-approved Title 5 septic inspectors list a Hingham address, plus 154 more listings in Plymouth County. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in Hingham, MA"
+description: "6 MassDEP-approved Title 5 septic inspectors list a Hingham address, plus 154 more listings in Plymouth County. Approval IDs and expiry dates from NEIWPCC."
 canonical: https://title5roster.com/town/hingham-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/hingham-ma/
 
 # Title 5 septic inspectors in Hingham, MA
 
+**Quick answer:** Selling a home with a septic system in Hingham? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Hingham Board of Health. Title 5 Roster lists 6 approved inspectors with a Hingham address and 154 more listings elsewhere in Plymouth County. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
 **6 MassDEP-approved System Inspectors** list a Hingham address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Plymouth County inspectors below may also cover Hingham. Ask each one about availability and price.
 
 Selling a home with a septic system in Hingham? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Hingham Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Hingham Board of Health.
 
-## Inspectors based in Hingham (6)
+## Which Title 5 inspectors are based in Hingham, MA? (6)
+
+6 MassDEP-approved System Inspectors list a Hingham address on NEIWPCC's 10/2/2026 list.
 
 ✔ MassDEP-approved System Inspector
 
@@ -86,7 +90,9 @@ Hingham, MA
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1432)
 
-## Other inspectors in Plymouth County (154)
+## Which other Plymouth County Title 5 inspectors may cover Hingham? (154)
+
+154 more listings are elsewhere in Plymouth County. Inspectors often work across a region, so ask each one about availability and price.
 
 ✔ MassDEP-approved System Inspector
 
@@ -2256,7 +2262,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## More towns in Plymouth County
+## Which other Plymouth County towns have Title 5 inspector pages?
 
 [Plymouth](https://title5roster.com/town/plymouth-ma/) · [Middleborough](https://title5roster.com/town/middleborough-ma/) · [Wareham](https://title5roster.com/town/wareham-ma/) · [Pembroke](https://title5roster.com/town/pembroke-ma/) · [Hanover](https://title5roster.com/town/hanover-ma/) · [Lakeville](https://title5roster.com/town/lakeville-ma/)
 

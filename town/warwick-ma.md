@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in Warwick, MA: 2 Approved Inspectors | Title 5 Roster"
-description: "2 MassDEP-approved Title 5 septic inspectors list a Warwick address, plus 25 more listings in Franklin County. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in Warwick, MA"
+description: "2 MassDEP-approved Title 5 septic inspectors list a Warwick address, plus 25 more listings in Franklin County. Approval IDs and expiry dates from NEIWPCC."
 canonical: https://title5roster.com/town/warwick-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/warwick-ma/
 
 # Title 5 septic inspectors in Warwick, MA
 
+**Quick answer:** Selling a home with a septic system in Warwick? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Warwick Board of Health. Title 5 Roster lists 2 approved inspectors with a Warwick address and 25 more listings elsewhere in Franklin County. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
 **2 MassDEP-approved System Inspectors** list a Warwick address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Franklin County inspectors below may also cover Warwick. Ask each one about availability and price.
 
 Selling a home with a septic system in Warwick? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Warwick Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Warwick Board of Health.
 
-## Inspectors based in Warwick (2)
+## Which Title 5 inspectors are based in Warwick, MA? (2)
+
+2 MassDEP-approved System Inspectors list a Warwick address on NEIWPCC's 10/2/2026 list.
 
 ✔ MassDEP-approved System Inspector
 
@@ -38,7 +42,9 @@ Warwick, MA
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13468)
 
-## Other inspectors in Franklin County (25)
+## Which other Franklin County Title 5 inspectors may cover Warwick? (25)
+
+25 more listings are elsewhere in Franklin County. Inspectors often work across a region, so ask each one about availability and price.
 
 ✔ MassDEP-approved System Inspector
 
@@ -398,7 +404,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## More towns in Franklin County
+## Which other Franklin County towns have Title 5 inspector pages?
 
 [Deerfield](https://title5roster.com/town/deerfield-ma/) · [Orange](https://title5roster.com/town/orange-ma/) · [Ashfield](https://title5roster.com/town/ashfield-ma/) · [Montague](https://title5roster.com/town/montague-ma/) · [Northfield](https://title5roster.com/town/northfield-ma/) · [Colrain](https://title5roster.com/town/colrain-ma/)
 

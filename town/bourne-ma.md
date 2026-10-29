@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in Bourne, MA: 14 Approved Inspectors | Title 5 Roster"
-description: "14 MassDEP-approved Title 5 septic inspectors list a Bourne address, plus 109 more listings in Barnstable County. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in Bourne, MA"
+description: "14 MassDEP-approved Title 5 septic inspectors list a Bourne address, plus 109 more listings in Barnstable County. Approval IDs and expiry dates from NEIWPCC."
 canonical: https://title5roster.com/town/bourne-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/bourne-ma/
 
 # Title 5 septic inspectors in Bourne, MA
 
+**Quick answer:** Selling a home with a septic system in Bourne? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Bourne Board of Health. Title 5 Roster lists 14 approved inspectors with a Bourne address (13 listings) and 109 more listings elsewhere in Barnstable County. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
 **14 MassDEP-approved System Inspectors** list a Bourne address on NEIWPCC's 10/2/2026 list, grouped into 13 listings. Inspectors often work across a region, so the Barnstable County inspectors below may also cover Bourne. Ask each one about availability and price.
 
 Selling a home with a septic system in Bourne? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Bourne Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Bourne Board of Health.
 
-## Inspectors based in Bourne (13)
+## Which Title 5 inspectors are based in Bourne, MA? (13)
+
+14 MassDEP-approved System Inspectors list a Bourne address on NEIWPCC's 10/2/2026 list, grouped into 13 listings.
 
 ✔ MassDEP-approved System Inspector
 
@@ -171,7 +175,9 @@ Bourne, MA (listed as Buzzards Bay)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4000)
 
-## Other inspectors in Barnstable County (109)
+## Which other Barnstable County Title 5 inspectors may cover Bourne? (109)
+
+109 more listings are elsewhere in Barnstable County. Inspectors often work across a region, so ask each one about availability and price.
 
 ✔ MassDEP-approved System Inspector
 
@@ -1711,7 +1717,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## More towns in Barnstable County
+## Which other Barnstable County towns have Title 5 inspector pages?
 
 [Barnstable](https://title5roster.com/town/barnstable-ma/) · [Sandwich](https://title5roster.com/town/sandwich-ma/) · [Falmouth](https://title5roster.com/town/falmouth-ma/) · [Dennis](https://title5roster.com/town/dennis-ma/) · [Yarmouth](https://title5roster.com/town/yarmouth-ma/) · [Harwich](https://title5roster.com/town/harwich-ma/)
 

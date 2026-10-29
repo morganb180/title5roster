@@ -1,5 +1,5 @@
 ---
-title: "Selling a Massachusetts Home with a Septic System: Title 5 Guide | Title 5 Roster"
+title: "Selling a Massachusetts Home with Septic: Title 5 Guide"
 description: "Seller's checklist: when to inspect, choosing an approved System Inspector, what happens on a conditional pass or failure, and exemptions."
 canonical: https://title5roster.com/sellers-guide/
 ---
@@ -25,6 +25,6 @@ You must upgrade within 2 years even if you don't sell. Many sellers fix it befo
 
 Sources: [Mass.gov: Buying or Selling Property with a Septic System](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system) and [310 CMR 15.000 (Title 5)](https://www.mass.gov/regulations/310-CMR-1500-the-state-environmental-code-title-5), sections 15.300-15.305. Retrieved 2026-10-12. General information, not legal advice; local Boards of Health can have stricter rules.
 
-## Find an approved inspector
+## How do I find a MassDEP-approved Title 5 inspector?
 
 [Browse all towns](https://title5roster.com/towns/) · [Browse by county](https://title5roster.com/counties/) · [Plymouth](https://title5roster.com/town/plymouth-ma/) · [Barnstable](https://title5roster.com/town/barnstable-ma/) · [Middleborough](https://title5roster.com/town/middleborough-ma/) · [Sandwich](https://title5roster.com/town/sandwich-ma/) · [Bourne](https://title5roster.com/town/bourne-ma/) · [Falmouth](https://title5roster.com/town/falmouth-ma/)

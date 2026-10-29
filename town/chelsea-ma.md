@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in Chelsea, MA: 1 Approved Inspector | Title 5 Roster"
-description: "1 MassDEP-approved Title 5 septic inspector list a Chelsea address, plus 4 more listings in Suffolk County. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in Chelsea, MA"
+description: "1 MassDEP-approved Title 5 septic inspector lists a Chelsea address, plus 4 more listings in Suffolk County. Approval IDs and expiry dates from NEIWPCC."
 canonical: https://title5roster.com/town/chelsea-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/chelsea-ma/
 
 # Title 5 septic inspectors in Chelsea, MA
 
-**1 MassDEP-approved System Inspector** list a Chelsea address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Suffolk County inspectors below may also cover Chelsea. Ask each one about availability and price.
+**Quick answer:** Selling a home with a septic system in Chelsea? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Chelsea Board of Health. Title 5 Roster lists 1 approved inspector with a Chelsea address and 4 more listings elsewhere in Suffolk County. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
+**1 MassDEP-approved System Inspector** lists a Chelsea address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Suffolk County inspectors below may also cover Chelsea. Ask each one about availability and price.
 
 Selling a home with a septic system in Chelsea? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Chelsea Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Chelsea Board of Health.
 
-## Inspectors based in Chelsea (1)
+## Which Title 5 inspectors are based in Chelsea, MA? (1)
+
+1 MassDEP-approved System Inspector lists a Chelsea address on NEIWPCC's 10/2/2026 list.
 
 ✔ MassDEP-approved System Inspector
 
@@ -26,7 +30,9 @@ Chelsea, MA
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15001)
 
-## Other inspectors in Suffolk County (4)
+## Which other Suffolk County Title 5 inspectors may cover Chelsea? (4)
+
+4 more listings are elsewhere in Suffolk County. Inspectors often work across a region, so ask each one about availability and price.
 
 ✔ MassDEP-approved System Inspector
 
@@ -90,7 +96,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## More towns in Suffolk County
+## Which other Suffolk County towns have Title 5 inspector pages?
 
 [Boston](https://title5roster.com/town/boston-ma/)
 

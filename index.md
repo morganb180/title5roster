@@ -1,10 +1,12 @@
 ---
-title: "Title 5 Roster: MassDEP-Approved Septic System Inspectors by Town"
+title: "Title 5 Roster | MassDEP-Approved Septic Inspectors by Town"
 description: "Find MassDEP-approved Title 5 septic System Inspectors by Massachusetts town, and learn what Title 5 requires when you buy or sell."
 canonical: https://title5roster.com/
 ---
 
-# Find a MassDEP-approved Title 5 septic inspector
+# Title 5 Roster: find a MassDEP-approved Title 5 septic inspector in Massachusetts
+
+Title 5 Roster is a free directory of MassDEP-approved Title 5 septic System Inspectors in Massachusetts, organized by town, with plain-language guides to septic inspections at property transfer.
 
 DRAFT. 1139 approved System Inspectors in 1104 listings, from NEIWPCC's list of MassDEP-approved inspectors (current 10/2/2026). Inspectors employed by boards of health or MassDEP are left out because they generally act as regulators, not private hires.
 

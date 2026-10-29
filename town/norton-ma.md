@@ -1,6 +1,6 @@
 ---
-title: "Title 5 Inspectors in Norton, MA: 6 Approved Inspectors | Title 5 Roster"
-description: "6 MassDEP-approved Title 5 septic inspectors list a Norton address, plus 101 more listings in Bristol County. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+title: "Title 5 Septic Inspectors in Norton, MA"
+description: "6 MassDEP-approved Title 5 septic inspectors list a Norton address, plus 101 more listings in Bristol County. Approval IDs and expiry dates from NEIWPCC."
 canonical: https://title5roster.com/town/norton-ma/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://title5roster.com/town/norton-ma/
 
 # Title 5 septic inspectors in Norton, MA
 
+**Quick answer:** Selling a home with a septic system in Norton? Title 5 generally requires an inspection by a MassDEP-approved System Inspector within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Norton Board of Health. Title 5 Roster lists 6 approved inspectors with a Norton address and 101 more listings elsewhere in Bristol County. Published 2026 estimates put the inspection alone at $300–$900; pumping is often extra.
+
 **6 MassDEP-approved System Inspectors** list a Norton address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Bristol County inspectors below may also cover Norton. Ask each one about availability and price.
 
 Selling a home with a septic system in Norton? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Norton Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Norton Board of Health.
 
-## Inspectors based in Norton (6)
+## Which Title 5 inspectors are based in Norton, MA? (6)
+
+6 MassDEP-approved System Inspectors list a Norton address on NEIWPCC's 10/2/2026 list.
 
 ✔ MassDEP-approved System Inspector
 
@@ -86,7 +90,9 @@ Norton, MA
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13382)
 
-## Other inspectors in Bristol County (101)
+## Which other Bristol County Title 5 inspectors may cover Norton? (101)
+
+101 more listings are elsewhere in Bristol County. Inspectors often work across a region, so ask each one about availability and price.
 
 ✔ MassDEP-approved System Inspector
 
@@ -1513,7 +1519,7 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
-## More towns in Bristol County
+## Which other Bristol County towns have Title 5 inspector pages?
 
 [Attleboro](https://title5roster.com/town/attleboro-ma/) · [Westport](https://title5roster.com/town/westport-ma/) · [Easton](https://title5roster.com/town/easton-ma/) · [Taunton](https://title5roster.com/town/taunton-ma/) · [Rehoboth](https://title5roster.com/town/rehoboth-ma/) · [Freetown](https://title5roster.com/town/freetown-ma/)
 

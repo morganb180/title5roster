@@ -1,6 +1,6 @@
 ---
 title: "Out-of-State Title 5 System Inspectors | Title 5 Roster"
-description: "MassDEP-approved Title 5 System Inspectors with addresses outside Massachusetts."
+description: "MassDEP-approved Title 5 System Inspectors whose listed address is outside Massachusetts, with approval IDs and expiry dates from NEIWPCC's list."
 canonical: https://title5roster.com/out-of-state/
 ---
 
