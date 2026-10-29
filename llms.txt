@@ -1,0 +1,29 @@
+# Title 5 Roster
+
+> Title 5 Roster is a free directory of MassDEP-approved Title 5 septic System Inspectors in Massachusetts, organized by town, with plain-language guides to septic inspections at property transfer.
+
+It is for Massachusetts home buyers, sellers, agents and attorneys who need a Title 5 inspection, and for inspectors who want to claim or correct their listing. Listings come from NEIWPCC's public lists of MassDEP-approved System Inspectors (current 10/2/2026). Inspectors employed by town boards of health or MassDEP are not listed as hireable. Every page has a Markdown version: replace the trailing slash with `.md` (home: https://title5roster.com/index.md).
+
+## Directory
+- [Title 5 Septic Inspectors by Massachusetts Town](https://title5roster.com/towns/): inspectors by town
+- [Title 5 Septic Inspectors by Massachusetts County](https://title5roster.com/counties/)
+- [Out-of-State Title 5 System Inspectors](https://title5roster.com/out-of-state/)
+
+## Guides
+- [Title 5 Septic Inspection at Sale: What Massachusetts Requires](https://title5roster.com/title-5-inspection/): what's required at transfer
+- [Buying a Massachusetts Home with a Septic System: Title 5 Guide](https://title5roster.com/buyers-guide/)
+- [Selling a Massachusetts Home with a Septic System: Title 5 Guide](https://title5roster.com/sellers-guide/)
+- [Title 5 Inspection Cost in Massachusetts: Prices, Pumping, Repairs and Tax Credit](https://title5roster.com/title-5-inspection-cost/): estimates
+
+## About
+- [About Title 5 Roster](https://title5roster.com/about/)
+- [About Our Data](https://title5roster.com/about-our-data/): sources, terms, cleanup
+- [How We Verify Listings](https://title5roster.com/how-we-verify/): verification steps and dates
+- [List, Claim, Correct or Remove a Listing](https://title5roster.com/list-your-business/): claim/correct/remove
+- [How We Make Money](https://title5roster.com/how-we-make-money/)
+- [Contact](https://title5roster.com/contact/)
+- [Privacy Policy](https://title5roster.com/privacy/): draft
+
+## Optional
+- [llms-full.txt](https://title5roster.com/llms-full.txt): every page on the site
+- [Sitemap](https://title5roster.com/sitemap.xml)

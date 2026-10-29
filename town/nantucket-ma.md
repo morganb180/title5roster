@@ -1,0 +1,145 @@
+---
+title: "Title 5 Inspectors in Nantucket, MA: 10 Approved Inspectors | Title 5 Roster"
+description: "10 MassDEP-approved Title 5 septic inspectors list a Nantucket address. Inspection estimate about $500-$800. Approval IDs and expiry dates from NEIWPCC's 10/2/2026 list."
+canonical: https://title5roster.com/town/nantucket-ma/
+---
+
+[Home](https://title5roster.com/) › [Towns](https://title5roster.com/towns/) › Nantucket
+
+# Title 5 septic inspectors in Nantucket, MA
+
+**10 MassDEP-approved System Inspectors** list a Nantucket address on NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so the Nantucket County inspectors below may also cover Nantucket. Ask each one about availability and price.
+
+Selling a home with a septic system in Nantucket? Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Nantucket Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Nantucket Board of Health.
+
+## Inspectors based in Nantucket (10)
+
+✔ MassDEP-approved System Inspector
+
+### Island Surveyors, LLC
+
+Nantucket, MA
+
+1 approved inspector
+
+* Edward F. King, Jr (SI #3007, approval expires 2028-06-30)
+
+No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3007)
+
+✔ MassDEP-approved System Inspector
+
+### Nantucket Engineering & Survey, P.C.
+
+Nantucket, MA
+
+1 approved inspector
+
+* Arthur D. Gasbarro, III (SI #3006, approval expires 2028-06-30)
+
+No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3006)
+
+✔ MassDEP-approved System Inspector
+
+### Visco Pumping, Inc.
+
+Nantucket, MA
+
+1 approved inspector
+
+* Stephen J. Visco (SI #240, approval expires 2028-06-30)
+
+No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T240)
+
+✔ MassDEP-approved System Inspector
+
+### Christopher M. Gould
+
+Nantucket, MA
+
+1 approved inspector
+
+* Christopher M. Gould (SI #15061, approval expires 2028-08-01)
+
+No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15061)
+
+✔ MassDEP-approved System Inspector
+
+### Christopher Oberg
+
+Nantucket, MA
+
+1 approved inspector
+
+* Christopher Oberg (SI #14988, approval expires 2028-02-01)
+
+No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14988)
+
+✔ MassDEP-approved System Inspector
+
+### David Visco
+
+Nantucket, MA
+
+1 approved inspector
+
+* David Visco (SI #13236, approval expires 2028-06-30)
+
+No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13236)
+
+✔ MassDEP-approved System Inspector
+
+### Gordon Fraser
+
+Nantucket, MA
+
+1 approved inspector
+
+* Gordon Fraser (SI #15136, approval expires 2029-01-01)
+
+No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15136)
+
+✔ MassDEP-approved System Inspector
+
+### John Hedden
+
+Nantucket, MA
+
+1 approved inspector
+
+* John Hedden (SI #14536, approval expires 2027-06-30)
+
+No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14536)
+
+✔ MassDEP-approved System Inspector
+
+### Oscar Waldman
+
+Nantucket, MA
+
+1 approved inspector
+
+* Oscar Waldman (SI #15213, approval expires 2029-07-01)
+
+No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15213)
+
+✔ MassDEP-approved System Inspector
+
+### Roque Miramontes Jr.
+
+Nantucket, MA
+
+1 approved inspector
+
+* Roque Miramontes Jr. (SI #15015, approval expires 2028-05-01)
+
+No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15015)
+
+[All Nantucket County inspectors →](https://title5roster.com/county/nantucket/)
+
+[How Title 5 inspections work →](https://title5roster.com/title-5-inspection/) · [Buyer's guide](https://title5roster.com/buyers-guide/) · [Seller's guide](https://title5roster.com/sellers-guide/) · [Cost estimates](https://title5roster.com/title-5-inspection-cost/)
+
+Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
+
+## Title 5 guides
+
+[Title 5 explained](https://title5roster.com/title-5-inspection/) · [Seller's guide](https://title5roster.com/sellers-guide/) · [Buyer's guide](https://title5roster.com/buyers-guide/) · [Inspection cost](https://title5roster.com/title-5-inspection-cost/)
