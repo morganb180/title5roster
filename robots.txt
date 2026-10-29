@@ -1,5 +1,4 @@
-# Title 5 Roster (DRAFT): AI agents and crawlers are welcome. Markdown: /llms.txt, /llms-full.txt and a .md twin of every page.
-# Pages carry <meta name=robots content=noindex> until launch.
+# Title 5 Roster: AI agents and crawlers are welcome. Markdown: /llms.txt, /llms-full.txt and a .md twin of every page.
 
 User-agent: GPTBot
 Allow: /

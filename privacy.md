@@ -25,7 +25,7 @@ Listings come from public licensing or certification records (see [About our dat
 
 ## Your choices
 
-To ask what we hold about you, or to delete it, email [hello@title5roster.com (placeholder)](mailto:hello@title5roster.com (placeholder)).
+To ask what we hold about you, or to delete it, email [hello@title5roster.com](mailto:hello@title5roster.com).
 
 ## Changes
 

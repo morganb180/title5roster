@@ -10,7 +10,7 @@ Title 5 Roster is a small independent directory and guide. We read every message
 
 ## Email
 
-[hello@title5roster.com (placeholder)](mailto:hello@title5roster.com (placeholder)): questions, data corrections and advertising. When writing about a specific listing, please include its listing ID (for example the inspector's name).
+[hello@title5roster.com](mailto:hello@title5roster.com): questions, data corrections and advertising. When writing about a specific listing, please include its listing ID (for example the inspector's name).
 
 ## Listings
 
