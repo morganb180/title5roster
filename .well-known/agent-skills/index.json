@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "title-5-roster-find-firms",
+      "type": "skill-md",
+      "description": "Find MassDEP-approved Title 5 System Inspectors on Title 5 Roster by city/town or county, with credentials and links to each listing.",
+      "url": "https://title5roster.com/.well-known/agent-skills/title-5-roster-find-firms/SKILL.md",
+      "digest": "sha256:c6cdb65a4f3ac3146fa60a390938c6b748037bb696c899447f6538598ee60be2"
+    }
+  ]
+}

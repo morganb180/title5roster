@@ -1,0 +1,156 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/v1/server-card.schema.json",
+  "name": "com.title5roster/directory",
+  "title": "Title 5 Roster directory",
+  "version": "1.0.0",
+  "description": "Search MassDEP-approved Title 5 System Inspectors.",
+  "websiteUrl": "https://title5roster.com/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://leads.radonroster.com/mcp?site=title5"
+    }
+  ],
+  "protocolVersion": "2025-06-18",
+  "serverInfo": {
+    "name": "title-5-roster-directory",
+    "title": "Title 5 Roster directory",
+    "version": "1.0.0"
+  },
+  "transport": {
+    "type": "streamable-http",
+    "endpoint": "https://leads.radonroster.com/mcp?site=title5"
+  },
+  "authentication": {
+    "required": false
+  },
+  "capabilities": {
+    "tools": {
+      "listChanged": false
+    }
+  },
+  "tools": [
+    {
+      "name": "search_firms",
+      "title": "Search certified firms",
+      "description": "Search the directory's certified/licensed firms near a US ZIP code, or in a city or county listed on the site. Returns public listing data only (name, credential, services, location, firm page and quote URLs). Use list_areas to find valid city/county slugs.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "site": {
+            "type": "string",
+            "enum": [
+              "radon",
+              "leadpaint",
+              "mnhome",
+              "mold",
+              "njhome",
+              "title5",
+              "eastbay"
+            ],
+            "description": "Directory to search (defaults to the site in the endpoint URL)."
+          },
+          "zip": {
+            "type": "string",
+            "pattern": "^\\d{5}$",
+            "description": "5-digit ZIP (supported on radon, leadpaint and mnhome)."
+          },
+          "city": {
+            "type": "string",
+            "description": "City/town name or slug as listed on the site."
+          },
+          "county": {
+            "type": "string",
+            "description": "County name or slug as listed on the site."
+          },
+          "state": {
+            "type": "string",
+            "description": "2-letter state, needed with city/county on multi-state sites (leadpaint, mold)."
+          },
+          "service": {
+            "type": "string",
+            "description": "Service code (see the site's openapi.json / list_areas)."
+          },
+          "limit": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 50,
+            "default": 10
+          }
+        }
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "get_firm",
+      "title": "Get one firm",
+      "description": "Get the public listing for one firm by its directory id (e.g. F2303, NJ0143, SL4422).",
+      "inputSchema": {
+        "type": "object",
+        "required": [
+          "id"
+        ],
+        "properties": {
+          "site": {
+            "type": "string",
+            "enum": [
+              "radon",
+              "leadpaint",
+              "mnhome",
+              "mold",
+              "njhome",
+              "title5",
+              "eastbay"
+            ]
+          },
+          "id": {
+            "type": "string"
+          }
+        }
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "list_areas",
+      "title": "List areas and services",
+      "description": "List the counties and cities that have listing pages on the directory (with slugs and firm counts) and the valid service codes.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "site": {
+            "type": "string",
+            "enum": [
+              "radon",
+              "leadpaint",
+              "mnhome",
+              "mold",
+              "njhome",
+              "title5",
+              "eastbay"
+            ]
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "county",
+              "city",
+              "all"
+            ],
+            "default": "all"
+          }
+        }
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "openWorldHint": false
+      }
+    }
+  ],
+  "documentation": "https://title5roster.com/openapi.json"
+}

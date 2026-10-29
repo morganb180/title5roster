@@ -1,0 +1,2678 @@
+{
+  "$comment": "Agent-facing feeds for Title 5 Roster",
+  "site": "title5",
+  "name": "Title 5 Roster",
+  "url": "https://title5roster.com/",
+  "description": "Public listing data for MassDEP-approved Title 5 System Inspectors.",
+  "generated": "2026-10-29",
+  "last_updated": "2026-10-12",
+  "data_source": {
+    "description": "Official licence/certification records as published on the site; each firm record has its own source URL and retrieval date.",
+    "sources": [
+      {
+        "url": "https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf",
+        "agency": "Massachusetts Department of Environmental Protection (MassDEP); list published by NEIWPCC",
+        "retrieved": "2026-10-12",
+        "firms": 1053
+      },
+      {
+        "url": "https://neiwpcc.org/wp-content/uploads/2026/10/SI-Outstate-10.2.2026.pdf",
+        "agency": "Massachusetts Department of Environmental Protection (MassDEP); list published by NEIWPCC",
+        "retrieved": "2026-10-12",
+        "firms": 51
+      }
+    ]
+  },
+  "attribution": "Listing data from Title 5 Roster (https://title5roster.com/), built from public licence records. Not an endorsement.",
+  "counts": {
+    "firms": 1104,
+    "counties": 14,
+    "cities": 277,
+    "states": 0
+  },
+  "services": [
+    {
+      "code": "title5_inspection",
+      "label": "MassDEP-approved System Inspector"
+    }
+  ],
+  "fields_excluded": "Phone, email and street address are not included; see each firm_url.",
+  "endpoints": {
+    "firms": "https://title5roster.com/api/firms.json",
+    "county": "https://title5roster.com/api/county/{slug}.json",
+    "city": "https://title5roster.com/api/city/{slug}.json",
+    "state": null,
+    "search": "https://leads.radonroster.com/api/firms?site=title5",
+    "quote": null,
+    "mcp": "https://leads.radonroster.com/mcp?site=title5",
+    "openapi": "https://title5roster.com/openapi.json",
+    "api_catalog": "https://title5roster.com/.well-known/api-catalog"
+  },
+  "search_by_zip": false,
+  "quote_requests": false,
+  "states": [],
+  "counties": [
+    {
+      "slug": "barnstable",
+      "name": "Title 5 septic inspectors in Barnstable County, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/county/barnstable/",
+      "feed": "https://title5roster.com/api/county/barnstable.json",
+      "count": 122,
+      "local_count": 122
+    },
+    {
+      "slug": "berkshire",
+      "name": "Title 5 septic inspectors in Berkshire County, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/county/berkshire/",
+      "feed": "https://title5roster.com/api/county/berkshire.json",
+      "count": 55,
+      "local_count": 55
+    },
+    {
+      "slug": "bristol",
+      "name": "Title 5 septic inspectors in Bristol County, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/county/bristol/",
+      "feed": "https://title5roster.com/api/county/bristol.json",
+      "count": 107,
+      "local_count": 107
+    },
+    {
+      "slug": "dukes",
+      "name": "Title 5 septic inspectors in Dukes County, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/county/dukes/",
+      "feed": "https://title5roster.com/api/county/dukes.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "essex",
+      "name": "Title 5 septic inspectors in Essex County, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/county/essex/",
+      "feed": "https://title5roster.com/api/county/essex.json",
+      "count": 74,
+      "local_count": 74
+    },
+    {
+      "slug": "franklin",
+      "name": "Title 5 septic inspectors in Franklin County, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/county/franklin/",
+      "feed": "https://title5roster.com/api/county/franklin.json",
+      "count": 27,
+      "local_count": 27
+    },
+    {
+      "slug": "hampden",
+      "name": "Title 5 septic inspectors in Hampden County, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/county/hampden/",
+      "feed": "https://title5roster.com/api/county/hampden.json",
+      "count": 49,
+      "local_count": 49
+    },
+    {
+      "slug": "hampshire",
+      "name": "Title 5 septic inspectors in Hampshire County, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/county/hampshire/",
+      "feed": "https://title5roster.com/api/county/hampshire.json",
+      "count": 34,
+      "local_count": 34
+    },
+    {
+      "slug": "middlesex",
+      "name": "Title 5 septic inspectors in Middlesex County, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/county/middlesex/",
+      "feed": "https://title5roster.com/api/county/middlesex.json",
+      "count": 143,
+      "local_count": 143
+    },
+    {
+      "slug": "nantucket",
+      "name": "Title 5 septic inspectors in Nantucket County, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/county/nantucket/",
+      "feed": "https://title5roster.com/api/county/nantucket.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "norfolk",
+      "name": "Title 5 septic inspectors in Norfolk County, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/county/norfolk/",
+      "feed": "https://title5roster.com/api/county/norfolk.json",
+      "count": 71,
+      "local_count": 71
+    },
+    {
+      "slug": "plymouth",
+      "name": "Title 5 septic inspectors in Plymouth County, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/county/plymouth/",
+      "feed": "https://title5roster.com/api/county/plymouth.json",
+      "count": 160,
+      "local_count": 160
+    },
+    {
+      "slug": "suffolk",
+      "name": "Title 5 septic inspectors in Suffolk County, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/county/suffolk/",
+      "feed": "https://title5roster.com/api/county/suffolk.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "worcester",
+      "name": "Title 5 septic inspectors in Worcester County, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/county/worcester/",
+      "feed": "https://title5roster.com/api/county/worcester.json",
+      "count": 185,
+      "local_count": 185
+    }
+  ],
+  "cities": [
+    {
+      "slug": "abington-ma",
+      "name": "Title 5 septic inspectors in Abington, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/abington-ma/",
+      "feed": "https://title5roster.com/api/city/abington-ma.json",
+      "count": 160,
+      "local_count": 1
+    },
+    {
+      "slug": "acton-ma",
+      "name": "Title 5 septic inspectors in Acton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/acton-ma/",
+      "feed": "https://title5roster.com/api/city/acton-ma.json",
+      "count": 143,
+      "local_count": 7
+    },
+    {
+      "slug": "acushnet-ma",
+      "name": "Title 5 septic inspectors in Acushnet, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/acushnet-ma/",
+      "feed": "https://title5roster.com/api/city/acushnet-ma.json",
+      "count": 107,
+      "local_count": 4
+    },
+    {
+      "slug": "adams-ma",
+      "name": "Title 5 septic inspectors in Adams, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/adams-ma/",
+      "feed": "https://title5roster.com/api/city/adams-ma.json",
+      "count": 55,
+      "local_count": 1
+    },
+    {
+      "slug": "agawam-ma",
+      "name": "Title 5 septic inspectors in Agawam, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/agawam-ma/",
+      "feed": "https://title5roster.com/api/city/agawam-ma.json",
+      "count": 49,
+      "local_count": 3
+    },
+    {
+      "slug": "amesbury-ma",
+      "name": "Title 5 septic inspectors in Amesbury, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/amesbury-ma/",
+      "feed": "https://title5roster.com/api/city/amesbury-ma.json",
+      "count": 74,
+      "local_count": 2
+    },
+    {
+      "slug": "andover-ma",
+      "name": "Title 5 septic inspectors in Andover, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/andover-ma/",
+      "feed": "https://title5roster.com/api/city/andover-ma.json",
+      "count": 74,
+      "local_count": 4
+    },
+    {
+      "slug": "ashburnham-ma",
+      "name": "Title 5 septic inspectors in Ashburnham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/ashburnham-ma/",
+      "feed": "https://title5roster.com/api/city/ashburnham-ma.json",
+      "count": 185,
+      "local_count": 6
+    },
+    {
+      "slug": "ashby-ma",
+      "name": "Title 5 septic inspectors in Ashby, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/ashby-ma/",
+      "feed": "https://title5roster.com/api/city/ashby-ma.json",
+      "count": 143,
+      "local_count": 1
+    },
+    {
+      "slug": "ashfield-ma",
+      "name": "Title 5 septic inspectors in Ashfield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/ashfield-ma/",
+      "feed": "https://title5roster.com/api/city/ashfield-ma.json",
+      "count": 27,
+      "local_count": 4
+    },
+    {
+      "slug": "athol-ma",
+      "name": "Title 5 septic inspectors in Athol, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/athol-ma/",
+      "feed": "https://title5roster.com/api/city/athol-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "attleboro-ma",
+      "name": "Title 5 septic inspectors in Attleboro, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/attleboro-ma/",
+      "feed": "https://title5roster.com/api/city/attleboro-ma.json",
+      "count": 107,
+      "local_count": 10
+    },
+    {
+      "slug": "auburn-ma",
+      "name": "Title 5 septic inspectors in Auburn, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/auburn-ma/",
+      "feed": "https://title5roster.com/api/city/auburn-ma.json",
+      "count": 185,
+      "local_count": 2
+    },
+    {
+      "slug": "avington-ma",
+      "name": "Title 5 septic inspectors in Avington, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/avington-ma/",
+      "feed": "https://title5roster.com/api/city/avington-ma.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "avon-ma",
+      "name": "Title 5 septic inspectors in Avon, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/avon-ma/",
+      "feed": "https://title5roster.com/api/city/avon-ma.json",
+      "count": 71,
+      "local_count": 1
+    },
+    {
+      "slug": "ayer-ma",
+      "name": "Title 5 septic inspectors in Ayer, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/ayer-ma/",
+      "feed": "https://title5roster.com/api/city/ayer-ma.json",
+      "count": 143,
+      "local_count": 6
+    },
+    {
+      "slug": "barnstable-ma",
+      "name": "Title 5 septic inspectors in Barnstable, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/barnstable-ma/",
+      "feed": "https://title5roster.com/api/city/barnstable-ma.json",
+      "count": 122,
+      "local_count": 17
+    },
+    {
+      "slug": "barre-ma",
+      "name": "Title 5 septic inspectors in Barre, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/barre-ma/",
+      "feed": "https://title5roster.com/api/city/barre-ma.json",
+      "count": 185,
+      "local_count": 2
+    },
+    {
+      "slug": "becket-ma",
+      "name": "Title 5 septic inspectors in Becket, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/becket-ma/",
+      "feed": "https://title5roster.com/api/city/becket-ma.json",
+      "count": 55,
+      "local_count": 1
+    },
+    {
+      "slug": "bedford-ma",
+      "name": "Title 5 septic inspectors in Bedford, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/bedford-ma/",
+      "feed": "https://title5roster.com/api/city/bedford-ma.json",
+      "count": 143,
+      "local_count": 1
+    },
+    {
+      "slug": "belchertown-ma",
+      "name": "Title 5 septic inspectors in Belchertown, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/belchertown-ma/",
+      "feed": "https://title5roster.com/api/city/belchertown-ma.json",
+      "count": 34,
+      "local_count": 4
+    },
+    {
+      "slug": "bellingham-ma",
+      "name": "Title 5 septic inspectors in Bellingham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/bellingham-ma/",
+      "feed": "https://title5roster.com/api/city/bellingham-ma.json",
+      "count": 71,
+      "local_count": 1
+    },
+    {
+      "slug": "belmont-ma",
+      "name": "Title 5 septic inspectors in Belmont, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/belmont-ma/",
+      "feed": "https://title5roster.com/api/city/belmont-ma.json",
+      "count": 143,
+      "local_count": 1
+    },
+    {
+      "slug": "berkley-ma",
+      "name": "Title 5 septic inspectors in Berkley, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/berkley-ma/",
+      "feed": "https://title5roster.com/api/city/berkley-ma.json",
+      "count": 107,
+      "local_count": 4
+    },
+    {
+      "slug": "berlin-ma",
+      "name": "Title 5 septic inspectors in Berlin, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/berlin-ma/",
+      "feed": "https://title5roster.com/api/city/berlin-ma.json",
+      "count": 185,
+      "local_count": 6
+    },
+    {
+      "slug": "beverly-ma",
+      "name": "Title 5 septic inspectors in Beverly, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/beverly-ma/",
+      "feed": "https://title5roster.com/api/city/beverly-ma.json",
+      "count": 74,
+      "local_count": 2
+    },
+    {
+      "slug": "billerica-ma",
+      "name": "Title 5 septic inspectors in Billerica, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/billerica-ma/",
+      "feed": "https://title5roster.com/api/city/billerica-ma.json",
+      "count": 143,
+      "local_count": 4
+    },
+    {
+      "slug": "blackstone-ma",
+      "name": "Title 5 septic inspectors in Blackstone, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/blackstone-ma/",
+      "feed": "https://title5roster.com/api/city/blackstone-ma.json",
+      "count": 185,
+      "local_count": 4
+    },
+    {
+      "slug": "bolton-ma",
+      "name": "Title 5 septic inspectors in Bolton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/bolton-ma/",
+      "feed": "https://title5roster.com/api/city/bolton-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "boston-ma",
+      "name": "Title 5 septic inspectors in Boston, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/boston-ma/",
+      "feed": "https://title5roster.com/api/city/boston-ma.json",
+      "count": 5,
+      "local_count": 4
+    },
+    {
+      "slug": "bourne-ma",
+      "name": "Title 5 septic inspectors in Bourne, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/bourne-ma/",
+      "feed": "https://title5roster.com/api/city/bourne-ma.json",
+      "count": 122,
+      "local_count": 13
+    },
+    {
+      "slug": "boxborough-ma",
+      "name": "Title 5 septic inspectors in Boxborough, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/boxborough-ma/",
+      "feed": "https://title5roster.com/api/city/boxborough-ma.json",
+      "count": 143,
+      "local_count": 1
+    },
+    {
+      "slug": "boylston-ma",
+      "name": "Title 5 septic inspectors in Boylston, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/boylston-ma/",
+      "feed": "https://title5roster.com/api/city/boylston-ma.json",
+      "count": 185,
+      "local_count": 2
+    },
+    {
+      "slug": "brewster-ma",
+      "name": "Title 5 septic inspectors in Brewster, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/brewster-ma/",
+      "feed": "https://title5roster.com/api/city/brewster-ma.json",
+      "count": 122,
+      "local_count": 9
+    },
+    {
+      "slug": "bridgewater-ma",
+      "name": "Title 5 septic inspectors in Bridgewater, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/bridgewater-ma/",
+      "feed": "https://title5roster.com/api/city/bridgewater-ma.json",
+      "count": 160,
+      "local_count": 4
+    },
+    {
+      "slug": "brimfield-ma",
+      "name": "Title 5 septic inspectors in Brimfield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/brimfield-ma/",
+      "feed": "https://title5roster.com/api/city/brimfield-ma.json",
+      "count": 49,
+      "local_count": 3
+    },
+    {
+      "slug": "brockton-ma",
+      "name": "Title 5 septic inspectors in Brockton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/brockton-ma/",
+      "feed": "https://title5roster.com/api/city/brockton-ma.json",
+      "count": 160,
+      "local_count": 1
+    },
+    {
+      "slug": "burlington-ma",
+      "name": "Title 5 septic inspectors in Burlington, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/burlington-ma/",
+      "feed": "https://title5roster.com/api/city/burlington-ma.json",
+      "count": 143,
+      "local_count": 2
+    },
+    {
+      "slug": "canton-ma",
+      "name": "Title 5 septic inspectors in Canton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/canton-ma/",
+      "feed": "https://title5roster.com/api/city/canton-ma.json",
+      "count": 71,
+      "local_count": 2
+    },
+    {
+      "slug": "carlisle-ma",
+      "name": "Title 5 septic inspectors in Carlisle, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/carlisle-ma/",
+      "feed": "https://title5roster.com/api/city/carlisle-ma.json",
+      "count": 143,
+      "local_count": 1
+    },
+    {
+      "slug": "carver-ma",
+      "name": "Title 5 septic inspectors in Carver, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/carver-ma/",
+      "feed": "https://title5roster.com/api/city/carver-ma.json",
+      "count": 160,
+      "local_count": 8
+    },
+    {
+      "slug": "charlton-ma",
+      "name": "Title 5 septic inspectors in Charlton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/charlton-ma/",
+      "feed": "https://title5roster.com/api/city/charlton-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "chatham-ma",
+      "name": "Title 5 septic inspectors in Chatham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/chatham-ma/",
+      "feed": "https://title5roster.com/api/city/chatham-ma.json",
+      "count": 122,
+      "local_count": 2
+    },
+    {
+      "slug": "chelmsford-ma",
+      "name": "Title 5 septic inspectors in Chelmsford, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/chelmsford-ma/",
+      "feed": "https://title5roster.com/api/city/chelmsford-ma.json",
+      "count": 143,
+      "local_count": 2
+    },
+    {
+      "slug": "chelsea-ma",
+      "name": "Title 5 septic inspectors in Chelsea, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/chelsea-ma/",
+      "feed": "https://title5roster.com/api/city/chelsea-ma.json",
+      "count": 5,
+      "local_count": 1
+    },
+    {
+      "slug": "cheshire-ma",
+      "name": "Title 5 septic inspectors in Cheshire, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/cheshire-ma/",
+      "feed": "https://title5roster.com/api/city/cheshire-ma.json",
+      "count": 55,
+      "local_count": 3
+    },
+    {
+      "slug": "chester-ma",
+      "name": "Title 5 septic inspectors in Chester, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/chester-ma/",
+      "feed": "https://title5roster.com/api/city/chester-ma.json",
+      "count": 49,
+      "local_count": 1
+    },
+    {
+      "slug": "chesterfield-ma",
+      "name": "Title 5 septic inspectors in Chesterfield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/chesterfield-ma/",
+      "feed": "https://title5roster.com/api/city/chesterfield-ma.json",
+      "count": 34,
+      "local_count": 3
+    },
+    {
+      "slug": "chicopee-ma",
+      "name": "Title 5 septic inspectors in Chicopee, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/chicopee-ma/",
+      "feed": "https://title5roster.com/api/city/chicopee-ma.json",
+      "count": 49,
+      "local_count": 2
+    },
+    {
+      "slug": "chilmark-ma",
+      "name": "Title 5 septic inspectors in Chilmark, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/chilmark-ma/",
+      "feed": "https://title5roster.com/api/city/chilmark-ma.json",
+      "count": 10,
+      "local_count": 1
+    },
+    {
+      "slug": "clarksburg-ma",
+      "name": "Title 5 septic inspectors in Clarksburg, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/clarksburg-ma/",
+      "feed": "https://title5roster.com/api/city/clarksburg-ma.json",
+      "count": 55,
+      "local_count": 1
+    },
+    {
+      "slug": "clinton-ma",
+      "name": "Title 5 septic inspectors in Clinton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/clinton-ma/",
+      "feed": "https://title5roster.com/api/city/clinton-ma.json",
+      "count": 185,
+      "local_count": 2
+    },
+    {
+      "slug": "cohasset-ma",
+      "name": "Title 5 septic inspectors in Cohasset, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/cohasset-ma/",
+      "feed": "https://title5roster.com/api/city/cohasset-ma.json",
+      "count": 71,
+      "local_count": 4
+    },
+    {
+      "slug": "colrain-ma",
+      "name": "Title 5 septic inspectors in Colrain, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/colrain-ma/",
+      "feed": "https://title5roster.com/api/city/colrain-ma.json",
+      "count": 27,
+      "local_count": 2
+    },
+    {
+      "slug": "concord-ma",
+      "name": "Title 5 septic inspectors in Concord, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/concord-ma/",
+      "feed": "https://title5roster.com/api/city/concord-ma.json",
+      "count": 143,
+      "local_count": 1
+    },
+    {
+      "slug": "dalton-ma",
+      "name": "Title 5 septic inspectors in Dalton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/dalton-ma/",
+      "feed": "https://title5roster.com/api/city/dalton-ma.json",
+      "count": 55,
+      "local_count": 1
+    },
+    {
+      "slug": "danvers-ma",
+      "name": "Title 5 septic inspectors in Danvers, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/danvers-ma/",
+      "feed": "https://title5roster.com/api/city/danvers-ma.json",
+      "count": 74,
+      "local_count": 3
+    },
+    {
+      "slug": "dartmouth-ma",
+      "name": "Title 5 septic inspectors in Dartmouth, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/dartmouth-ma/",
+      "feed": "https://title5roster.com/api/city/dartmouth-ma.json",
+      "count": 107,
+      "local_count": 3
+    },
+    {
+      "slug": "dedham-ma",
+      "name": "Title 5 septic inspectors in Dedham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/dedham-ma/",
+      "feed": "https://title5roster.com/api/city/dedham-ma.json",
+      "count": 71,
+      "local_count": 1
+    },
+    {
+      "slug": "deerfield-ma",
+      "name": "Title 5 septic inspectors in Deerfield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/deerfield-ma/",
+      "feed": "https://title5roster.com/api/city/deerfield-ma.json",
+      "count": 27,
+      "local_count": 5
+    },
+    {
+      "slug": "dennis-ma",
+      "name": "Title 5 septic inspectors in Dennis, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/dennis-ma/",
+      "feed": "https://title5roster.com/api/city/dennis-ma.json",
+      "count": 122,
+      "local_count": 12
+    },
+    {
+      "slug": "dighton-ma",
+      "name": "Title 5 septic inspectors in Dighton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/dighton-ma/",
+      "feed": "https://title5roster.com/api/city/dighton-ma.json",
+      "count": 107,
+      "local_count": 4
+    },
+    {
+      "slug": "douglas-ma",
+      "name": "Title 5 septic inspectors in Douglas, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/douglas-ma/",
+      "feed": "https://title5roster.com/api/city/douglas-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "dracut-ma",
+      "name": "Title 5 septic inspectors in Dracut, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/dracut-ma/",
+      "feed": "https://title5roster.com/api/city/dracut-ma.json",
+      "count": 143,
+      "local_count": 1
+    },
+    {
+      "slug": "dudley-ma",
+      "name": "Title 5 septic inspectors in Dudley, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/dudley-ma/",
+      "feed": "https://title5roster.com/api/city/dudley-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "dunstable-ma",
+      "name": "Title 5 septic inspectors in Dunstable, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/dunstable-ma/",
+      "feed": "https://title5roster.com/api/city/dunstable-ma.json",
+      "count": 143,
+      "local_count": 2
+    },
+    {
+      "slug": "duxbury-ma",
+      "name": "Title 5 septic inspectors in Duxbury, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/duxbury-ma/",
+      "feed": "https://title5roster.com/api/city/duxbury-ma.json",
+      "count": 160,
+      "local_count": 5
+    },
+    {
+      "slug": "east-bridgewater-ma",
+      "name": "Title 5 septic inspectors in East Bridgewater, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/east-bridgewater-ma/",
+      "feed": "https://title5roster.com/api/city/east-bridgewater-ma.json",
+      "count": 160,
+      "local_count": 3
+    },
+    {
+      "slug": "east-brookfield-ma",
+      "name": "Title 5 septic inspectors in East Brookfield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/east-brookfield-ma/",
+      "feed": "https://title5roster.com/api/city/east-brookfield-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "east-longmeadow-ma",
+      "name": "Title 5 septic inspectors in East Longmeadow, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/east-longmeadow-ma/",
+      "feed": "https://title5roster.com/api/city/east-longmeadow-ma.json",
+      "count": 49,
+      "local_count": 1
+    },
+    {
+      "slug": "eastham-ma",
+      "name": "Title 5 septic inspectors in Eastham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/eastham-ma/",
+      "feed": "https://title5roster.com/api/city/eastham-ma.json",
+      "count": 122,
+      "local_count": 3
+    },
+    {
+      "slug": "easton-ma",
+      "name": "Title 5 septic inspectors in Easton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/easton-ma/",
+      "feed": "https://title5roster.com/api/city/easton-ma.json",
+      "count": 107,
+      "local_count": 8
+    },
+    {
+      "slug": "edgartown-ma",
+      "name": "Title 5 septic inspectors in Edgartown, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/edgartown-ma/",
+      "feed": "https://title5roster.com/api/city/edgartown-ma.json",
+      "count": 10,
+      "local_count": 4
+    },
+    {
+      "slug": "egremont-ma",
+      "name": "Title 5 septic inspectors in Egremont, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/egremont-ma/",
+      "feed": "https://title5roster.com/api/city/egremont-ma.json",
+      "count": 55,
+      "local_count": 1
+    },
+    {
+      "slug": "essex-ma",
+      "name": "Title 5 septic inspectors in Essex, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/essex-ma/",
+      "feed": "https://title5roster.com/api/city/essex-ma.json",
+      "count": 74,
+      "local_count": 3
+    },
+    {
+      "slug": "everett-ma",
+      "name": "Title 5 septic inspectors in Everett, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/everett-ma/",
+      "feed": "https://title5roster.com/api/city/everett-ma.json",
+      "count": 143,
+      "local_count": 1
+    },
+    {
+      "slug": "fairhaven-ma",
+      "name": "Title 5 septic inspectors in Fairhaven, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/fairhaven-ma/",
+      "feed": "https://title5roster.com/api/city/fairhaven-ma.json",
+      "count": 107,
+      "local_count": 4
+    },
+    {
+      "slug": "fall-river-ma",
+      "name": "Title 5 septic inspectors in Fall River, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/fall-river-ma/",
+      "feed": "https://title5roster.com/api/city/fall-river-ma.json",
+      "count": 107,
+      "local_count": 4
+    },
+    {
+      "slug": "falmouth-ma",
+      "name": "Title 5 septic inspectors in Falmouth, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/falmouth-ma/",
+      "feed": "https://title5roster.com/api/city/falmouth-ma.json",
+      "count": 122,
+      "local_count": 13
+    },
+    {
+      "slug": "fitchburg-ma",
+      "name": "Title 5 septic inspectors in Fitchburg, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/fitchburg-ma/",
+      "feed": "https://title5roster.com/api/city/fitchburg-ma.json",
+      "count": 185,
+      "local_count": 4
+    },
+    {
+      "slug": "florida-ma",
+      "name": "Title 5 septic inspectors in Florida, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/florida-ma/",
+      "feed": "https://title5roster.com/api/city/florida-ma.json",
+      "count": 55,
+      "local_count": 1
+    },
+    {
+      "slug": "foxborough-ma",
+      "name": "Title 5 septic inspectors in Foxborough, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/foxborough-ma/",
+      "feed": "https://title5roster.com/api/city/foxborough-ma.json",
+      "count": 71,
+      "local_count": 6
+    },
+    {
+      "slug": "framingham-ma",
+      "name": "Title 5 septic inspectors in Framingham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/framingham-ma/",
+      "feed": "https://title5roster.com/api/city/framingham-ma.json",
+      "count": 143,
+      "local_count": 4
+    },
+    {
+      "slug": "franklin-ma",
+      "name": "Title 5 septic inspectors in Franklin, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/franklin-ma/",
+      "feed": "https://title5roster.com/api/city/franklin-ma.json",
+      "count": 71,
+      "local_count": 6
+    },
+    {
+      "slug": "freetown-ma",
+      "name": "Title 5 septic inspectors in Freetown, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/freetown-ma/",
+      "feed": "https://title5roster.com/api/city/freetown-ma.json",
+      "count": 107,
+      "local_count": 7
+    },
+    {
+      "slug": "gardner-ma",
+      "name": "Title 5 septic inspectors in Gardner, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/gardner-ma/",
+      "feed": "https://title5roster.com/api/city/gardner-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "georgetown-ma",
+      "name": "Title 5 septic inspectors in Georgetown, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/georgetown-ma/",
+      "feed": "https://title5roster.com/api/city/georgetown-ma.json",
+      "count": 74,
+      "local_count": 1
+    },
+    {
+      "slug": "gill-ma",
+      "name": "Title 5 septic inspectors in Gill, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/gill-ma/",
+      "feed": "https://title5roster.com/api/city/gill-ma.json",
+      "count": 27,
+      "local_count": 2
+    },
+    {
+      "slug": "gloucester-ma",
+      "name": "Title 5 septic inspectors in Gloucester, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/gloucester-ma/",
+      "feed": "https://title5roster.com/api/city/gloucester-ma.json",
+      "count": 74,
+      "local_count": 7
+    },
+    {
+      "slug": "goshen-ma",
+      "name": "Title 5 septic inspectors in Goshen, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/goshen-ma/",
+      "feed": "https://title5roster.com/api/city/goshen-ma.json",
+      "count": 34,
+      "local_count": 1
+    },
+    {
+      "slug": "grafton-ma",
+      "name": "Title 5 septic inspectors in Grafton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/grafton-ma/",
+      "feed": "https://title5roster.com/api/city/grafton-ma.json",
+      "count": 185,
+      "local_count": 4
+    },
+    {
+      "slug": "granby-ma",
+      "name": "Title 5 septic inspectors in Granby, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/granby-ma/",
+      "feed": "https://title5roster.com/api/city/granby-ma.json",
+      "count": 34,
+      "local_count": 6
+    },
+    {
+      "slug": "great-barrington-ma",
+      "name": "Title 5 septic inspectors in Great Barrington, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/great-barrington-ma/",
+      "feed": "https://title5roster.com/api/city/great-barrington-ma.json",
+      "count": 55,
+      "local_count": 6
+    },
+    {
+      "slug": "groton-ma",
+      "name": "Title 5 septic inspectors in Groton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/groton-ma/",
+      "feed": "https://title5roster.com/api/city/groton-ma.json",
+      "count": 143,
+      "local_count": 3
+    },
+    {
+      "slug": "groveland-ma",
+      "name": "Title 5 septic inspectors in Groveland, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/groveland-ma/",
+      "feed": "https://title5roster.com/api/city/groveland-ma.json",
+      "count": 74,
+      "local_count": 2
+    },
+    {
+      "slug": "hadley-ma",
+      "name": "Title 5 septic inspectors in Hadley, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/hadley-ma/",
+      "feed": "https://title5roster.com/api/city/hadley-ma.json",
+      "count": 34,
+      "local_count": 4
+    },
+    {
+      "slug": "halifax-ma",
+      "name": "Title 5 septic inspectors in Halifax, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/halifax-ma/",
+      "feed": "https://title5roster.com/api/city/halifax-ma.json",
+      "count": 160,
+      "local_count": 4
+    },
+    {
+      "slug": "hamilton-ma",
+      "name": "Title 5 septic inspectors in Hamilton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/hamilton-ma/",
+      "feed": "https://title5roster.com/api/city/hamilton-ma.json",
+      "count": 74,
+      "local_count": 4
+    },
+    {
+      "slug": "hampden-ma",
+      "name": "Title 5 septic inspectors in Hampden, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/hampden-ma/",
+      "feed": "https://title5roster.com/api/city/hampden-ma.json",
+      "count": 49,
+      "local_count": 1
+    },
+    {
+      "slug": "hancock-ma",
+      "name": "Title 5 septic inspectors in Hancock, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/hancock-ma/",
+      "feed": "https://title5roster.com/api/city/hancock-ma.json",
+      "count": 55,
+      "local_count": 1
+    },
+    {
+      "slug": "hanover-ma",
+      "name": "Title 5 septic inspectors in Hanover, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/hanover-ma/",
+      "feed": "https://title5roster.com/api/city/hanover-ma.json",
+      "count": 160,
+      "local_count": 8
+    },
+    {
+      "slug": "hanson-ma",
+      "name": "Title 5 septic inspectors in Hanson, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/hanson-ma/",
+      "feed": "https://title5roster.com/api/city/hanson-ma.json",
+      "count": 160,
+      "local_count": 4
+    },
+    {
+      "slug": "harwich-ma",
+      "name": "Title 5 septic inspectors in Harwich, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/harwich-ma/",
+      "feed": "https://title5roster.com/api/city/harwich-ma.json",
+      "count": 122,
+      "local_count": 10
+    },
+    {
+      "slug": "haverhill-ma",
+      "name": "Title 5 septic inspectors in Haverhill, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/haverhill-ma/",
+      "feed": "https://title5roster.com/api/city/haverhill-ma.json",
+      "count": 74,
+      "local_count": 10
+    },
+    {
+      "slug": "hingham-ma",
+      "name": "Title 5 septic inspectors in Hingham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/hingham-ma/",
+      "feed": "https://title5roster.com/api/city/hingham-ma.json",
+      "count": 160,
+      "local_count": 6
+    },
+    {
+      "slug": "hinsdale-ma",
+      "name": "Title 5 septic inspectors in Hinsdale, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/hinsdale-ma/",
+      "feed": "https://title5roster.com/api/city/hinsdale-ma.json",
+      "count": 55,
+      "local_count": 2
+    },
+    {
+      "slug": "holbrook-ma",
+      "name": "Title 5 septic inspectors in Holbrook, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/holbrook-ma/",
+      "feed": "https://title5roster.com/api/city/holbrook-ma.json",
+      "count": 71,
+      "local_count": 1
+    },
+    {
+      "slug": "holden-ma",
+      "name": "Title 5 septic inspectors in Holden, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/holden-ma/",
+      "feed": "https://title5roster.com/api/city/holden-ma.json",
+      "count": 185,
+      "local_count": 6
+    },
+    {
+      "slug": "holland-ma",
+      "name": "Title 5 septic inspectors in Holland, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/holland-ma/",
+      "feed": "https://title5roster.com/api/city/holland-ma.json",
+      "count": 49,
+      "local_count": 1
+    },
+    {
+      "slug": "holliston-ma",
+      "name": "Title 5 septic inspectors in Holliston, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/holliston-ma/",
+      "feed": "https://title5roster.com/api/city/holliston-ma.json",
+      "count": 143,
+      "local_count": 7
+    },
+    {
+      "slug": "holyoke-ma",
+      "name": "Title 5 septic inspectors in Holyoke, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/holyoke-ma/",
+      "feed": "https://title5roster.com/api/city/holyoke-ma.json",
+      "count": 49,
+      "local_count": 1
+    },
+    {
+      "slug": "hopkinton-ma",
+      "name": "Title 5 septic inspectors in Hopkinton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/hopkinton-ma/",
+      "feed": "https://title5roster.com/api/city/hopkinton-ma.json",
+      "count": 143,
+      "local_count": 9
+    },
+    {
+      "slug": "hubbardston-ma",
+      "name": "Title 5 septic inspectors in Hubbardston, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/hubbardston-ma/",
+      "feed": "https://title5roster.com/api/city/hubbardston-ma.json",
+      "count": 185,
+      "local_count": 2
+    },
+    {
+      "slug": "hudson-ma",
+      "name": "Title 5 septic inspectors in Hudson, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/hudson-ma/",
+      "feed": "https://title5roster.com/api/city/hudson-ma.json",
+      "count": 143,
+      "local_count": 6
+    },
+    {
+      "slug": "ipswich-ma",
+      "name": "Title 5 septic inspectors in Ipswich, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/ipswich-ma/",
+      "feed": "https://title5roster.com/api/city/ipswich-ma.json",
+      "count": 74,
+      "local_count": 2
+    },
+    {
+      "slug": "kingston-ma",
+      "name": "Title 5 septic inspectors in Kingston, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/kingston-ma/",
+      "feed": "https://title5roster.com/api/city/kingston-ma.json",
+      "count": 160,
+      "local_count": 5
+    },
+    {
+      "slug": "lakeville-ma",
+      "name": "Title 5 septic inspectors in Lakeville, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/lakeville-ma/",
+      "feed": "https://title5roster.com/api/city/lakeville-ma.json",
+      "count": 160,
+      "local_count": 8
+    },
+    {
+      "slug": "lancaster-ma",
+      "name": "Title 5 septic inspectors in Lancaster, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/lancaster-ma/",
+      "feed": "https://title5roster.com/api/city/lancaster-ma.json",
+      "count": 185,
+      "local_count": 2
+    },
+    {
+      "slug": "lanesborough-ma",
+      "name": "Title 5 septic inspectors in Lanesborough, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/lanesborough-ma/",
+      "feed": "https://title5roster.com/api/city/lanesborough-ma.json",
+      "count": 55,
+      "local_count": 3
+    },
+    {
+      "slug": "lawrence-ma",
+      "name": "Title 5 septic inspectors in Lawrence, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/lawrence-ma/",
+      "feed": "https://title5roster.com/api/city/lawrence-ma.json",
+      "count": 74,
+      "local_count": 1
+    },
+    {
+      "slug": "lee-ma",
+      "name": "Title 5 septic inspectors in Lee, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/lee-ma/",
+      "feed": "https://title5roster.com/api/city/lee-ma.json",
+      "count": 55,
+      "local_count": 2
+    },
+    {
+      "slug": "leicester-ma",
+      "name": "Title 5 septic inspectors in Leicester, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/leicester-ma/",
+      "feed": "https://title5roster.com/api/city/leicester-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "lenox-ma",
+      "name": "Title 5 septic inspectors in Lenox, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/lenox-ma/",
+      "feed": "https://title5roster.com/api/city/lenox-ma.json",
+      "count": 55,
+      "local_count": 3
+    },
+    {
+      "slug": "leominster-ma",
+      "name": "Title 5 septic inspectors in Leominster, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/leominster-ma/",
+      "feed": "https://title5roster.com/api/city/leominster-ma.json",
+      "count": 185,
+      "local_count": 10
+    },
+    {
+      "slug": "leverett-ma",
+      "name": "Title 5 septic inspectors in Leverett, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/leverett-ma/",
+      "feed": "https://title5roster.com/api/city/leverett-ma.json",
+      "count": 27,
+      "local_count": 1
+    },
+    {
+      "slug": "lexington-ma",
+      "name": "Title 5 septic inspectors in Lexington, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/lexington-ma/",
+      "feed": "https://title5roster.com/api/city/lexington-ma.json",
+      "count": 143,
+      "local_count": 1
+    },
+    {
+      "slug": "littleton-ma",
+      "name": "Title 5 septic inspectors in Littleton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/littleton-ma/",
+      "feed": "https://title5roster.com/api/city/littleton-ma.json",
+      "count": 143,
+      "local_count": 9
+    },
+    {
+      "slug": "lowell-ma",
+      "name": "Title 5 septic inspectors in Lowell, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/lowell-ma/",
+      "feed": "https://title5roster.com/api/city/lowell-ma.json",
+      "count": 143,
+      "local_count": 3
+    },
+    {
+      "slug": "ludlow-ma",
+      "name": "Title 5 septic inspectors in Ludlow, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/ludlow-ma/",
+      "feed": "https://title5roster.com/api/city/ludlow-ma.json",
+      "count": 49,
+      "local_count": 8
+    },
+    {
+      "slug": "lunenburg-ma",
+      "name": "Title 5 septic inspectors in Lunenburg, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/lunenburg-ma/",
+      "feed": "https://title5roster.com/api/city/lunenburg-ma.json",
+      "count": 185,
+      "local_count": 8
+    },
+    {
+      "slug": "lynn-ma",
+      "name": "Title 5 septic inspectors in Lynn, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/lynn-ma/",
+      "feed": "https://title5roster.com/api/city/lynn-ma.json",
+      "count": 74,
+      "local_count": 4
+    },
+    {
+      "slug": "lynnfield-ma",
+      "name": "Title 5 septic inspectors in Lynnfield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/lynnfield-ma/",
+      "feed": "https://title5roster.com/api/city/lynnfield-ma.json",
+      "count": 74,
+      "local_count": 2
+    },
+    {
+      "slug": "mansfield-ma",
+      "name": "Title 5 septic inspectors in Mansfield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/mansfield-ma/",
+      "feed": "https://title5roster.com/api/city/mansfield-ma.json",
+      "count": 107,
+      "local_count": 5
+    },
+    {
+      "slug": "marlborough-ma",
+      "name": "Title 5 septic inspectors in Marlborough, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/marlborough-ma/",
+      "feed": "https://title5roster.com/api/city/marlborough-ma.json",
+      "count": 143,
+      "local_count": 4
+    },
+    {
+      "slug": "marshfield-ma",
+      "name": "Title 5 septic inspectors in Marshfield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/marshfield-ma/",
+      "feed": "https://title5roster.com/api/city/marshfield-ma.json",
+      "count": 160,
+      "local_count": 6
+    },
+    {
+      "slug": "mashpee-ma",
+      "name": "Title 5 septic inspectors in Mashpee, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/mashpee-ma/",
+      "feed": "https://title5roster.com/api/city/mashpee-ma.json",
+      "count": 122,
+      "local_count": 5
+    },
+    {
+      "slug": "mattapoisett-ma",
+      "name": "Title 5 septic inspectors in Mattapoisett, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/mattapoisett-ma/",
+      "feed": "https://title5roster.com/api/city/mattapoisett-ma.json",
+      "count": 160,
+      "local_count": 2
+    },
+    {
+      "slug": "maynard-ma",
+      "name": "Title 5 septic inspectors in Maynard, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/maynard-ma/",
+      "feed": "https://title5roster.com/api/city/maynard-ma.json",
+      "count": 143,
+      "local_count": 3
+    },
+    {
+      "slug": "medfield-ma",
+      "name": "Title 5 septic inspectors in Medfield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/medfield-ma/",
+      "feed": "https://title5roster.com/api/city/medfield-ma.json",
+      "count": 71,
+      "local_count": 3
+    },
+    {
+      "slug": "medford-ma",
+      "name": "Title 5 septic inspectors in Medford, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/medford-ma/",
+      "feed": "https://title5roster.com/api/city/medford-ma.json",
+      "count": 143,
+      "local_count": 2
+    },
+    {
+      "slug": "medway-ma",
+      "name": "Title 5 septic inspectors in Medway, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/medway-ma/",
+      "feed": "https://title5roster.com/api/city/medway-ma.json",
+      "count": 71,
+      "local_count": 1
+    },
+    {
+      "slug": "melrose-ma",
+      "name": "Title 5 septic inspectors in Melrose, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/melrose-ma/",
+      "feed": "https://title5roster.com/api/city/melrose-ma.json",
+      "count": 143,
+      "local_count": 2
+    },
+    {
+      "slug": "mendon-ma",
+      "name": "Title 5 septic inspectors in Mendon, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/mendon-ma/",
+      "feed": "https://title5roster.com/api/city/mendon-ma.json",
+      "count": 185,
+      "local_count": 2
+    },
+    {
+      "slug": "merrimac-ma",
+      "name": "Title 5 septic inspectors in Merrimac, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/merrimac-ma/",
+      "feed": "https://title5roster.com/api/city/merrimac-ma.json",
+      "count": 74,
+      "local_count": 2
+    },
+    {
+      "slug": "methuen-ma",
+      "name": "Title 5 septic inspectors in Methuen, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/methuen-ma/",
+      "feed": "https://title5roster.com/api/city/methuen-ma.json",
+      "count": 74,
+      "local_count": 5
+    },
+    {
+      "slug": "middleborough-ma",
+      "name": "Title 5 septic inspectors in Middleborough, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/middleborough-ma/",
+      "feed": "https://title5roster.com/api/city/middleborough-ma.json",
+      "count": 160,
+      "local_count": 15
+    },
+    {
+      "slug": "middleton-ma",
+      "name": "Title 5 septic inspectors in Middleton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/middleton-ma/",
+      "feed": "https://title5roster.com/api/city/middleton-ma.json",
+      "count": 74,
+      "local_count": 5
+    },
+    {
+      "slug": "milford-ma",
+      "name": "Title 5 septic inspectors in Milford, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/milford-ma/",
+      "feed": "https://title5roster.com/api/city/milford-ma.json",
+      "count": 185,
+      "local_count": 2
+    },
+    {
+      "slug": "millbury-ma",
+      "name": "Title 5 septic inspectors in Millbury, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/millbury-ma/",
+      "feed": "https://title5roster.com/api/city/millbury-ma.json",
+      "count": 185,
+      "local_count": 2
+    },
+    {
+      "slug": "millis-ma",
+      "name": "Title 5 septic inspectors in Millis, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/millis-ma/",
+      "feed": "https://title5roster.com/api/city/millis-ma.json",
+      "count": 71,
+      "local_count": 2
+    },
+    {
+      "slug": "millville-ma",
+      "name": "Title 5 septic inspectors in Millville, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/millville-ma/",
+      "feed": "https://title5roster.com/api/city/millville-ma.json",
+      "count": 185,
+      "local_count": 2
+    },
+    {
+      "slug": "milton-ma",
+      "name": "Title 5 septic inspectors in Milton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/milton-ma/",
+      "feed": "https://title5roster.com/api/city/milton-ma.json",
+      "count": 71,
+      "local_count": 2
+    },
+    {
+      "slug": "monson-ma",
+      "name": "Title 5 septic inspectors in Monson, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/monson-ma/",
+      "feed": "https://title5roster.com/api/city/monson-ma.json",
+      "count": 49,
+      "local_count": 2
+    },
+    {
+      "slug": "montague-ma",
+      "name": "Title 5 septic inspectors in Montague, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/montague-ma/",
+      "feed": "https://title5roster.com/api/city/montague-ma.json",
+      "count": 27,
+      "local_count": 3
+    },
+    {
+      "slug": "monterey-ma",
+      "name": "Title 5 septic inspectors in Monterey, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/monterey-ma/",
+      "feed": "https://title5roster.com/api/city/monterey-ma.json",
+      "count": 55,
+      "local_count": 1
+    },
+    {
+      "slug": "nantucket-ma",
+      "name": "Title 5 septic inspectors in Nantucket, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/nantucket-ma/",
+      "feed": "https://title5roster.com/api/city/nantucket-ma.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "natick-ma",
+      "name": "Title 5 septic inspectors in Natick, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/natick-ma/",
+      "feed": "https://title5roster.com/api/city/natick-ma.json",
+      "count": 143,
+      "local_count": 2
+    },
+    {
+      "slug": "needham-ma",
+      "name": "Title 5 septic inspectors in Needham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/needham-ma/",
+      "feed": "https://title5roster.com/api/city/needham-ma.json",
+      "count": 71,
+      "local_count": 3
+    },
+    {
+      "slug": "new-bedford-ma",
+      "name": "Title 5 septic inspectors in New Bedford, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/new-bedford-ma/",
+      "feed": "https://title5roster.com/api/city/new-bedford-ma.json",
+      "count": 107,
+      "local_count": 6
+    },
+    {
+      "slug": "new-marlborough-ma",
+      "name": "Title 5 septic inspectors in New Marlborough, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/new-marlborough-ma/",
+      "feed": "https://title5roster.com/api/city/new-marlborough-ma.json",
+      "count": 55,
+      "local_count": 2
+    },
+    {
+      "slug": "newbury-ma",
+      "name": "Title 5 septic inspectors in Newbury, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/newbury-ma/",
+      "feed": "https://title5roster.com/api/city/newbury-ma.json",
+      "count": 74,
+      "local_count": 3
+    },
+    {
+      "slug": "newton-ma",
+      "name": "Title 5 septic inspectors in Newton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/newton-ma/",
+      "feed": "https://title5roster.com/api/city/newton-ma.json",
+      "count": 143,
+      "local_count": 2
+    },
+    {
+      "slug": "norfolk-ma",
+      "name": "Title 5 septic inspectors in Norfolk, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/norfolk-ma/",
+      "feed": "https://title5roster.com/api/city/norfolk-ma.json",
+      "count": 71,
+      "local_count": 2
+    },
+    {
+      "slug": "north-adams-ma",
+      "name": "Title 5 septic inspectors in North Adams, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/north-adams-ma/",
+      "feed": "https://title5roster.com/api/city/north-adams-ma.json",
+      "count": 55,
+      "local_count": 3
+    },
+    {
+      "slug": "north-attleborough-ma",
+      "name": "Title 5 septic inspectors in North Attleborough, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/north-attleborough-ma/",
+      "feed": "https://title5roster.com/api/city/north-attleborough-ma.json",
+      "count": 107,
+      "local_count": 6
+    },
+    {
+      "slug": "north-brookfield-ma",
+      "name": "Title 5 septic inspectors in North Brookfield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/north-brookfield-ma/",
+      "feed": "https://title5roster.com/api/city/north-brookfield-ma.json",
+      "count": 185,
+      "local_count": 1
+    },
+    {
+      "slug": "north-reading-ma",
+      "name": "Title 5 septic inspectors in North Reading, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/north-reading-ma/",
+      "feed": "https://title5roster.com/api/city/north-reading-ma.json",
+      "count": 143,
+      "local_count": 5
+    },
+    {
+      "slug": "northborough-ma",
+      "name": "Title 5 septic inspectors in Northborough, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/northborough-ma/",
+      "feed": "https://title5roster.com/api/city/northborough-ma.json",
+      "count": 185,
+      "local_count": 5
+    },
+    {
+      "slug": "northbridge-ma",
+      "name": "Title 5 septic inspectors in Northbridge, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/northbridge-ma/",
+      "feed": "https://title5roster.com/api/city/northbridge-ma.json",
+      "count": 185,
+      "local_count": 5
+    },
+    {
+      "slug": "northfield-ma",
+      "name": "Title 5 septic inspectors in Northfield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/northfield-ma/",
+      "feed": "https://title5roster.com/api/city/northfield-ma.json",
+      "count": 27,
+      "local_count": 2
+    },
+    {
+      "slug": "norton-ma",
+      "name": "Title 5 septic inspectors in Norton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/norton-ma/",
+      "feed": "https://title5roster.com/api/city/norton-ma.json",
+      "count": 107,
+      "local_count": 6
+    },
+    {
+      "slug": "norwell-ma",
+      "name": "Title 5 septic inspectors in Norwell, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/norwell-ma/",
+      "feed": "https://title5roster.com/api/city/norwell-ma.json",
+      "count": 160,
+      "local_count": 8
+    },
+    {
+      "slug": "norwood-ma",
+      "name": "Title 5 septic inspectors in Norwood, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/norwood-ma/",
+      "feed": "https://title5roster.com/api/city/norwood-ma.json",
+      "count": 71,
+      "local_count": 3
+    },
+    {
+      "slug": "oak-bluffs-ma",
+      "name": "Title 5 septic inspectors in Oak Bluffs, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/oak-bluffs-ma/",
+      "feed": "https://title5roster.com/api/city/oak-bluffs-ma.json",
+      "count": 10,
+      "local_count": 1
+    },
+    {
+      "slug": "oakham-ma",
+      "name": "Title 5 septic inspectors in Oakham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/oakham-ma/",
+      "feed": "https://title5roster.com/api/city/oakham-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "orange-ma",
+      "name": "Title 5 septic inspectors in Orange, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/orange-ma/",
+      "feed": "https://title5roster.com/api/city/orange-ma.json",
+      "count": 27,
+      "local_count": 5
+    },
+    {
+      "slug": "orleans-ma",
+      "name": "Title 5 septic inspectors in Orleans, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/orleans-ma/",
+      "feed": "https://title5roster.com/api/city/orleans-ma.json",
+      "count": 122,
+      "local_count": 5
+    },
+    {
+      "slug": "otis-ma",
+      "name": "Title 5 septic inspectors in Otis, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/otis-ma/",
+      "feed": "https://title5roster.com/api/city/otis-ma.json",
+      "count": 55,
+      "local_count": 4
+    },
+    {
+      "slug": "oxford-ma",
+      "name": "Title 5 septic inspectors in Oxford, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/oxford-ma/",
+      "feed": "https://title5roster.com/api/city/oxford-ma.json",
+      "count": 185,
+      "local_count": 6
+    },
+    {
+      "slug": "palmer-ma",
+      "name": "Title 5 septic inspectors in Palmer, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/palmer-ma/",
+      "feed": "https://title5roster.com/api/city/palmer-ma.json",
+      "count": 49,
+      "local_count": 4
+    },
+    {
+      "slug": "paxton-ma",
+      "name": "Title 5 septic inspectors in Paxton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/paxton-ma/",
+      "feed": "https://title5roster.com/api/city/paxton-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "peabody-ma",
+      "name": "Title 5 septic inspectors in Peabody, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/peabody-ma/",
+      "feed": "https://title5roster.com/api/city/peabody-ma.json",
+      "count": 74,
+      "local_count": 2
+    },
+    {
+      "slug": "pembroke-ma",
+      "name": "Title 5 septic inspectors in Pembroke, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/pembroke-ma/",
+      "feed": "https://title5roster.com/api/city/pembroke-ma.json",
+      "count": 160,
+      "local_count": 10
+    },
+    {
+      "slug": "pepperell-ma",
+      "name": "Title 5 septic inspectors in Pepperell, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/pepperell-ma/",
+      "feed": "https://title5roster.com/api/city/pepperell-ma.json",
+      "count": 143,
+      "local_count": 3
+    },
+    {
+      "slug": "petersham-ma",
+      "name": "Title 5 septic inspectors in Petersham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/petersham-ma/",
+      "feed": "https://title5roster.com/api/city/petersham-ma.json",
+      "count": 185,
+      "local_count": 1
+    },
+    {
+      "slug": "phillipston-ma",
+      "name": "Title 5 septic inspectors in Phillipston, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/phillipston-ma/",
+      "feed": "https://title5roster.com/api/city/phillipston-ma.json",
+      "count": 185,
+      "local_count": 2
+    },
+    {
+      "slug": "pittsfield-ma",
+      "name": "Title 5 septic inspectors in Pittsfield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/pittsfield-ma/",
+      "feed": "https://title5roster.com/api/city/pittsfield-ma.json",
+      "count": 55,
+      "local_count": 7
+    },
+    {
+      "slug": "plainfield-ma",
+      "name": "Title 5 septic inspectors in Plainfield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/plainfield-ma/",
+      "feed": "https://title5roster.com/api/city/plainfield-ma.json",
+      "count": 34,
+      "local_count": 1
+    },
+    {
+      "slug": "plainville-ma",
+      "name": "Title 5 septic inspectors in Plainville, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/plainville-ma/",
+      "feed": "https://title5roster.com/api/city/plainville-ma.json",
+      "count": 71,
+      "local_count": 2
+    },
+    {
+      "slug": "plymouth-ma",
+      "name": "Title 5 septic inspectors in Plymouth, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/plymouth-ma/",
+      "feed": "https://title5roster.com/api/city/plymouth-ma.json",
+      "count": 160,
+      "local_count": 23
+    },
+    {
+      "slug": "plympton-ma",
+      "name": "Title 5 septic inspectors in Plympton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/plympton-ma/",
+      "feed": "https://title5roster.com/api/city/plympton-ma.json",
+      "count": 160,
+      "local_count": 6
+    },
+    {
+      "slug": "princeton-ma",
+      "name": "Title 5 septic inspectors in Princeton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/princeton-ma/",
+      "feed": "https://title5roster.com/api/city/princeton-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "provincetown-ma",
+      "name": "Title 5 septic inspectors in Provincetown, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/provincetown-ma/",
+      "feed": "https://title5roster.com/api/city/provincetown-ma.json",
+      "count": 122,
+      "local_count": 1
+    },
+    {
+      "slug": "quincy-ma",
+      "name": "Title 5 septic inspectors in Quincy, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/quincy-ma/",
+      "feed": "https://title5roster.com/api/city/quincy-ma.json",
+      "count": 71,
+      "local_count": 2
+    },
+    {
+      "slug": "randolph-ma",
+      "name": "Title 5 septic inspectors in Randolph, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/randolph-ma/",
+      "feed": "https://title5roster.com/api/city/randolph-ma.json",
+      "count": 71,
+      "local_count": 1
+    },
+    {
+      "slug": "raynham-ma",
+      "name": "Title 5 septic inspectors in Raynham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/raynham-ma/",
+      "feed": "https://title5roster.com/api/city/raynham-ma.json",
+      "count": 107,
+      "local_count": 1
+    },
+    {
+      "slug": "reading-ma",
+      "name": "Title 5 septic inspectors in Reading, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/reading-ma/",
+      "feed": "https://title5roster.com/api/city/reading-ma.json",
+      "count": 143,
+      "local_count": 2
+    },
+    {
+      "slug": "rehoboth-ma",
+      "name": "Title 5 septic inspectors in Rehoboth, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/rehoboth-ma/",
+      "feed": "https://title5roster.com/api/city/rehoboth-ma.json",
+      "count": 107,
+      "local_count": 7
+    },
+    {
+      "slug": "rochester-ma",
+      "name": "Title 5 septic inspectors in Rochester, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/rochester-ma/",
+      "feed": "https://title5roster.com/api/city/rochester-ma.json",
+      "count": 160,
+      "local_count": 4
+    },
+    {
+      "slug": "rockland-ma",
+      "name": "Title 5 septic inspectors in Rockland, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/rockland-ma/",
+      "feed": "https://title5roster.com/api/city/rockland-ma.json",
+      "count": 160,
+      "local_count": 4
+    },
+    {
+      "slug": "rockport-ma",
+      "name": "Title 5 septic inspectors in Rockport, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/rockport-ma/",
+      "feed": "https://title5roster.com/api/city/rockport-ma.json",
+      "count": 74,
+      "local_count": 4
+    },
+    {
+      "slug": "rowe-ma",
+      "name": "Title 5 septic inspectors in Rowe, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/rowe-ma/",
+      "feed": "https://title5roster.com/api/city/rowe-ma.json",
+      "count": 27,
+      "local_count": 1
+    },
+    {
+      "slug": "rowley-ma",
+      "name": "Title 5 septic inspectors in Rowley, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/rowley-ma/",
+      "feed": "https://title5roster.com/api/city/rowley-ma.json",
+      "count": 74,
+      "local_count": 2
+    },
+    {
+      "slug": "royalston-ma",
+      "name": "Title 5 septic inspectors in Royalston, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/royalston-ma/",
+      "feed": "https://title5roster.com/api/city/royalston-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "rutland-ma",
+      "name": "Title 5 septic inspectors in Rutland, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/rutland-ma/",
+      "feed": "https://title5roster.com/api/city/rutland-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "salem-ma",
+      "name": "Title 5 septic inspectors in Salem, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/salem-ma/",
+      "feed": "https://title5roster.com/api/city/salem-ma.json",
+      "count": 74,
+      "local_count": 1
+    },
+    {
+      "slug": "sandwich-ma",
+      "name": "Title 5 septic inspectors in Sandwich, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/sandwich-ma/",
+      "feed": "https://title5roster.com/api/city/sandwich-ma.json",
+      "count": 122,
+      "local_count": 15
+    },
+    {
+      "slug": "savoy-ma",
+      "name": "Title 5 septic inspectors in Savoy, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/savoy-ma/",
+      "feed": "https://title5roster.com/api/city/savoy-ma.json",
+      "count": 55,
+      "local_count": 1
+    },
+    {
+      "slug": "scituate-ma",
+      "name": "Title 5 septic inspectors in Scituate, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/scituate-ma/",
+      "feed": "https://title5roster.com/api/city/scituate-ma.json",
+      "count": 160,
+      "local_count": 8
+    },
+    {
+      "slug": "seekonk-ma",
+      "name": "Title 5 septic inspectors in Seekonk, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/seekonk-ma/",
+      "feed": "https://title5roster.com/api/city/seekonk-ma.json",
+      "count": 107,
+      "local_count": 3
+    },
+    {
+      "slug": "sharon-ma",
+      "name": "Title 5 septic inspectors in Sharon, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/sharon-ma/",
+      "feed": "https://title5roster.com/api/city/sharon-ma.json",
+      "count": 71,
+      "local_count": 5
+    },
+    {
+      "slug": "sheffield-ma",
+      "name": "Title 5 septic inspectors in Sheffield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/sheffield-ma/",
+      "feed": "https://title5roster.com/api/city/sheffield-ma.json",
+      "count": 55,
+      "local_count": 6
+    },
+    {
+      "slug": "shrewsbury-ma",
+      "name": "Title 5 septic inspectors in Shrewsbury, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/shrewsbury-ma/",
+      "feed": "https://title5roster.com/api/city/shrewsbury-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "somerset-ma",
+      "name": "Title 5 septic inspectors in Somerset, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/somerset-ma/",
+      "feed": "https://title5roster.com/api/city/somerset-ma.json",
+      "count": 107,
+      "local_count": 3
+    },
+    {
+      "slug": "south-hadley-ma",
+      "name": "Title 5 septic inspectors in South Hadley, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/south-hadley-ma/",
+      "feed": "https://title5roster.com/api/city/south-hadley-ma.json",
+      "count": 34,
+      "local_count": 1
+    },
+    {
+      "slug": "southampton-ma",
+      "name": "Title 5 septic inspectors in Southampton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/southampton-ma/",
+      "feed": "https://title5roster.com/api/city/southampton-ma.json",
+      "count": 34,
+      "local_count": 7
+    },
+    {
+      "slug": "southborough-ma",
+      "name": "Title 5 septic inspectors in Southborough, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/southborough-ma/",
+      "feed": "https://title5roster.com/api/city/southborough-ma.json",
+      "count": 185,
+      "local_count": 2
+    },
+    {
+      "slug": "southbridge-ma",
+      "name": "Title 5 septic inspectors in Southbridge, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/southbridge-ma/",
+      "feed": "https://title5roster.com/api/city/southbridge-ma.json",
+      "count": 185,
+      "local_count": 1
+    },
+    {
+      "slug": "southwick-ma",
+      "name": "Title 5 septic inspectors in Southwick, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/southwick-ma/",
+      "feed": "https://title5roster.com/api/city/southwick-ma.json",
+      "count": 49,
+      "local_count": 7
+    },
+    {
+      "slug": "spencer-ma",
+      "name": "Title 5 septic inspectors in Spencer, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/spencer-ma/",
+      "feed": "https://title5roster.com/api/city/spencer-ma.json",
+      "count": 185,
+      "local_count": 2
+    },
+    {
+      "slug": "springfield-ma",
+      "name": "Title 5 septic inspectors in Springfield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/springfield-ma/",
+      "feed": "https://title5roster.com/api/city/springfield-ma.json",
+      "count": 49,
+      "local_count": 6
+    },
+    {
+      "slug": "sterling-ma",
+      "name": "Title 5 septic inspectors in Sterling, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/sterling-ma/",
+      "feed": "https://title5roster.com/api/city/sterling-ma.json",
+      "count": 185,
+      "local_count": 7
+    },
+    {
+      "slug": "stoneham-ma",
+      "name": "Title 5 septic inspectors in Stoneham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/stoneham-ma/",
+      "feed": "https://title5roster.com/api/city/stoneham-ma.json",
+      "count": 143,
+      "local_count": 1
+    },
+    {
+      "slug": "stoughton-ma",
+      "name": "Title 5 septic inspectors in Stoughton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/stoughton-ma/",
+      "feed": "https://title5roster.com/api/city/stoughton-ma.json",
+      "count": 71,
+      "local_count": 9
+    },
+    {
+      "slug": "stow-ma",
+      "name": "Title 5 septic inspectors in Stow, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/stow-ma/",
+      "feed": "https://title5roster.com/api/city/stow-ma.json",
+      "count": 143,
+      "local_count": 2
+    },
+    {
+      "slug": "sturbridge-ma",
+      "name": "Title 5 septic inspectors in Sturbridge, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/sturbridge-ma/",
+      "feed": "https://title5roster.com/api/city/sturbridge-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "sudbury-ma",
+      "name": "Title 5 septic inspectors in Sudbury, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/sudbury-ma/",
+      "feed": "https://title5roster.com/api/city/sudbury-ma.json",
+      "count": 143,
+      "local_count": 6
+    },
+    {
+      "slug": "sutton-ma",
+      "name": "Title 5 septic inspectors in Sutton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/sutton-ma/",
+      "feed": "https://title5roster.com/api/city/sutton-ma.json",
+      "count": 185,
+      "local_count": 7
+    },
+    {
+      "slug": "swansea-ma",
+      "name": "Title 5 septic inspectors in Swansea, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/swansea-ma/",
+      "feed": "https://title5roster.com/api/city/swansea-ma.json",
+      "count": 107,
+      "local_count": 5
+    },
+    {
+      "slug": "taunton-ma",
+      "name": "Title 5 septic inspectors in Taunton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/taunton-ma/",
+      "feed": "https://title5roster.com/api/city/taunton-ma.json",
+      "count": 107,
+      "local_count": 8
+    },
+    {
+      "slug": "templeton-ma",
+      "name": "Title 5 septic inspectors in Templeton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/templeton-ma/",
+      "feed": "https://title5roster.com/api/city/templeton-ma.json",
+      "count": 185,
+      "local_count": 5
+    },
+    {
+      "slug": "tewksbury-ma",
+      "name": "Title 5 septic inspectors in Tewksbury, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/tewksbury-ma/",
+      "feed": "https://title5roster.com/api/city/tewksbury-ma.json",
+      "count": 143,
+      "local_count": 4
+    },
+    {
+      "slug": "tisbury-ma",
+      "name": "Title 5 septic inspectors in Tisbury, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/tisbury-ma/",
+      "feed": "https://title5roster.com/api/city/tisbury-ma.json",
+      "count": 10,
+      "local_count": 3
+    },
+    {
+      "slug": "townsend-ma",
+      "name": "Title 5 septic inspectors in Townsend, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/townsend-ma/",
+      "feed": "https://title5roster.com/api/city/townsend-ma.json",
+      "count": 143,
+      "local_count": 2
+    },
+    {
+      "slug": "truro-ma",
+      "name": "Title 5 septic inspectors in Truro, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/truro-ma/",
+      "feed": "https://title5roster.com/api/city/truro-ma.json",
+      "count": 122,
+      "local_count": 2
+    },
+    {
+      "slug": "upton-ma",
+      "name": "Title 5 septic inspectors in Upton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/upton-ma/",
+      "feed": "https://title5roster.com/api/city/upton-ma.json",
+      "count": 185,
+      "local_count": 2
+    },
+    {
+      "slug": "uxbridge-ma",
+      "name": "Title 5 septic inspectors in Uxbridge, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/uxbridge-ma/",
+      "feed": "https://title5roster.com/api/city/uxbridge-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "wakefield-ma",
+      "name": "Title 5 septic inspectors in Wakefield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/wakefield-ma/",
+      "feed": "https://title5roster.com/api/city/wakefield-ma.json",
+      "count": 143,
+      "local_count": 3
+    },
+    {
+      "slug": "wales-ma",
+      "name": "Title 5 septic inspectors in Wales, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/wales-ma/",
+      "feed": "https://title5roster.com/api/city/wales-ma.json",
+      "count": 49,
+      "local_count": 1
+    },
+    {
+      "slug": "walpole-ma",
+      "name": "Title 5 septic inspectors in Walpole, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/walpole-ma/",
+      "feed": "https://title5roster.com/api/city/walpole-ma.json",
+      "count": 71,
+      "local_count": 6
+    },
+    {
+      "slug": "waltham-ma",
+      "name": "Title 5 septic inspectors in Waltham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/waltham-ma/",
+      "feed": "https://title5roster.com/api/city/waltham-ma.json",
+      "count": 143,
+      "local_count": 2
+    },
+    {
+      "slug": "ware-ma",
+      "name": "Title 5 septic inspectors in Ware, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/ware-ma/",
+      "feed": "https://title5roster.com/api/city/ware-ma.json",
+      "count": 34,
+      "local_count": 4
+    },
+    {
+      "slug": "wareham-ma",
+      "name": "Title 5 septic inspectors in Wareham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/wareham-ma/",
+      "feed": "https://title5roster.com/api/city/wareham-ma.json",
+      "count": 160,
+      "local_count": 11
+    },
+    {
+      "slug": "warwick-ma",
+      "name": "Title 5 septic inspectors in Warwick, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/warwick-ma/",
+      "feed": "https://title5roster.com/api/city/warwick-ma.json",
+      "count": 27,
+      "local_count": 2
+    },
+    {
+      "slug": "washington-ma",
+      "name": "Title 5 septic inspectors in Washington, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/washington-ma/",
+      "feed": "https://title5roster.com/api/city/washington-ma.json",
+      "count": 55,
+      "local_count": 1
+    },
+    {
+      "slug": "watertown-ma",
+      "name": "Title 5 septic inspectors in Watertown, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/watertown-ma/",
+      "feed": "https://title5roster.com/api/city/watertown-ma.json",
+      "count": 143,
+      "local_count": 1
+    },
+    {
+      "slug": "wayland-ma",
+      "name": "Title 5 septic inspectors in Wayland, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/wayland-ma/",
+      "feed": "https://title5roster.com/api/city/wayland-ma.json",
+      "count": 143,
+      "local_count": 4
+    },
+    {
+      "slug": "webster-ma",
+      "name": "Title 5 septic inspectors in Webster, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/webster-ma/",
+      "feed": "https://title5roster.com/api/city/webster-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "wellfleet-ma",
+      "name": "Title 5 septic inspectors in Wellfleet, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/wellfleet-ma/",
+      "feed": "https://title5roster.com/api/city/wellfleet-ma.json",
+      "count": 122,
+      "local_count": 3
+    },
+    {
+      "slug": "wenham-ma",
+      "name": "Title 5 septic inspectors in Wenham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/wenham-ma/",
+      "feed": "https://title5roster.com/api/city/wenham-ma.json",
+      "count": 74,
+      "local_count": 1
+    },
+    {
+      "slug": "west-boylston-ma",
+      "name": "Title 5 septic inspectors in West Boylston, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/west-boylston-ma/",
+      "feed": "https://title5roster.com/api/city/west-boylston-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "west-bridgewater-ma",
+      "name": "Title 5 septic inspectors in West Bridgewater, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/west-bridgewater-ma/",
+      "feed": "https://title5roster.com/api/city/west-bridgewater-ma.json",
+      "count": 160,
+      "local_count": 5
+    },
+    {
+      "slug": "west-brookfield-ma",
+      "name": "Title 5 septic inspectors in West Brookfield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/west-brookfield-ma/",
+      "feed": "https://title5roster.com/api/city/west-brookfield-ma.json",
+      "count": 185,
+      "local_count": 4
+    },
+    {
+      "slug": "west-newbury-ma",
+      "name": "Title 5 septic inspectors in West Newbury, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/west-newbury-ma/",
+      "feed": "https://title5roster.com/api/city/west-newbury-ma.json",
+      "count": 74,
+      "local_count": 2
+    },
+    {
+      "slug": "west-stockbridge-ma",
+      "name": "Title 5 septic inspectors in West Stockbridge, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/west-stockbridge-ma/",
+      "feed": "https://title5roster.com/api/city/west-stockbridge-ma.json",
+      "count": 55,
+      "local_count": 1
+    },
+    {
+      "slug": "west-tisbury-ma",
+      "name": "Title 5 septic inspectors in West Tisbury, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/west-tisbury-ma/",
+      "feed": "https://title5roster.com/api/city/west-tisbury-ma.json",
+      "count": 10,
+      "local_count": 1
+    },
+    {
+      "slug": "westborough-ma",
+      "name": "Title 5 septic inspectors in Westborough, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/westborough-ma/",
+      "feed": "https://title5roster.com/api/city/westborough-ma.json",
+      "count": 185,
+      "local_count": 1
+    },
+    {
+      "slug": "westfield-ma",
+      "name": "Title 5 septic inspectors in Westfield, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/westfield-ma/",
+      "feed": "https://title5roster.com/api/city/westfield-ma.json",
+      "count": 49,
+      "local_count": 5
+    },
+    {
+      "slug": "westford-ma",
+      "name": "Title 5 septic inspectors in Westford, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/westford-ma/",
+      "feed": "https://title5roster.com/api/city/westford-ma.json",
+      "count": 143,
+      "local_count": 13
+    },
+    {
+      "slug": "westhampton-ma",
+      "name": "Title 5 septic inspectors in Westhampton, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/westhampton-ma/",
+      "feed": "https://title5roster.com/api/city/westhampton-ma.json",
+      "count": 34,
+      "local_count": 2
+    },
+    {
+      "slug": "westminster-ma",
+      "name": "Title 5 septic inspectors in Westminster, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/westminster-ma/",
+      "feed": "https://title5roster.com/api/city/westminster-ma.json",
+      "count": 185,
+      "local_count": 4
+    },
+    {
+      "slug": "weston-ma",
+      "name": "Title 5 septic inspectors in Weston, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/weston-ma/",
+      "feed": "https://title5roster.com/api/city/weston-ma.json",
+      "count": 143,
+      "local_count": 1
+    },
+    {
+      "slug": "westport-ma",
+      "name": "Title 5 septic inspectors in Westport, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/westport-ma/",
+      "feed": "https://title5roster.com/api/city/westport-ma.json",
+      "count": 107,
+      "local_count": 9
+    },
+    {
+      "slug": "westwood-ma",
+      "name": "Title 5 septic inspectors in Westwood, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/westwood-ma/",
+      "feed": "https://title5roster.com/api/city/westwood-ma.json",
+      "count": 71,
+      "local_count": 1
+    },
+    {
+      "slug": "weymouth-ma",
+      "name": "Title 5 septic inspectors in Weymouth, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/weymouth-ma/",
+      "feed": "https://title5roster.com/api/city/weymouth-ma.json",
+      "count": 71,
+      "local_count": 2
+    },
+    {
+      "slug": "whitman-ma",
+      "name": "Title 5 septic inspectors in Whitman, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/whitman-ma/",
+      "feed": "https://title5roster.com/api/city/whitman-ma.json",
+      "count": 160,
+      "local_count": 1
+    },
+    {
+      "slug": "wilbraham-ma",
+      "name": "Title 5 septic inspectors in Wilbraham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/wilbraham-ma/",
+      "feed": "https://title5roster.com/api/city/wilbraham-ma.json",
+      "count": 49,
+      "local_count": 3
+    },
+    {
+      "slug": "williamstown-ma",
+      "name": "Title 5 septic inspectors in Williamstown, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/williamstown-ma/",
+      "feed": "https://title5roster.com/api/city/williamstown-ma.json",
+      "count": 55,
+      "local_count": 2
+    },
+    {
+      "slug": "wilmington-ma",
+      "name": "Title 5 septic inspectors in Wilmington, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/wilmington-ma/",
+      "feed": "https://title5roster.com/api/city/wilmington-ma.json",
+      "count": 143,
+      "local_count": 2
+    },
+    {
+      "slug": "winchendon-ma",
+      "name": "Title 5 septic inspectors in Winchendon, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/winchendon-ma/",
+      "feed": "https://title5roster.com/api/city/winchendon-ma.json",
+      "count": 185,
+      "local_count": 3
+    },
+    {
+      "slug": "winchester-ma",
+      "name": "Title 5 septic inspectors in Winchester, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/winchester-ma/",
+      "feed": "https://title5roster.com/api/city/winchester-ma.json",
+      "count": 143,
+      "local_count": 2
+    },
+    {
+      "slug": "windsor-ma",
+      "name": "Title 5 septic inspectors in Windsor, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/windsor-ma/",
+      "feed": "https://title5roster.com/api/city/windsor-ma.json",
+      "count": 55,
+      "local_count": 1
+    },
+    {
+      "slug": "woburn-ma",
+      "name": "Title 5 septic inspectors in Woburn, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/woburn-ma/",
+      "feed": "https://title5roster.com/api/city/woburn-ma.json",
+      "count": 143,
+      "local_count": 2
+    },
+    {
+      "slug": "worcester-ma",
+      "name": "Title 5 septic inspectors in Worcester, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/worcester-ma/",
+      "feed": "https://title5roster.com/api/city/worcester-ma.json",
+      "count": 185,
+      "local_count": 5
+    },
+    {
+      "slug": "worthington-ma",
+      "name": "Title 5 septic inspectors in Worthington, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/worthington-ma/",
+      "feed": "https://title5roster.com/api/city/worthington-ma.json",
+      "count": 34,
+      "local_count": 1
+    },
+    {
+      "slug": "wrentham-ma",
+      "name": "Title 5 septic inspectors in Wrentham, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/wrentham-ma/",
+      "feed": "https://title5roster.com/api/city/wrentham-ma.json",
+      "count": 71,
+      "local_count": 5
+    },
+    {
+      "slug": "yarmouth-ma",
+      "name": "Title 5 septic inspectors in Yarmouth, MA",
+      "state": "MA",
+      "page": "https://title5roster.com/town/yarmouth-ma/",
+      "feed": "https://title5roster.com/api/city/yarmouth-ma.json",
+      "count": 122,
+      "local_count": 12
+    }
+  ],
+  "quote_note": "This directory does not take agent quote requests yet; use firm_url to contact firms."
+}

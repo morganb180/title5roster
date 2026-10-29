@@ -24,6 +24,14 @@ It is for Massachusetts home buyers, sellers, agents and attorneys who need a Ti
 - [Contact](https://title5roster.com/contact/)
 - [Privacy Policy](https://title5roster.com/privacy/): how we handle data
 
+## Agent API
+- [API catalog](https://title5roster.com/.well-known/api-catalog): RFC 9727 linkset
+- [OpenAPI spec](https://title5roster.com/openapi.json): search API
+- [Feed index](https://title5roster.com/api/index.json): data sources, last-updated date, county/city feeds
+- [All firms (JSON)](https://title5roster.com/api/firms.json)
+- [MCP server card](https://title5roster.com/.well-known/mcp.json): remote MCP at https://leads.radonroster.com/mcp?site=title5
+- [Agent skills](https://title5roster.com/.well-known/agent-skills/index.json)
+
 ## Optional
 - [llms-full.txt](https://title5roster.com/llms-full.txt): every page on the site
 - [Sitemap](https://title5roster.com/sitemap.xml)

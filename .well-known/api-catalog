@@ -1,0 +1,75 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://leads.radonroster.com/api/firms?site=title5",
+      "service-desc": [
+        {
+          "href": "https://title5roster.com/openapi.json",
+          "type": "application/openapi+json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://title5roster.com/.well-known/agent-skills/title-5-roster-find-firms/SKILL.md",
+          "type": "text/markdown"
+        },
+        {
+          "href": "https://title5roster.com/llms.txt",
+          "type": "text/plain"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://leads.radonroster.com/api/health?site=title5",
+          "type": "application/json"
+        }
+      ]
+    },
+    {
+      "anchor": "https://title5roster.com/api/",
+      "service-desc": [
+        {
+          "href": "https://title5roster.com/openapi.json",
+          "type": "application/openapi+json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://title5roster.com/.well-known/agent-skills/title-5-roster-find-firms/SKILL.md",
+          "type": "text/markdown"
+        }
+      ],
+      "item": [
+        {
+          "href": "https://title5roster.com/api/index.json",
+          "type": "application/json"
+        },
+        {
+          "href": "https://title5roster.com/api/firms.json",
+          "type": "application/json"
+        }
+      ]
+    },
+    {
+      "anchor": "https://leads.radonroster.com/mcp?site=title5",
+      "service-desc": [
+        {
+          "href": "https://title5roster.com/.well-known/mcp.json",
+          "type": "application/json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://title5roster.com/.well-known/agent-skills/title-5-roster-find-firms/SKILL.md",
+          "type": "text/markdown"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://leads.radonroster.com/api/health?site=title5",
+          "type": "application/json"
+        }
+      ]
+    }
+  ]
+}
