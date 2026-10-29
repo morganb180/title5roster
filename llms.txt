@@ -22,7 +22,7 @@ It is for Massachusetts home buyers, sellers, agents and attorneys who need a Ti
 - [List, Claim, Correct or Remove a Listing](https://title5roster.com/list-your-business/): claim/correct/remove
 - [How We Make Money](https://title5roster.com/how-we-make-money/)
 - [Contact](https://title5roster.com/contact/)
-- [Privacy Policy](https://title5roster.com/privacy/): draft
+- [Privacy Policy](https://title5roster.com/privacy/): how we handle data
 
 ## Optional
 - [llms-full.txt](https://title5roster.com/llms-full.txt): every page on the site

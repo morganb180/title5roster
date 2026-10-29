@@ -8,7 +8,7 @@ canonical: https://title5roster.com/
 
 Title 5 Roster is a free directory of MassDEP-approved Title 5 septic System Inspectors in Massachusetts, organized by town, with plain-language guides to septic inspections at property transfer.
 
-DRAFT. 1139 approved System Inspectors in 1104 listings, from NEIWPCC's list of MassDEP-approved inspectors (current 10/2/2026). Inspectors employed by boards of health or MassDEP are left out because they generally act as regulators, not private hires.
+1139 approved System Inspectors in 1104 listings, from NEIWPCC's list of MassDEP-approved inspectors (current 10/2/2026). Inspectors employed by boards of health or MassDEP are left out because they generally act as regulators, not private hires.
 
 Selling or buying a Massachusetts home with a septic system? Title 5 usually requires an inspection within 2 years before the sale. [Here's how it works](https://title5roster.com/title-5-inspection/).
 
