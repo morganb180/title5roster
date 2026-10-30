@@ -28,6 +28,9 @@ Lynnfield, MA
 
 * Gerald R. Pezzella (SI #873, approval expires 2028-06-30)
 
+☎ [(781) 334-6418](tel:7813346418)  
+Added by us, not on the state list: phone from the firm's [Google Maps listing](https://maps.google.com/?cid=6977220871307627468&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T873)
 
 ✔ MassDEP-approved System Inspector
@@ -71,6 +74,12 @@ Andover, MA
 1 approved inspector
 
 * Todd Bateson (SI #16, approval expires 2028-06-30)
+
+☎ [(978) 475-4786](tel:9784754786)  
+🌐 [batesonsepticservices.com](http://www.batesonsepticservices.com/)  
+✉ [batesonsepticservices@gmail.com](mailto:batesonsepticservices@gmail.com)  
+Google rating 4.6 (27 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13383750268794568721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [batesonsepticservices.com](https://www.batesonsepticservices.com/contact-for-septic-services), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T16)
 
@@ -142,6 +151,12 @@ Ipswich, MA
 
 * Mario Rosa (SI #13470, approval expires 2029-06-30)
 
+☎ [(978) 356-0779](tel:9783560779)  
+🌐 [clearwaterindustries.com](https://www.clearwaterindustries.com/)  
+✉ [info@clearwaterindustries.com](mailto:info@clearwaterindustries.com)  
+Google rating 4.0 (12 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5305534086826508591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [clearwaterindustries.com](https://clearwaterindustries.com/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13470)
 
 ✔ MassDEP-approved System Inspector
@@ -157,6 +172,12 @@ Ipswich, MA
 * David F. Clark (SI #42, approval expires 2028-06-30)
 * Jared Clark (SI #4568, approval expires 2029-06-30)
 * Rebecca Gayton (SI #15051, approval expires 2028-08-01)
+
+☎ [(978) 356-5638](tel:9783565638)  
+🌐 [dfclark.com](http://dfclark.com/)  
+✉ [info@dfclark.com](mailto:info@dfclark.com)  
+Google rating 3.8 (15 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5493498272169306681&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [dfclark.com](https://dfclark.com/contact-us/), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T42)
 
@@ -200,6 +221,10 @@ Essex, MA
 
 * John C. Duncan (SI #2308, approval expires 2028-06-30)
 
+☎ [(978) 768-7558](tel:9787687558)  
+Google rating 4.4 (7 reviews)  
+Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13003318829502436775&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2308)
 
 ✔ MassDEP-approved System Inspector
@@ -228,6 +253,12 @@ Gloucester, MA
 
 * John P. Judd (SI #1253, approval expires 2028-06-30)
 
+☎ [(978) 281-6824](tel:9782816824)  
+🌐 [capeanncivil.com](http://capeanncivil.com/)  
+✉ [juddjp@verizon.net](mailto:juddjp@verizon.net)  
+Google rating 4.3 (4 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14886075286434029230&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [capeanncivil.com](https://capeanncivil.com/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1253)
 
 ✔ MassDEP-approved System Inspector
@@ -242,6 +273,10 @@ Middleton, MA
 
 * Jack E. Delaney (SI #2325, approval expires 2028-06-30)
 * James H. Currier II (SI #2327, approval expires 2028-06-30)
+
+☎ [(978) 774-6685](tel:9787746685)  
+Google rating 3.0 (2 reviews)  
+Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14061185694309224268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2325)
 
@@ -271,6 +306,12 @@ Andover, MA
 
 * William R. Dufresne (SI #2565, approval expires 2028-06-30)
 
+☎ [(978) 475-3555](tel:9784753555)  
+🌐 [merrimackengineering.com](https://www.merrimackengineering.com/)  
+✉ [merreng@aol.com](mailto:merreng@aol.com)  
+Google rating 4.1 (13 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2018300727431259919&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [merrimackengineering.com](https://www.merrimackengineering.com/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2565)
 
 ✔ MassDEP-approved System Inspector
@@ -284,6 +325,12 @@ Gloucester, MA
 1 approved inspector
 
 * Daniel Ottenheimer (SI #291, approval expires 2028-06-30)
+
+☎ [(978) 282-0014](tel:9782820014)  
+🌐 [millriverconsulting.com](http://www.millriverconsulting.com/)  
+✉ [info@millriverconsulting.com](mailto:info@millriverconsulting.com)  
+Google rating 3.0 (2 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4715436373015100497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [millriverconsulting.com](https://www.millriverconsulting.com/), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T291)
 
@@ -340,6 +387,10 @@ Groveland, MA
 1 approved inspector
 
 * Richard Briscoe (SI #29, approval expires 2028-06-30)
+
+☎ [(978) 372-2200](tel:9783722200)  
+Google rating 5.0 (5 reviews)  
+Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1132899081127565218&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T29)
 
@@ -430,6 +481,12 @@ Newbury, MA
 
 * Jesse Warren (SI #14323, approval expires 2028-06-30)
 
+☎ [(978) 948-7418](tel:9789487418)  
+🌐 [twexcavatingcorp.com](https://twexcavatingcorp.com/)  
+✉ [twexcavatingcorp@gmail.com](mailto:twexcavatingcorp@gmail.com)  
+Google rating 4.7 (15 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14372434269366926796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [twexcavatingcorp.com](https://twexcavatingcorp.com/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14323)
 
 ✔ MassDEP-approved System Inspector
@@ -443,6 +500,12 @@ Danvers, MA
 1 approved inspector
 
 * Scott P. Cameron (SI #12345, approval expires 2029-06-30)
+
+☎ [(978) 777-8586](tel:9787778586)  
+🌐 [morincameron.com](http://www.morincameron.com/)  
+✉ [info@morincameron.com](mailto:info@morincameron.com)  
+Google rating 2.9 (7 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3938674419235355353&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [morincameron.com](https://morincameron.com/), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T12345)
 

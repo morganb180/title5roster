@@ -46,6 +46,9 @@ Orange, MA
 
 * Norman Bartlett (SI #3581, approval expires 2028-06-30)
 
+☎ [(978) 575-0888](tel:9785750888)  
+Added by us, not on the state list: phone from the firm's [Google Maps listing](https://maps.google.com/?cid=16321331020449751814&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3581)
 
 ✔ MassDEP-approved System Inspector
@@ -104,6 +107,11 @@ Deerfield, MA (listed as South Deerfield)
 
 * Jacob Howe (SI #14919, approval expires 2027-07-01)
 
+☎ [(413) 665-3989](tel:4136653989)  
+🌐 [gregswastewaterremoval.com](http://gregswastewaterremoval.com/)  
+Google rating 4.1 (12 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18439777065249525924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14919)
 
 ✔ MassDEP-approved System Inspector
@@ -117,6 +125,11 @@ Ashfield, MA
 1 approved inspector
 
 * Brendon Gray (SI #14469, approval expires 2029-06-30)
+
+☎ [(413) 628-4771](tel:4136284771)  
+🌐 [harrisandgray.com](http://www.harrisandgray.com/)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10145788020492789175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14469)
 

@@ -28,6 +28,11 @@ Easton, MA (listed as South Easton)
 
 * Americo Ferrara (SI #4435, approval expires 2028-06-30)
 
+☎ [(508) 509-6551](tel:5085096551)  
+🌐 [aferrara.net](https://aferrara.net/)  
+Google rating 5.0 (5 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11432920454293673909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4435)
 
 ✔ MassDEP-approved System Inspector
@@ -39,6 +44,12 @@ Easton, MA (listed as South Easton)
 1 approved inspector
 
 * Gregory W. Driscoll, Jr. (SI #12000, approval expires 2029-06-30)
+
+☎ [(508) 297-9999](tel:5082979999)  
+🌐 [jdecivil.com](http://www.jdecivil.com/)  
+✉ [contact@jdecivil.com](mailto:contact@jdecivil.com)  
+Google rating 5.0 (11 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3367031630792999113&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [jdecivil.com](https://jdecivil.com/), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T12000)
 
@@ -129,6 +140,10 @@ Seekonk, MA
 1 approved inspector
 
 * Anthony R. Mello, Jr. (SI #2476, approval expires 2028-06-30)
+
+☎ [(508) 336-6973](tel:5083366973)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10990459626614351794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2476)
 
@@ -253,6 +268,10 @@ Fairhaven, MA
 
 * Peter DeTerra (SI #1676, approval expires 2028-06-30)
 
+☎ [(508) 992-1838](tel:5089921838)  
+Google rating 4.1 (7 reviews)  
+Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11513800303796540908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1676)
 
 ✔ MassDEP-approved System Inspector
@@ -295,6 +314,12 @@ Fairhaven, MA
 
 * Ronald F. Arruda, II (SI #2113, approval expires 2028-06-30)
 
+☎ [(508) 999-4781](tel:5089994781)  
+🌐 [fhvnhoneywagon.com](https://www.fhvnhoneywagon.com/)  
+✉ [fhn.honeywagon@gmail.com](mailto:fhn.honeywagon@gmail.com)  
+Google rating 4.9 (14 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7719691859130930748&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [fhvnhoneywagon.com](https://www.fhvnhoneywagon.com/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2113)
 
 ✔ MassDEP-approved System Inspector
@@ -308,6 +333,10 @@ Rehoboth, MA
 1 approved inspector
 
 * George W. Kellum (SI #12877, approval expires 2029-06-30)
+
+☎ [(508) 431-8734](tel:5084318734)  
+Google rating 4.0 (4 reviews)  
+Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12944575174275252674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T12877)
 
@@ -409,6 +438,11 @@ Swansea, MA
 
 * Steven C. Love, Jr. (SI #13067, approval expires 2027-06-30)
 
+☎ [(508) 679-2476](tel:5086792476)  
+🌐 [lovesanitation.com](http://lovesanitation.com/)  
+Google rating 4.2 (20 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18381041351827098388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13067)
 
 ✔ MassDEP-approved System Inspector
@@ -465,6 +499,12 @@ Westport, MA
 
 * Kevin L. Kirby (SI #14517, approval expires 2027-06-30)
 
+☎ [(508) 636-0807](tel:5086360807)  
+🌐 [nesanitation.com](http://www.nesanitation.com/)  
+✉ [info@baystatesewage.com](mailto:info@baystatesewage.com)  
+Google rating 4.4 (14 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11967946154717279683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [baystatesewage.com](https://www.baystatesewage.com/new-england-sanitation), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14517)
 
 ✔ MassDEP-approved System Inspector
@@ -479,6 +519,11 @@ Swansea, MA
 
 * Robert M. Berube (SI #13613, approval expires 2028-06-30)
 
+☎ [(508) 672-3137](tel:5086723137)  
+🌐 [prolineengineering.com](http://prolineengineering.com/)  
+Google rating 4.8 (21 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3616510581161183617&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13613)
 
 ✔ MassDEP-approved System Inspector
@@ -492,6 +537,12 @@ Norton, MA
 1 approved inspector
 
 * Dylan Ribeiro (SI #4991, approval expires 2027-06-30)
+
+☎ [(508) 285-3167 ext. 204](tel:5082853167204)  
+🌐 [ribeiroenterprises.com](http://www.ribeiroenterprises.com/)  
+✉ [dylanribeiro@yahoo.com](mailto:dylanribeiro@yahoo.com)  
+Google rating 4.9 (17 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7571370194725997839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [ribeiroenterprises.com](https://ribeiroenterprises.com/contact-us/), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4991)
 
@@ -521,6 +572,12 @@ Norton, MA
 
 * Zachary Freedman (SI #14874, approval expires 2027-05-01)
 
+☎ [(877) 378-4279](tel:8773784279)  
+🌐 [septicpreservation.com](http://www.septicpreservation.com/)  
+✉ [info@septicpreservation.com](mailto:info@septicpreservation.com)  
+Google rating 4.8 (4 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=7366927505101113878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [septicpreservation.com](https://septicpreservation.com/contact-us/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14874)
 
 ✔ MassDEP-approved System Inspector
@@ -548,6 +605,11 @@ North Attleborough, MA (listed as North Attleboro)
 1 approved inspector
 
 * Steven M. Sherman (SI #4126, approval expires 2028-06-30)
+
+☎ [(508) 320-2296](tel:5083202296)  
+🌐 [shermaninspection.com](http://www.shermaninspection.com/)  
+Google rating 5.0 (26 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16651125604173401952&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4126)
 

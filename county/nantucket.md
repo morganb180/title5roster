@@ -38,6 +38,11 @@ Nantucket, MA
 
 * Arthur D. Gasbarro, III (SI #3006, approval expires 2028-06-30)
 
+☎ [(508) 825-5053](tel:5088255053)  
+🌐 [nantucketengineer.com](http://www.nantucketengineer.com/)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=359718849481256496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3006)
 
 ✔ MassDEP-approved System Inspector
@@ -49,6 +54,10 @@ Nantucket, MA
 1 approved inspector
 
 * Stephen J. Visco (SI #240, approval expires 2028-06-30)
+
+☎ [(508) 228-2339](tel:5082282339)  
+Google rating 5.0 (3 reviews)  
+Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14786906695511547068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T240)
 

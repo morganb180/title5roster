@@ -132,6 +132,11 @@ Belchertown, MA
 
 * Alan E. Weiss (SI #738, approval expires 2028-06-30)
 
+☎ [(413) 323-5957](tel:4133235957)  
+🌐 [coldspringenvironmental.com](https://www.coldspringenvironmental.com/Contact.html)  
+✉ [aweiss@coldspringenvironmental.com](mailto:aweiss@coldspringenvironmental.com)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=5976198409432950556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [coldspringenvironmental.com](https://www.coldspringenvironmental.com/Contact.html), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T738)
 
 ✔ MassDEP-approved System Inspector
@@ -160,6 +165,10 @@ Ware, MA
 
 * Anthony J. DeSantis (SI #1533, approval expires 2028-06-30)
 
+☎ [(413) 967-6527](tel:4139676527)  
+Google rating 5.0 (3 reviews)  
+Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9126139281822581457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1533)
 
 ✔ MassDEP-approved System Inspector
@@ -173,6 +182,10 @@ Ware, MA
 1 approved inspector
 
 * Richard L. DeSantis (SI #1532, approval expires 2028-06-30)
+
+☎ [(413) 967-6527](tel:4139676527)  
+Google rating 5.0 (3 reviews)  
+Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9126139281822581457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1532)
 

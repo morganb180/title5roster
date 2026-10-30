@@ -198,6 +198,12 @@ Ludlow, MA
 
 * Nick Torretti (SI #4496, approval expires 2029-06-30)
 
+☎ [(413) 583-2138](tel:4135832138)  
+🌐 [cleanseptics.com](http://www.cleanseptics.com/)  
+✉ [info@cleanseptics.com](mailto:info@cleanseptics.com)  
+Google rating 4.9 (175 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13180217780393761018&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [cleanseptics.com](https://www.cleanseptics.com/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4496)
 
 ✔ MassDEP-approved System Inspector
@@ -296,6 +302,11 @@ Monson, MA
 
 * Robert Kady (SI #14946, approval expires 2027-08-01)
 
+☎ [(413) 267-0474](tel:4132670474)  
+🌐 [excavationplus.net](https://www.excavationplus.net/)  
+Google rating 3.7 (9 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=157764302080946928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14946)
 
 ✔ MassDEP-approved System Inspector
@@ -371,6 +382,12 @@ Southwick, MA
 1 approved inspector
 
 * Adam Perreault (SI #14178, approval expires 2029-06-30)
+
+☎ [(413) 569-5226](tel:4135695226)  
+🌐 [matitle5.com](http://matitle5.com/)  
+✉ [brian@matitle5.com](mailto:brian@matitle5.com)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8374959923127458901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [matitle5.com](https://matitle5.com/contact.htm), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14178)
 
@@ -538,6 +555,12 @@ Wales, MA
 
 * Kenneth Moore (SI #12869, approval expires 2029-06-30)
 
+☎ [(413) 246-6288](tel:4132466288)  
+🌐 [timbers2trim.com](http://timbers2trim.com/)  
+✉ [ttcinc18@gmail.com](mailto:ttcinc18@gmail.com)  
+Google rating 5.0 (3 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=12821220771406717297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [timbers2trim.com](https://www.timbers2trim.com/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T12869)
 
 ## Westfield
@@ -552,6 +575,11 @@ Westfield, MA
 
 * Edward G. Gallis (SI #1540, approval expires 2028-06-30)
 
+☎ [(413) 562-0397](tel:4135620397)  
+🌐 [gallisseptic.com](https://gallisseptic.com/)  
+Google rating 5.0 (33 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=5104875473437174475&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1540)
 
 ✔ MassDEP-approved System Inspector
@@ -563,6 +591,11 @@ Westfield, MA
 1 approved inspector
 
 * Cole Modestow (SI #14922, approval expires 2027-07-01)
+
+☎ [(413) 568-0985](tel:4135680985)  
+🌐 [rlaland.com](http://rlaland.com/)  
+Google rating 4.2 (15 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11468628912871959168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14922)
 

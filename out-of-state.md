@@ -66,6 +66,11 @@ Old Saybrook, CT
 
 * David Jewett (SI #14184, approval expires 2029-06-30)
 
+☎ [(860) 510-0730](tel:8605100730)  
+🌐 [geomatrixsystems.com](https://www.geomatrixsystems.com/)  
+Google rating 5.0 (5 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13526760019773037698&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Outstate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14184)
 
 ✔ MassDEP-approved System Inspector
@@ -77,6 +82,12 @@ Southbury, CT
 1 approved inspector
 
 * Mark E. Lancor, PE (SI #15150, approval expires 2029-05-01)
+
+☎ [(203) 267-1046](tel:2032671046)  
+🌐 [dymarinc.com](http://www.dymarinc.com/)  
+✉ [melancor@dymarinc.com](mailto:melancor@dymarinc.com)  
+Google rating 5.0 (13 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13160244004448071638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [dymarinc.com](https://dymarinc.com/contact-us/), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Outstate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15150)
 
@@ -150,6 +161,11 @@ Eliot, ME
 
 * Kenneth A. Wood (SI #4801, approval expires 2028-06-30)
 
+☎ [(207) 439-6023](tel:2074396023)  
+🌐 [attarengineering.com](http://www.attarengineering.com/)  
+✉ [info@attarengineering.com](mailto:info@attarengineering.com)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=17015025415929045445&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [attarengineering.com](https://attarengineering.com/contact/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Outstate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4801)
 
 ✔ MassDEP-approved System Inspector
@@ -161,6 +177,12 @@ Kittery Point, ME
 1 approved inspector
 
 * Elizabeth Dupre (SI #3753, approval expires 2028-06-30)
+
+☎ [(508) 868-0838](tel:5088680838)  
+🌐 [clearwater-env.com](https://clearwater-env.com/)  
+✉ [info@clearwater-env.com](mailto:info@clearwater-env.com)  
+Google rating 5.0 (1 review)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13745401878783963005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [clearwater-env.com](https://www.clearwater-env.com/contact), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Outstate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3753)
 
@@ -209,6 +231,12 @@ Exeter, NH
 1 approved inspector
 
 * Daniel MacRitchie (SI #13507, approval expires 2029-06-30)
+
+☎ [(603) 845-3572](tel:6038453572)  
+🌐 [dcmacritchie.com](http://www.dcmacritchie.com/)  
+✉ [dan@dcmacritchie.com](mailto:dan@dcmacritchie.com)  
+Google rating 3.0 (1 review)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11910578301205427343&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [dcmacritchie.com](https://www.dcmacritchie.com/), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Outstate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13507)
 
@@ -293,6 +321,12 @@ Hudson, NH
 1 approved inspector
 
 * James R. Francoeur (SI #3133, approval expires 2028-06-30)
+
+☎ [(603) 883-9444](tel:6038839444)  
+🌐 [swimmingpoolwater.net](http://www.swimmingpoolwater.net/)  
+✉ [francoffice@aol.com](mailto:francoffice@aol.com)  
+Google rating 4.8 (15 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8114889270875455749&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [swimmingpoolwater.net](https://www.swimmingpoolwater.net/), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Outstate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3133)
 
@@ -450,6 +484,12 @@ Cranston, RI
 
 * Jason Clough (SI #12167, approval expires 2027-06-30)
 
+☎ [(401) 943-1000](tel:4019431000)  
+🌐 [diprete-eng.com](http://www.diprete-eng.com/)  
+✉ [minsana@diprete-eng.com](mailto:minsana@diprete-eng.com)  
+Google rating 4.3 (9 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=932768583576483988&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [diprete-eng.com](https://diprete-eng.com/uncategorized/diprete-survey-update-firm-welcomes-new-team-member/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Outstate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T12167)
 
 ✔ MassDEP-approved System Inspector
@@ -509,6 +549,11 @@ Providence, RI
 1 approved inspector
 
 * Devin Dean (SI #15067, approval expires 2028-08-01)
+
+☎ [(401) 861-3070](tel:4018613070)  
+🌐 [fando.com](https://www.fando.com/)  
+✉ [gina.bourque@fando.com](mailto:gina.bourque@fando.com)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=10774090703351669351&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [fando.com](https://www.fando.com/contact/), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Outstate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15067)
 

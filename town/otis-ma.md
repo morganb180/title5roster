@@ -124,6 +124,12 @@ Lee, MA
 
 * Nicholas Bruzzi (SI #15202, approval expires 2029-07-01)
 
+☎ [(413) 243-4122](tel:4132434122)  
+🌐 [berkshireengineering.com](http://berkshireengineering.com/)  
+✉ [info@berkshireengineering.com](mailto:info@berkshireengineering.com)  
+Google rating 3.5 (8 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14081460036918082877&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [berkshireengineering.com](https://berkshireengineering.com/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15202)
 
 ✔ MassDEP-approved System Inspector
@@ -137,6 +143,10 @@ Lanesborough, MA (listed as Lanesboro)
 1 approved inspector
 
 * Jennifer Sweet (SI #14920, approval expires 2027-07-01)
+
+☎ [(413) 443-2708](tel:4134432708)  
+Google rating 4.5 (32 reviews)  
+Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=8785996511814751202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14920)
 
@@ -219,6 +229,11 @@ Williamstown, MA
 
 * Robert J. Kaska (SI #13931, approval expires 2027-06-30)
 
+☎ [(413) 458-2198](tel:4134582198)  
+🌐 [guntlowassociates.com](http://www.guntlowassociates.com/)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4803303511113862886&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13931)
 
 ✔ MassDEP-approved System Inspector
@@ -234,6 +249,11 @@ Williamstown, MA
 * Charles J. LaBatt (SI #3757, approval expires 2028-06-30)
 * Vincent P. Guntlow (SI #994, approval expires 2028-06-30)
 
+☎ [(413) 458-2198](tel:4134582198)  
+🌐 [guntlowassociates.com](http://www.guntlowassociates.com/)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4803303511113862886&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T994)
 
 ✔ MassDEP-approved System Inspector
@@ -247,6 +267,10 @@ Sheffield, MA
 1 approved inspector
 
 * Joseph Wilkinson III (SI #13445, approval expires 2029-06-30)
+
+☎ [(413) 229-2039](tel:4132292039)  
+Google rating 3.8 (6 reviews)  
+Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=4610343845787979006&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13445)
 
@@ -262,6 +286,11 @@ Great Barrington, MA
 
 * Hunter Tranter (SI #14945, approval expires 2027-08-01)
 
+☎ [(413) 528-3291](tel:4135283291)  
+🌐 [kellygrangerparsons.com](http://kellygrangerparsons.com/)  
+Google rating 2.6 (10 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3371617826534298447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14945)
 
 ✔ MassDEP-approved System Inspector
@@ -275,6 +304,11 @@ Great Barrington, MA
 1 approved inspector
 
 * Charles M. Parsons (SI #584, approval expires 2028-06-30)
+
+☎ [(413) 528-3291](tel:4135283291)  
+🌐 [kellygrangerparsons.com](http://kellygrangerparsons.com/)  
+Google rating 2.6 (10 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3371617826534298447&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T584)
 

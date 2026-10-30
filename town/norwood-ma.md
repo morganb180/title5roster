@@ -84,6 +84,12 @@ Stoughton, MA
 
 * Kevin S. Orlando (SI #2335, approval expires 2028-06-30)
 
+☎ [(866) 822-6846](tel:8668226846)  
+🌐 [allseasonssepticservice.com](http://www.allseasonssepticservice.com/)  
+✉ [info@baystatesewage.com](mailto:info@baystatesewage.com)  
+Google rating 4.3 (47 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=6784708874298323306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [baystatesewage.com](https://www.baystatesewage.com/all-seasons-septic-service), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2335)
 
 ✔ MassDEP-approved System Inspector
@@ -140,6 +146,12 @@ Foxborough, MA
 
 * William R. Buckley Jr. (SI #980, approval expires 2028-06-30)
 
+☎ [(508) 543-3939](tel:5085433939)  
+🌐 [baycolonygroup.com](http://www.baycolonygroup.com/)  
+✉ [mailbox@baycolonygroup.com](mailto:mailbox@baycolonygroup.com)  
+Google rating 5.0 (5 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=3596097838780801515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [baycolonygroup.com](https://www.baycolonygroup.com/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T980)
 
 ✔ MassDEP-approved System Inspector
@@ -153,6 +165,12 @@ Needham, MA
 1 approved inspector
 
 * David W. Atkinson, Jr. (SI #8, approval expires 2028-06-30)
+
+☎ [(781) 444-1204](tel:7814441204)  
+🌐 [dlatkinson1889.com](http://dlatkinson1889.com/)  
+✉ [dlatkinson1889@gmail.com](mailto:dlatkinson1889@gmail.com)  
+Google rating 5.0 (8 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=10701224174535698830&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [dlatkinson1889.com](https://www.dlatkinson1889.com/), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T8)
 
@@ -181,6 +199,10 @@ Walpole, MA (listed as East Walpole)
 1 approved inspector
 
 * John F. Glossa (SI #1850, approval expires 2028-06-30)
+
+☎ [(508) 668-4401](tel:5086684401)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=1971029680550628504&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1850)
 
@@ -224,6 +246,12 @@ Norfolk, MA
 
 * Jason Hockman (SI #3822, approval expires 2028-06-30)
 
+☎ [(508) 384-1400](tel:5083841400)  
+🌐 [pumperguys.com](http://www.pumperguys.com/)  
+✉ [info@pumperguys.com](mailto:info@pumperguys.com)  
+Google rating 4.9 (93 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=13423094889737518036&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [pumperguys.com](https://www.pumperguys.com/contact/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3822)
 
 ✔ MassDEP-approved System Inspector
@@ -252,6 +280,11 @@ Walpole, MA
 
 * Kenneth A. Jones, Jr. (SI #4324, approval expires 2028-06-30)
 
+☎ [(508) 850-5151](tel:5088505151)  
+🌐 [kennyjonescorp.com](https://kennyjonescorp.com/)  
+Google rating 4.8 (16 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9589712926195870800&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4324)
 
 ✔ MassDEP-approved System Inspector
@@ -265,6 +298,12 @@ Plainville, MA
 1 approved inspector
 
 * Daniel Campbell (SI #4778, approval expires 2028-06-30)
+
+☎ [(508) 695-2221](tel:5086952221)  
+🌐 [leveldg.com](http://www.leveldg.com/)  
+✉ [contact@leveldg.com](mailto:contact@leveldg.com)  
+Google rating 4.1 (12 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=593676348503104366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [leveldg.com](https://leveldg.com/come-join-our-team), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4778)
 
@@ -294,6 +333,12 @@ Wrentham, MA
 
 * Timothy Konowitz (SI #13403, approval expires 2028-06-30)
 
+☎ [(508) 384-9590](tel:5083849590)  
+🌐 [milesofexcavating.com](http://www.milesofexcavating.com/)  
+✉ [milesofexcavating@yahoo.com](mailto:milesofexcavating@yahoo.com)  
+Google rating 4.0 (24 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17415638882101907386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [milesofexcavating.com](https://www.milesofexcavating.com/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13403)
 
 ✔ MassDEP-approved System Inspector
@@ -307,6 +352,11 @@ Stoughton, MA
 1 approved inspector
 
 * Francis A. Elms (SI #2463, approval expires 2028-06-30)
+
+☎ [(781) 344-8328](tel:7813448328)  
+🌐 [newenglanddrain.com](https://www.newenglanddrain.com/)  
+Google rating 4.7 (26 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17339294375825244155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2463)
 
@@ -336,6 +386,10 @@ Milton, MA
 
 * Robert E. Hannigan (SI #4892, approval expires 2028-06-30)
 
+☎ [(617) 513-4589](tel:6175134589)  
+🌐 [robertehanniganassociates.com](http://www.robertehanniganassociates.com/contact-us/contact-form/)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=3409843624807462523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4892)
 
 ✔ MassDEP-approved System Inspector
@@ -351,6 +405,11 @@ Cohasset, MA
 * Dylan Finlay (SI #15047, approval expires 2028-08-01)
 * Matthew Brown (SI #13917, approval expires 2027-06-30)
 * Paul W. Davis (SI #49, approval expires 2028-06-30)
+
+☎ [(781) 383-8888](tel:7813838888)  
+🌐 [rosanodavis-septic.com](http://www.rosanodavis-septic.com/)  
+Google rating 4.9 (120 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17373472800375151115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T49)
 
@@ -425,6 +484,12 @@ Canton, MA
 1 approved inspector
 
 * William McNeice (SI #14447, approval expires 2028-06-30)
+
+☎ [(781) 727-9990](tel:7817279990)  
+🌐 [wmcneicesiteservices.com](http://wmcneicesiteservices.com/)  
+✉ [will@wmcneicesiteservices.com](mailto:will@wmcneicesiteservices.com)  
+Google rating 3.8 (6 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9585971708454052225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [wmcneicesiteservices.wordpress.com](https://wmcneicesiteservices.wordpress.com/contact/), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14447)
 
