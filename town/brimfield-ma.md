@@ -224,6 +224,12 @@ Springfield, MA
 
 * Michael R. Petrin (SI #4804, approval expires 2028-06-30)
 
+☎ [(413) 747-7113](tel:4137477113)  
+🌐 [vhb.com](https://www.vhb.com/)  
+✉ [eeo@vhb.com](mailto:eeo@vhb.com)  
+Google rating 5.0 (2 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=11989689619776791123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [vhb.com](https://www.vhb.com/contact-us/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4804)
 
 ✔ MassDEP-approved System Inspector

@@ -449,6 +449,11 @@ Salem, MA
 
 * Joshua Kline (SI #14837, approval expires 2029-06-30)
 
+☎ [(617) 203-2076](tel:6172032076)  
+🌐 [stonefieldeng.com](http://stonefieldeng.com/)  
+✉ [mseckler@stonefieldeng.com](mailto:mseckler@stonefieldeng.com)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=17645829371989767072&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [stonefieldeng.com](https://stonefieldeng.com/contact/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14837)
 
 ✔ MassDEP-approved System Inspector

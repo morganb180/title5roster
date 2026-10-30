@@ -126,6 +126,11 @@ Pittsfield, MA
 
 * Daniel Hassett (SI #14999, approval expires 2028-02-01)
 
+☎ [(413) 442-1521](tel:4134421521)  
+🌐 [berkshireplanning.org](https://berkshireplanning.org/)  
+✉ [officeadministrator@berkshireplanning.org](mailto:officeadministrator@berkshireplanning.org)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=4352349134195320829&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [berkshireplanning.org](https://berkshireplanning.org/contacts/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14999)
 
 ✔ MassDEP-approved System Inspector
@@ -167,6 +172,12 @@ Pittsfield, MA
 1 approved inspector
 
 * Bryan Siter (SI #14914, approval expires 2026-11-01)
+
+☎ [(413) 499-1560](tel:4134991560)  
+🌐 [foresightland.com](http://www.foresightland.com/)  
+✉ [info@foresightland.com](mailto:info@foresightland.com)  
+Google rating 3.0 (2 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=18189051906145490669&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [foresightland.com](https://foresightland.com/), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14914)
 

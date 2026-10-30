@@ -402,6 +402,10 @@ Quincy, MA
 
 * Sam T. Malafronte (SI #14821, approval expires 2029-05-01)
 
+☎ [(781) 352-8491](tel:7813528491)  
+🌐 [solliengineering.com](http://solliengineering.com/)  
+Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=5184828849125547300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14821)
 
 ✔ MassDEP-approved System Inspector

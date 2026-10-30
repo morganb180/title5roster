@@ -139,6 +139,11 @@ Attleboro, MA
 * Eric P. Berndt (SI #14436, approval expires 2028-06-30)
 * Kevin D. Berndt (SI #14437, approval expires 2028-06-30)
 
+☎ [(508) 222-4963](tel:5082224963)  
+🌐 [dberndtsanitation.com](http://dberndtsanitation.com/)  
+Google rating 5.0 (4 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2479126221822146679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14436)
 
 ✔ MassDEP-approved System Inspector
@@ -194,6 +199,11 @@ Attleboro, MA (listed as Attleborough)
 1 approved inspector
 
 * Donald P. Berndt (SI #2889, approval expires 2028-06-30)
+
+☎ [(508) 222-4963](tel:5082224963)  
+🌐 [dberndtsanitation.com](http://dberndtsanitation.com/)  
+Google rating 5.0 (4 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=2479126221822146679&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2889)
 
@@ -506,6 +516,12 @@ Taunton, MA
 * Justin Lewis (SI #13942, approval expires 2028-06-30)
 * Marc Durocher (SI #13921, approval expires 2027-06-30)
 * Robert Soares, Jr. (SI #635, approval expires 2028-06-30)
+
+☎ [(508) 824-8370](tel:5088248370)  
+🌐 [soarespumping.com](https://soarespumping.com/)  
+✉ [sales@soarespumping.com](mailto:sales@soarespumping.com)  
+Google rating 4.5 (71 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=16123444893211989328&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [soarespumping.com](https://soarespumping.com/), retrieved 2026-10-30.
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T635)
 

@@ -246,3 +246,6 @@ div.card[id]>.muted:last-child{line-height:2}div.card[id]>.muted:last-child a{di
 .direct{font-weight:500;color:var(--ink)}
 .foot .legal{font-size:.7rem;opacity:.8;margin:var(--s2) 0 0}
 .foot .legal a{min-height:0;padding:0}
+
+/* Google Places enrichment (2026-10-30) */
+.gx{margin-top:.35rem}.gnote{display:block;font-size:.75rem;color:var(--mute,#666);margin-top:.2rem}.stars{position:relative;display:inline-block;font-style:normal;color:#d5d5d5;letter-spacing:1px;line-height:1}.stars::before{content:"★★★★★";position:absolute;left:0;top:0;width:var(--r);overflow:hidden;white-space:nowrap;color:#b9770e}.grat{display:block;margin-top:.25rem;font-size:.8rem;color:var(--mute,#666)}.grat .stars{font-size:.85rem;margin-right:.3rem}.grat b{font-weight:600;margin-right:.15rem}

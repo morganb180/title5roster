@@ -28,6 +28,12 @@ Worcester, MA
 
 * John E. Finlay II (SI #1210, approval expires 2028-06-30)
 
+☎ [(508) 757-1595](tel:5087571595)  
+🌐 [finlayengineering.com](http://finlayengineering.com/)  
+✉ [finlayengineeringservices@gmail.com](mailto:finlayengineeringservices@gmail.com)  
+Google rating 3.0 (2 reviews)  
+Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=17328968874366904855&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [finlayengineering.com](https://www.finlayengineering.com/), retrieved 2026-10-30.
+
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1210)
 
 ✔ MassDEP-approved System Inspector
