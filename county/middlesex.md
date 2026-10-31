@@ -1976,6 +1976,32 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
+## Ready to book a Title 5 inspection in Middlesex County?
+
+1. Call two or three of the approved inspectors above and ask about availability and price.
+2. Check the inspector's approval on [NEIWPCC's list of MassDEP-approved System Inspectors](https://neiwpcc.org/our-programs/wastewater/mass-title-5/listings-of-approved-system-inspectors-and-soil-evaluators/).
+3. Read the [seller's guide](https://title5roster.com/sellers-guide/) or [buyer's guide](https://title5roster.com/buyers-guide/) so you know what the report covers.
+
+[See typical costs](https://title5roster.com/title-5-inspection-cost/)
+
+## Frequently asked questions
+
+**How many approved Title 5 inspectors are in Middlesex County?**
+
+Title 5 Roster lists 149 MassDEP-approved System Inspectors (143 listings) with an address in 45 towns in Middlesex County, from NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so ask each one about availability.
+
+**Do I need a Title 5 inspection to sell a house in Middlesex County?**
+
+Title 5 generally requires an inspection within 2 years before a sale (3 years with annual pumping), and the report goes to the local Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the town's Board of Health.
+
+**Which Middlesex County towns have the most approved inspectors?**
+
+Westford (13 listings); Hopkinton (9 listings); Littleton (9 listings). Counts are listings with an address in each town on NEIWPCC's list.
+
+**How much does a Title 5 inspection cost in Middlesex County?**
+
+We don't have county-specific price data. Published 2026 estimates put the inspection alone at $300–$900, and pumping is often extra. MassDEP doesn't regulate fees, so get written prices from two or three approved inspectors. See [sources and what changes the price](https://title5roster.com/title-5-inspection-cost/).
+
 ## Which counties border Middlesex County, MA?
 
 [Essex County](https://title5roster.com/county/essex/) · [Norfolk County](https://title5roster.com/county/norfolk/) · [Suffolk County](https://title5roster.com/county/suffolk/) · [Worcester County](https://title5roster.com/county/worcester/)

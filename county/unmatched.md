@@ -32,6 +32,28 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
+## Ready to book a Title 5 inspection in Unmatched County?
+
+1. Call two or three of the approved inspectors above and ask about availability and price.
+2. Check the inspector's approval on [NEIWPCC's list of MassDEP-approved System Inspectors](https://neiwpcc.org/our-programs/wastewater/mass-title-5/listings-of-approved-system-inspectors-and-soil-evaluators/).
+3. Read the [seller's guide](https://title5roster.com/sellers-guide/) or [buyer's guide](https://title5roster.com/buyers-guide/) so you know what the report covers.
+
+[See typical costs](https://title5roster.com/title-5-inspection-cost/)
+
+## Frequently asked questions
+
+**How many approved Title 5 inspectors are in Unmatched County?**
+
+Title 5 Roster lists 1 MassDEP-approved System Inspector (1 listing) with an address in 1 town in Unmatched County, from NEIWPCC's 10/2/2026 list. Inspectors often work across a region, so ask each one about availability.
+
+**Do I need a Title 5 inspection to sell a house in Unmatched County?**
+
+Title 5 generally requires an inspection within 2 years before a sale (3 years with annual pumping), and the report goes to the local Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the town's Board of Health.
+
+**How much does a Title 5 inspection cost in Unmatched County?**
+
+We don't have county-specific price data. Published 2026 estimates put the inspection alone at $300–$900, and pumping is often extra. MassDEP doesn't regulate fees, so get written prices from two or three approved inspectors. See [sources and what changes the price](https://title5roster.com/title-5-inspection-cost/).
+
 ## Title 5 guides
 
 [Title 5 explained](https://title5roster.com/title-5-inspection/) · [Seller's guide](https://title5roster.com/sellers-guide/) · [Buyer's guide](https://title5roster.com/buyers-guide/) · [Inspection cost](https://title5roster.com/title-5-inspection-cost/)

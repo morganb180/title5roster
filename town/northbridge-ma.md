@@ -2741,6 +2741,32 @@ No phone or email is published on the source list. Source: [NEIWPCC SI list](htt
 
 Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System Inspectors (current 10/2/2026).
 
+## Ready to book a Title 5 inspection in Northbridge?
+
+1. Call two or three of the approved inspectors above and ask about availability and price.
+2. Check the inspector's approval on [NEIWPCC's list of MassDEP-approved System Inspectors](https://neiwpcc.org/our-programs/wastewater/mass-title-5/listings-of-approved-system-inspectors-and-soil-evaluators/).
+3. Read the [seller's guide](https://title5roster.com/sellers-guide/) or [buyer's guide](https://title5roster.com/buyers-guide/) so you know what the report covers and talk to the Northbridge Board of Health about local rules.
+
+[See typical costs](https://title5roster.com/title-5-inspection-cost/)
+
+## Frequently asked questions
+
+**Do I need a Title 5 inspection to sell a house in Northbridge, MA?**
+
+Title 5 generally requires an inspection within 2 years before the sale (3 years if the system was pumped every year), and the report goes to the Northbridge Board of Health ([Mass.gov](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)). Local bylaws can add rules, so check with the Northbridge Board of Health.
+
+**How many approved Title 5 inspectors are in Northbridge?**
+
+5 MassDEP-approved System Inspectors list a Northbridge address on NEIWPCC's 10/2/2026 list. 180 more listings are elsewhere in Worcester County. Inspectors often work across a region, so ask each one about availability and price.
+
+**How much does a Title 5 inspection cost in Northbridge?**
+
+We don't have town-specific price data. Published 2026 estimates put the inspection alone at $300–$900, and pumping is often extra. MassDEP doesn't regulate fees, so get written prices from two or three approved inspectors. See [sources and what changes the price](https://title5roster.com/title-5-inspection-cost/).
+
+**How do I check that a Title 5 inspector is approved?**
+
+Listings here come from [NEIWPCC's list of MassDEP-approved System Inspectors](https://neiwpcc.org/our-programs/wastewater/mass-title-5/listings-of-approved-system-inspectors-and-soil-evaluators/), and each listing links its source. Check the inspector's name on that list before you hire.
+
 ## Which other Worcester County towns have Title 5 inspector pages?
 
 [Leominster](https://title5roster.com/town/leominster-ma/) · [Lunenburg](https://title5roster.com/town/lunenburg-ma/) · [Sutton](https://title5roster.com/town/sutton-ma/) · [Sterling](https://title5roster.com/town/sterling-ma/) · [Ashburnham](https://title5roster.com/town/ashburnham-ma/) · [Holden](https://title5roster.com/town/holden-ma/)
