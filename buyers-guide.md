@@ -6,6 +6,8 @@ canonical: https://title5roster.com/buyers-guide/
 
 # Buyer's guide: Title 5 septic inspections
 
+> Last updated 2026-10-13. Checked against the official sources listed at the end of this page.
+
 1. **Ask for the report early.** You are entitled to a copy. Check it's on the MassDEP form and signed by an approved inspector (verify on the [NEIWPCC list](https://neiwpcc.org/our-programs/wastewater/mass-title-5/listings-of-approved-system-inspectors-and-soil-evaluators/) or [our town pages](https://title5roster.com/towns/)).
 2. **Check the date.** It must be within 2 years before closing, or 3 with annual pumping records.
 3. **Read the result.** A conditional pass lists components to fix. A failure means an upgrade within 2 years.
@@ -24,6 +26,12 @@ Yes. A failed system must be upgraded within 2 years (unless the Board of Health
 Yes. The person acquiring title must receive a copy of the inspection report.
 
 Sources: [Mass.gov: Buying or Selling Property with a Septic System](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system) and [310 CMR 15.000 (Title 5)](https://www.mass.gov/regulations/310-CMR-1500-the-state-environmental-code-title-5), sections 15.300-15.305. Retrieved 2026-10-12. General information, not legal advice; local Boards of Health can have stricter rules.
+
+## Sources
+
+- [NEIWPCC list](https://neiwpcc.org/our-programs/wastewater/mass-title-5/listings-of-approved-system-inspectors-and-soil-evaluators/)
+- [Mass.gov: Buying or Selling Property with a Septic System](https://www.mass.gov/guides/buying-or-selling-property-with-a-septic-system)
+- [310 CMR 15.000 (Title 5)](https://www.mass.gov/regulations/310-CMR-1500-the-state-environmental-code-title-5)
 
 ## How do I find a MassDEP-approved Title 5 inspector?
 

@@ -6,6 +6,8 @@ canonical: https://title5roster.com/title-5-inspection-cost/
 
 # How much does a Title 5 inspection cost?
 
+> Last updated 2026-10-13. Checked against the official sources listed at the end of this page.
+
 **Short answer:** most Title 5 inspections cost about **$300–$900** (often $400–$600). Pumping, if needed, is usually extra at roughly $250–$500. MassDEP doesn't set or regulate inspection fees, so prices vary by inspector and town ([Mass.gov consumer tips](https://www.mass.gov/guides/consumer-protection-tips-septic-system-inspections-and-repairs)).
 
 | Item | Typical range | Source |
@@ -55,6 +57,17 @@ Replacement varies with soil, groundwater and lot. Recent Massachusetts guides r
 Yes. The state septic tax credit is 60% of eligible costs up to $30,000 (max $4,000 a year, $18,000 total), and MassHousing and many towns offer low- or no-interest septic loans.
 
 [Find approved inspectors](https://title5roster.com/towns/)
+
+## Sources
+
+- [Mass.gov consumer tips](https://www.mass.gov/guides/consumer-protection-tips-septic-system-inspections-and-repairs)
+- [LegalClarity](https://legalclarity.org/how-much-is-a-title-5-inspection-in-ma/)
+- [Cape Cod Septic Pros](https://capecodsepticpros.com/guides/title-5-inspection-cost/)
+- [Great Barrington BOH FAQ](https://www.townofgb.org/sites/g/files/vyhlif636/f/uploads/title_5_.pdf)
+- [SepticMind 2026 guide](https://septicmind.com/massachusetts-septic-system-replacement-cost-15000-35000)
+- [Mass.gov (DOR)](https://www.mass.gov/info-details/massachusetts-residential-property-tax-credits)
+- [MassHousing](https://www.masshousing.com/maintain-your-home/homeowner-programs/septic/)
+- [Community Septic Management Program](https://www.mass.gov/info-details/community-septic-management-loan-program)
 
 ## How do I find a MassDEP-approved Title 5 inspector?
 
