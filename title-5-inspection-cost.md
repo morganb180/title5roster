@@ -8,6 +8,8 @@ canonical: https://title5roster.com/title-5-inspection-cost/
 
 > Last updated 2026-10-13. Checked against the official sources listed at the end of this page.
 
+Reviewed by Title 5 Roster staff
+
 **Short answer:** most Title 5 inspections cost about **$300–$900** (often $400–$600). Pumping, if needed, is usually extra at roughly $250–$500. MassDEP doesn't set or regulate inspection fees, so prices vary by inspector and town ([Mass.gov consumer tips](https://www.mass.gov/guides/consumer-protection-tips-septic-system-inspections-and-repairs)).
 
 | Item | Typical range | Source |

@@ -8,6 +8,8 @@ canonical: https://title5roster.com/title-5-inspection/
 
 > Last updated 2026-10-13. Checked against the official sources listed at the end of this page.
 
+Reviewed by Title 5 Roster staff
+
 Title 5 of the Massachusetts State Environmental Code (310 CMR 15.000) governs septic systems. Most sales of a property with a septic system or cesspool need a **system inspection by a MassDEP-approved System Inspector**.
 
 ## What does Title 5 require when a home is sold?

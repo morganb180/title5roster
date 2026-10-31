@@ -8,6 +8,8 @@ canonical: https://title5roster.com/sellers-guide/
 
 > Last updated 2026-10-13. Checked against the official sources listed at the end of this page.
 
+Reviewed by Title 5 Roster staff
+
 1. **Confirm you need one.** Most sales do; see [exemptions](https://title5roster.com/title-5-inspection/).
 2. **Hire a MassDEP-approved System Inspector.** Only approved inspectors' reports count. [Find one by town](https://title5roster.com/towns/).
 3. **Inspect early.** Inspecting before listing gives you time to handle a conditional pass or failure. The report is good for 2 years (3 with annual pumping).

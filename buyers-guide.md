@@ -8,6 +8,8 @@ canonical: https://title5roster.com/buyers-guide/
 
 > Last updated 2026-10-13. Checked against the official sources listed at the end of this page.
 
+Reviewed by Title 5 Roster staff
+
 1. **Ask for the report early.** You are entitled to a copy. Check it's on the MassDEP form and signed by an approved inspector (verify on the [NEIWPCC list](https://neiwpcc.org/our-programs/wastewater/mass-title-5/listings-of-approved-system-inspectors-and-soil-evaluators/) or [our town pages](https://title5roster.com/towns/)).
 2. **Check the date.** It must be within 2 years before closing, or 3 with annual pumping records.
 3. **Read the result.** A conditional pass lists components to fix. A failure means an upgrade within 2 years.
