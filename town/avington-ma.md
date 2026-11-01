@@ -26,7 +26,7 @@ Avington, MA
 
 1 approved inspector
 
-* Winston Steadman II (SI #13045, approval expires 2028-08-01)
+* [Winston Steadman II](https://title5roster.com/inspectors/winston-steadman-ii-si13045/) (SI #13045, approval expires 2028-08-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13045)
 

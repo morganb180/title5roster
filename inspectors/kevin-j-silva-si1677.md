@@ -1,0 +1,18 @@
+---
+title: "Kevin J. Silva, Title 5 System Inspector SI #1677 | Title 5 Roster"
+description: "Kevin J. Silva is a MassDEP-approved Title 5 System Inspector (SI #1677) based in Westport, MA. Approval expires June 30, 2028 per the NEIWPCC list."
+canonical: https://title5roster.com/inspectors/kevin-j-silva-si1677/
+---
+
+# Kevin J. Silva, Title 5 System Inspector (SI #1677)
+
+Kevin J. Silva is on the NEIWPCC list of MassDEP-approved Title 5 System Inspectors dated October 2, 2026.
+
+* **SI number:** #1677
+* **Approval expires:** June 30, 2028
+* **Approved by:** Massachusetts Department of Environmental Protection (MassDEP); list published by NEIWPCC
+* **Business listing:** S&amp;K Engineering, LLC
+* **Based in:** Westport, MA
+* **County:** Bristol County
+
+Source: https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf (retrieved 2026-10-12)

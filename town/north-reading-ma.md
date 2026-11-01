@@ -26,7 +26,7 @@ North Reading, MA
 
 1 approved inspector
 
-* Warren R. Pearce, Jr. (SI #1959, approval expires 2028-06-30)
+* [Warren R. Pearce, Jr.](https://title5roster.com/inspectors/warren-r-pearce-jr-si1959/) (SI #1959, approval expires 2028-06-30)
 
 ☎ [(978) 664-5264](tel:9786645264)  
 Google rating 5.0 (4 reviews)  
@@ -42,7 +42,7 @@ North Reading, MA
 
 1 approved inspector
 
-* James M. Kavanaugh (SI #3202, approval expires 2028-06-30)
+* [James M. Kavanaugh](https://title5roster.com/inspectors/james-m-kavanaugh-si3202/) (SI #3202, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3202)
 
@@ -54,7 +54,7 @@ North Reading, MA
 
 1 approved inspector
 
-* Ralph Simard (SI #13015, approval expires 2027-06-30)
+* [Ralph Simard](https://title5roster.com/inspectors/ralph-simard-si13015/) (SI #13015, approval expires 2027-06-30)
 
 ☎ [(508) 958-2002](tel:5089582002)  
 Google rating 3.9 (7 reviews)  
@@ -70,7 +70,7 @@ North Reading, MA
 
 1 approved inspector
 
-* Israel Berl (SI #14923, approval expires 2027-07-01)
+* [Israel Berl](https://title5roster.com/inspectors/israel-berl-si14923/) (SI #14923, approval expires 2027-07-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14923)
 
@@ -82,7 +82,7 @@ North Reading, MA
 
 1 approved inspector
 
-* Luke J. Roy (SI #4409, approval expires 2028-06-30)
+* [Luke J. Roy](https://title5roster.com/inspectors/luke-j-roy-si4409/) (SI #4409, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4409)
 
@@ -100,7 +100,7 @@ Holliston, MA
 
 1 approved inspector
 
-* Graham McCamley (SI #14632, approval expires 2028-06-30)
+* [Graham McCamley](https://title5roster.com/inspectors/graham-mccamley-si14632/) (SI #14632, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14632)
 
@@ -114,7 +114,7 @@ Lowell, MA
 
 1 approved inspector
 
-* Steven M. Loughlin (SI #310, approval expires 2028-06-30)
+* [Steven M. Loughlin](https://title5roster.com/inspectors/steven-m-loughlin-si310/) (SI #310, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T310)
 
@@ -128,7 +128,7 @@ Medford, MA
 
 1 approved inspector
 
-* Drew Gallant (SI #14482, approval expires 2027-06-30)
+* [Drew Gallant](https://title5roster.com/inspectors/drew-gallant-si14482/) (SI #14482, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14482)
 
@@ -142,7 +142,7 @@ Townsend, MA
 
 1 approved inspector
 
-* John M. Whittemore II (SI #4044, approval expires 2028-06-30)
+* [John M. Whittemore II](https://title5roster.com/inspectors/john-m-whittemore-ii-si4044/) (SI #4044, approval expires 2028-06-30)
 
 ☎ [(978) 597-5378](tel:9785975378)  
 Google rating 5.0 (15 reviews)  
@@ -160,7 +160,7 @@ Pepperell, MA
 
 1 approved inspector
 
-* Todd J. Silva (SI #13466, approval expires 2029-06-30)
+* [Todd J. Silva](https://title5roster.com/inspectors/todd-j-silva-si13466/) (SI #13466, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13466)
 
@@ -174,7 +174,7 @@ Acton, MA
 
 1 approved inspector
 
-* John Bonica (SI #3289, approval expires 2028-06-30)
+* [John Bonica](https://title5roster.com/inspectors/john-bonica-si3289/) (SI #3289, approval expires 2028-06-30)
 
 ☎ [(978) 263-3530](tel:9782633530)  
 🌐 [bonicaexcavation.com](http://www.bonicaexcavation.com/)  
@@ -193,7 +193,7 @@ Everett, MA
 
 1 approved inspector
 
-* Philip A. Raccuia (SI #2596, approval expires 2028-06-30)
+* [Philip A. Raccuia](https://title5roster.com/inspectors/philip-a-raccuia-si2596/) (SI #2596, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2596)
 
@@ -207,7 +207,7 @@ Tewksbury, MA
 
 1 approved inspector
 
-* Eric Mistretta (SI #14145, approval expires 2029-06-30)
+* [Eric Mistretta](https://title5roster.com/inspectors/eric-mistretta-si14145/) (SI #14145, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14145)
 
@@ -221,7 +221,7 @@ Maynard, MA
 
 1 approved inspector
 
-* Charles P. Hartwell (SI #98, approval expires 2028-06-30)
+* [Charles P. Hartwell](https://title5roster.com/inspectors/charles-p-hartwell-si98/) (SI #98, approval expires 2028-06-30)
 
 ☎ [(978) 844-7249](tel:9788447249)  
 Google rating 5.0 (3 reviews)  
@@ -239,7 +239,7 @@ Hudson, MA
 
 1 approved inspector
 
-* Richard F. Casaceli (SI #34, approval expires 2028-06-30)
+* [Richard F. Casaceli](https://title5roster.com/inspectors/richard-f-casaceli-si34/) (SI #34, approval expires 2028-06-30)
 
 ☎ [(978) 562-6477](tel:9785626477)  
 🌐 [casaceli.com](http://www.casaceli.com/)  
@@ -258,8 +258,8 @@ Westford, MA
 
 2 approved inspectors
 
-* Kevin J. Ritchie (SI #2967, approval expires 2028-06-30)
-* Kirk C. Fitzpatrick (SI #2220, approval expires 2028-06-30)
+* [Kevin J. Ritchie](https://title5roster.com/inspectors/kevin-j-ritchie-si2967/) (SI #2967, approval expires 2028-06-30)
+* [Kirk C. Fitzpatrick](https://title5roster.com/inspectors/kirk-c-fitzpatrick-si2220/) (SI #2220, approval expires 2028-06-30)
 
 ☎ [(978) 692-5000](tel:9786925000)  
 Google rating 5.0 (2 reviews)  
@@ -277,7 +277,7 @@ Holliston, MA
 
 1 approved inspector
 
-* Paul E. Saulnier (SI #2985, approval expires 2028-06-30)
+* [Paul E. Saulnier](https://title5roster.com/inspectors/paul-e-saulnier-si2985/) (SI #2985, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2985)
 
@@ -291,7 +291,7 @@ Hopkinton, MA
 
 1 approved inspector
 
-* Eric Dickinson (SI #13621, approval expires 2027-06-30)
+* [Eric Dickinson](https://title5roster.com/inspectors/eric-dickinson-si13621/) (SI #13621, approval expires 2027-06-30)
 
 ☎ [(508) 308-1924](tel:5083081924)  
 Google rating 3.0 (2 reviews)  
@@ -309,7 +309,7 @@ Sudbury, MA
 
 1 approved inspector
 
-* Marcia J. Berger (SI #768, approval expires 2028-06-30)
+* [Marcia J. Berger](https://title5roster.com/inspectors/marcia-j-berger-si768/) (SI #768, approval expires 2028-06-30)
 
 ☎ [(800) 977-1982](tel:8009771982)  
 🌐 [cleanproperties.com](http://www.cleanproperties.com/)  
@@ -329,7 +329,7 @@ Sudbury, MA
 
 1 approved inspector
 
-* Daniel A. Starmer (SI #4368, approval expires 2028-06-30)
+* [Daniel A. Starmer](https://title5roster.com/inspectors/daniel-a-starmer-si4368/) (SI #4368, approval expires 2028-06-30)
 
 ☎ [(978) 443-2595](tel:9784432595)  
 🌐 [starmerseptic.com](http://www.starmerseptic.com/)  
@@ -349,7 +349,7 @@ Framingham, MA
 
 1 approved inspector
 
-* Bert Corey (SI #4370, approval expires 2028-06-30)
+* [Bert Corey](https://title5roster.com/inspectors/bert-corey-si4370/) (SI #4370, approval expires 2028-06-30)
 
 ☎ [(508) 879-0030](tel:5088790030)  
 🌐 [dgtassociates.com](https://dgtassociates.com/schofield-brothers/)  
@@ -368,7 +368,7 @@ Sudbury, MA
 
 1 approved inspector
 
-* Israel A. Faria Filho (SI #15005, approval expires 2028-02-01)
+* [Israel A. Faria Filho](https://title5roster.com/inspectors/israel-a-faria-filho-si15005/) (SI #15005, approval expires 2028-02-01)
 
 ☎ [(978) 443-2599](tel:9784432599)  
 🌐 [djmorriscontracting.com](https://www.djmorriscontracting.com/)  
@@ -388,7 +388,7 @@ Littleton, MA
 
 1 approved inspector
 
-* Ted P. Doucette (SI #4680, approval expires 2028-06-30)
+* [Ted P. Doucette](https://title5roster.com/inspectors/ted-p-doucette-si4680/) (SI #4680, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4680)
 
@@ -402,7 +402,7 @@ Littleton, MA
 
 1 approved inspector
 
-* Todd Ehwa (SI #13635, approval expires 2027-06-30)
+* [Todd Ehwa](https://title5roster.com/inspectors/todd-ehwa-si13635/) (SI #13635, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13635)
 
@@ -416,7 +416,7 @@ Littleton, MA
 
 1 approved inspector
 
-* Dan Duprez (SI #13060, approval expires 2027-06-30)
+* [Dan Duprez](https://title5roster.com/inspectors/dan-duprez-si13060/) (SI #13060, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13060)
 
@@ -430,7 +430,7 @@ Dunstable, MA
 
 1 approved inspector
 
-* Ernest Sweet (SI #3044, approval expires 2028-06-30)
+* [Ernest Sweet](https://title5roster.com/inspectors/ernest-sweet-si3044/) (SI #3044, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3044)
 
@@ -444,7 +444,7 @@ Boxborough, MA (listed as Boxboro)
 
 1 approved inspector
 
-* John Flannery (SI #66, approval expires 2028-06-30)
+* [John Flannery](https://title5roster.com/inspectors/john-flannery-si66/) (SI #66, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T66)
 
@@ -458,7 +458,7 @@ Stow, MA
 
 1 approved inspector
 
-* Scott P. Hayes (SI #3291, approval expires 2028-06-30)
+* [Scott P. Hayes](https://title5roster.com/inspectors/scott-p-hayes-si3291/) (SI #3291, approval expires 2028-06-30)
 
 ☎ [(978) 461-2350](tel:9784612350)  
 🌐 [foresite1.com](http://www.foresite1.com/)  
@@ -478,7 +478,7 @@ Acton, MA
 
 1 approved inspector
 
-* Michael R. Marvelle (SI #14869, approval expires 2027-05-01)
+* [Michael R. Marvelle](https://title5roster.com/inspectors/michael-r-marvelle-si14869/) (SI #14869, approval expires 2027-05-01)
 
 ☎ [(781) 899-8730](tel:7818998730)  
 🌐 [fragalebuildingcorp.com](http://www.fragalebuildingcorp.com/)  
@@ -498,7 +498,7 @@ Pepperell, MA
 
 1 approved inspector
 
-* Alex J. Massarelli (SI #14428, approval expires 2028-06-30)
+* [Alex J. Massarelli](https://title5roster.com/inspectors/alex-j-massarelli-si14428/) (SI #14428, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14428)
 
@@ -512,7 +512,7 @@ Westford, MA
 
 1 approved inspector
 
-* Carlton Greenwood (SI #89, approval expires 2028-06-30)
+* [Carlton Greenwood](https://title5roster.com/inspectors/carlton-greenwood-si89/) (SI #89, approval expires 2028-06-30)
 
 ☎ [(978) 692-8930](tel:9786928930)  
 🌐 [greenwoodsewerservice.net](http://www.greenwoodsewerservice.net/)  
@@ -531,7 +531,7 @@ Hopkinton, MA
 
 1 approved inspector
 
-* John M. DiCarlo (SI #2764, approval expires 2028-06-30)
+* [John M. DiCarlo](https://title5roster.com/inspectors/john-m-dicarlo-si2764/) (SI #2764, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2764)
 
@@ -545,7 +545,7 @@ Holliston, MA
 
 1 approved inspector
 
-* Harry Kampersal (SI #118, approval expires 2028-06-30)
+* [Harry Kampersal](https://title5roster.com/inspectors/harry-kampersal-si118/) (SI #118, approval expires 2028-06-30)
 
 ☎ [(508) 429-6262](tel:5084296262)  
 🌐 [hollistonsewer.com](http://www.hollistonsewer.com/)  
@@ -564,7 +564,7 @@ Hopkinton, MA
 
 1 approved inspector
 
-* Justin P. Webster (SI #13913, approval expires 2027-06-30)
+* [Justin P. Webster](https://title5roster.com/inspectors/justin-p-webster-si13913/) (SI #13913, approval expires 2027-06-30)
 
 ☎ [(508) 435-3381](tel:5084353381)  
 🌐 [jcparmenterseptic.com](https://www.jcparmenterseptic.com/)  
@@ -584,7 +584,7 @@ Wakefield, MA
 
 1 approved inspector
 
-* Peter Nardone (SI #4585, approval expires 2027-06-30)
+* [Peter Nardone](https://title5roster.com/inspectors/peter-nardone-si4585/) (SI #4585, approval expires 2027-06-30)
 
 ☎ [(781) 245-1366](tel:7812451366)  
 Google rating 5.0 (2 reviews)  
@@ -602,7 +602,7 @@ Marlborough, MA
 
 1 approved inspector
 
-* Gary H. Lynde (SI #143, approval expires 2028-06-30)
+* [Gary H. Lynde](https://title5roster.com/inspectors/gary-h-lynde-si143/) (SI #143, approval expires 2028-06-30)
 
 ☎ [(508) 485-1063](tel:5084851063)  
 🌐 [lakesidesewerage.com](http://www.lakesidesewerage.com/)  
@@ -622,7 +622,7 @@ Hopkinton, MA
 
 1 approved inspector
 
-* Mark H. Gates (SI #9309, approval expires 2027-06-30)
+* [Mark H. Gates](https://title5roster.com/inspectors/mark-h-gates-si9309/) (SI #9309, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T9309)
 
@@ -636,7 +636,7 @@ Groton, MA (listed as West Groton)
 
 1 approved inspector
 
-* Mathew A. Waterman (SI #3930, approval expires 2028-06-30)
+* [Mathew A. Waterman](https://title5roster.com/inspectors/mathew-a-waterman-si3930/) (SI #3930, approval expires 2028-06-30)
 
 ☎ [(978) 692-6100](tel:9786926100)  
 🌐 [landtechinc.com](http://www.landtechinc.com/)  
@@ -655,7 +655,7 @@ Hopkinton, MA
 
 1 approved inspector
 
-* Daniel McIntyre (SI #292, approval expires 2028-06-30)
+* [Daniel McIntyre](https://title5roster.com/inspectors/daniel-mcintyre-si292/) (SI #292, approval expires 2028-06-30)
 
 ☎ [(508) 497-2374](tel:5084972374)  
 Added by us, not on the state list: phone from the firm's [Google Maps listing](https://maps.google.com/?cid=18219319614629419682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
@@ -672,7 +672,7 @@ Framingham, MA
 
 1 approved inspector
 
-* Robert A. Gemma (SI #290, approval expires 2028-06-30)
+* [Robert A. Gemma](https://title5roster.com/inspectors/robert-a-gemma-si290/) (SI #290, approval expires 2028-06-30)
 
 ☎ [(508) 626-0063](tel:5086260063)  
 🌐 [mwengineering.com](https://mwengineering.com/)  
@@ -692,7 +692,7 @@ Westford, MA
 
 1 approved inspector
 
-* Jeffrey L. Hannaford (SI #474, approval expires 2028-06-30)
+* [Jeffrey L. Hannaford](https://title5roster.com/inspectors/jeffrey-l-hannaford-si474/) (SI #474, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T474)
 
@@ -706,7 +706,7 @@ Littleton, MA
 
 1 approved inspector
 
-* William E. Murray (SI #2106, approval expires 2028-06-30)
+* [William E. Murray](https://title5roster.com/inspectors/william-e-murray-si2106/) (SI #2106, approval expires 2028-06-30)
 
 ☎ [(978) 486-0334](tel:9784860334)  
 🌐 [placesassociates.com](http://www.placesassociates.com/)  
@@ -726,7 +726,7 @@ Acton, MA
 
 1 approved inspector
 
-* James Walsh (SI #15059, approval expires 2028-08-01)
+* [James Walsh](https://title5roster.com/inspectors/james-walsh-si15059/) (SI #15059, approval expires 2028-08-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15059)
 
@@ -740,8 +740,8 @@ Ayer, MA
 
 2 approved inspectors
 
-* Fred Ehwa (SI #13628, approval expires 2027-06-30)
-* Matthew Robinson (SI #4992, approval expires 2027-06-30)
+* [Fred Ehwa](https://title5roster.com/inspectors/fred-ehwa-si13628/) (SI #13628, approval expires 2027-06-30)
+* [Matthew Robinson](https://title5roster.com/inspectors/matthew-robinson-si4992/) (SI #4992, approval expires 2027-06-30)
 
 ☎ [(978) 772-1600](tel:9787721600)  
 🌐 [rattacorp.com](http://rattacorp.com/)  
@@ -760,7 +760,7 @@ Groton, MA
 
 1 approved inspector
 
-* Robert J. Lacombe, II (SI #522, approval expires 2028-06-30)
+* [Robert J. Lacombe, II](https://title5roster.com/inspectors/robert-j-lacombe-ii-si522/) (SI #522, approval expires 2028-06-30)
 
 ☎ [(978) 692-3085](tel:9786923085)  
 🌐 [rjlacombe.com](https://www.rjlacombe.com/)  
@@ -779,7 +779,7 @@ Littleton, MA
 
 1 approved inspector
 
-* Jennifer L. Ratta (SI #4589, approval expires 2027-06-30)
+* [Jennifer L. Ratta](https://title5roster.com/inspectors/jennifer-l-ratta-si4589/) (SI #4589, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4589)
 
@@ -793,7 +793,7 @@ Ayer, MA
 
 1 approved inspector
 
-* Timothy E. MacGregor Jr. (SI #14381, approval expires 2028-06-30)
+* [Timothy E. MacGregor Jr.](https://title5roster.com/inspectors/timothy-e-macgregor-jr-si14381/) (SI #14381, approval expires 2028-06-30)
 
 ☎ [(978) 772-1600](tel:9787721600)  
 🌐 [rattacorp.com](http://rattacorp.com/)  
@@ -812,7 +812,7 @@ Concord, MA
 
 1 approved inspector
 
-* Stacey J. Abato (SI #4046, approval expires 2028-06-30)
+* [Stacey J. Abato](https://title5roster.com/inspectors/stacey-j-abato-si4046/) (SI #4046, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4046)
 
@@ -826,7 +826,7 @@ Westford, MA
 
 1 approved inspector
 
-* Scott D. Matley (SI #2648, approval expires 2028-06-30)
+* [Scott D. Matley](https://title5roster.com/inspectors/scott-d-matley-si2648/) (SI #2648, approval expires 2028-06-30)
 
 ☎ [(978) 692-2136](tel:9786922136)  
 Google rating 5.0 (6 reviews)  
@@ -844,8 +844,8 @@ Holliston, MA
 
 2 approved inspectors
 
-* Lesley J. Ellis (SI #13930, approval expires 2027-06-30)
-* William Rodenhiser (SI #13059, approval expires 2027-06-30)
+* [Lesley J. Ellis](https://title5roster.com/inspectors/lesley-j-ellis-si13930/) (SI #13930, approval expires 2027-06-30)
+* [William Rodenhiser](https://title5roster.com/inspectors/william-rodenhiser-si13059/) (SI #13059, approval expires 2027-06-30)
 
 ☎ [(508) 429-9553](tel:5084299553)  
 🌐 [rodenhiser.biz](http://www.rodenhiser.biz/)  
@@ -865,7 +865,7 @@ Wayland, MA
 
 1 approved inspector
 
-* David Schofield (SI #3241, approval expires 2028-06-30)
+* [David Schofield](https://title5roster.com/inspectors/david-schofield-si3241/) (SI #3241, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3241)
 
@@ -879,8 +879,8 @@ Hopkinton, MA
 
 2 approved inspectors
 
-* Robert E. Scott (SI #5038, approval expires 2028-06-30)
-* Stacey R. Scott (SI #13467, approval expires 2029-06-30)
+* [Robert E. Scott](https://title5roster.com/inspectors/robert-e-scott-si5038/) (SI #5038, approval expires 2028-06-30)
+* [Stacey R. Scott](https://title5roster.com/inspectors/stacey-r-scott-si13467/) (SI #13467, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T5038)
 
@@ -894,7 +894,7 @@ Westford, MA
 
 1 approved inspector
 
-* David B. Chandler (SI #37, approval expires 2028-06-30)
+* [David B. Chandler](https://title5roster.com/inspectors/david-b-chandler-si37/) (SI #37, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T37)
 
@@ -908,7 +908,7 @@ Billerica, MA
 
 1 approved inspector
 
-* Vincent MacDonald (SI #2048, approval expires 2028-06-30)
+* [Vincent MacDonald](https://title5roster.com/inspectors/vincent-macdonald-si2048/) (SI #2048, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2048)
 
@@ -922,9 +922,9 @@ Acton, MA
 
 3 approved inspectors
 
-* George Dimakarakos (SI #2978, approval expires 2028-06-30)
-* Joseph March (SI #853, approval expires 2028-06-30)
-* Nathanial Cataldo (SI #14601, approval expires 2028-06-30)
+* [George Dimakarakos](https://title5roster.com/inspectors/george-dimakarakos-si2978/) (SI #2978, approval expires 2028-06-30)
+* [Joseph March](https://title5roster.com/inspectors/joseph-march-si853/) (SI #853, approval expires 2028-06-30)
+* [Nathanial Cataldo](https://title5roster.com/inspectors/nathanial-cataldo-si14601/) (SI #14601, approval expires 2028-06-30)
 
 ☎ [(978) 263-8585](tel:9782638585)  
 🌐 [stamskiandmcnary.com](http://stamskiandmcnary.com/)  
@@ -944,7 +944,7 @@ Townsend, MA (listed as West Townsend)
 
 1 approved inspector
 
-* William G. Schulze (SI #2006, approval expires 2028-06-30)
+* [William G. Schulze](https://title5roster.com/inspectors/william-g-schulze-si2006/) (SI #2006, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2006)
 
@@ -958,7 +958,7 @@ Westford, MA
 
 1 approved inspector
 
-* Robert J. Frado (SI #69, approval expires 2028-06-30)
+* [Robert J. Frado](https://title5roster.com/inspectors/robert-j-frado-si69/) (SI #69, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T69)
 
@@ -972,7 +972,7 @@ Ayer, MA
 
 1 approved inspector
 
-* Wendy Lee Routhier (SI #4466, approval expires 2028-06-30)
+* [Wendy Lee Routhier](https://title5roster.com/inspectors/wendy-lee-routhier-si4466/) (SI #4466, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4466)
 
@@ -986,7 +986,7 @@ Acton, MA
 
 1 approved inspector
 
-* Stephan Marsh (SI #12695, approval expires 2027-06-30)
+* [Stephan Marsh](https://title5roster.com/inspectors/stephan-marsh-si12695/) (SI #12695, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T12695)
 
@@ -1000,7 +1000,7 @@ Reading, MA
 
 1 approved inspector
 
-* Kyrielle Lord (SI #15057, approval expires 2028-08-01)
+* [Kyrielle Lord](https://title5roster.com/inspectors/kyrielle-lord-si15057/) (SI #15057, approval expires 2028-08-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15057)
 
@@ -1014,7 +1014,7 @@ Marlborough, MA
 
 1 approved inspector
 
-* Kevin A. Soto (SI #14864, approval expires 2027-05-01)
+* [Kevin A. Soto](https://title5roster.com/inspectors/kevin-a-soto-si14864/) (SI #14864, approval expires 2027-05-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14864)
 
@@ -1028,7 +1028,7 @@ Maynard, MA
 
 1 approved inspector
 
-* John J. Mallin (SI #14644, approval expires 2028-06-30)
+* [John J. Mallin](https://title5roster.com/inspectors/john-j-mallin-si14644/) (SI #14644, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14644)
 
@@ -1042,7 +1042,7 @@ Ayer, MA
 
 1 approved inspector
 
-* Aaron MacInnis (SI #14380, approval expires 2028-06-30)
+* [Aaron MacInnis](https://title5roster.com/inspectors/aaron-macinnis-si14380/) (SI #14380, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14380)
 
@@ -1056,7 +1056,7 @@ Carlisle, MA
 
 1 approved inspector
 
-* Albert Innamorati (SI #14724, approval expires 2029-06-30)
+* [Albert Innamorati](https://title5roster.com/inspectors/albert-innamorati-si14724/) (SI #14724, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14724)
 
@@ -1070,7 +1070,7 @@ Lowell, MA
 
 1 approved inspector
 
-* Alicia McCartin (SI #14440, approval expires 2028-06-30)
+* [Alicia McCartin](https://title5roster.com/inspectors/alicia-mccartin-si14440/) (SI #14440, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14440)
 
@@ -1084,7 +1084,7 @@ Marlborough, MA
 
 1 approved inspector
 
-* Amy J. Medeiros (SI #14701, approval expires 2028-06-30)
+* [Amy J. Medeiros](https://title5roster.com/inspectors/amy-j-medeiros-si14701/) (SI #14701, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14701)
 
@@ -1098,7 +1098,7 @@ Littleton, MA
 
 1 approved inspector
 
-* Ann M. Loree (SI #13885, approval expires 2028-06-30)
+* [Ann M. Loree](https://title5roster.com/inspectors/ann-m-loree-si13885/) (SI #13885, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13885)
 
@@ -1112,7 +1112,7 @@ Hudson, MA
 
 1 approved inspector
 
-* Austyn Lavertue (SI #14702, approval expires 2028-06-30)
+* [Austyn Lavertue](https://title5roster.com/inspectors/austyn-lavertue-si14702/) (SI #14702, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14702)
 
@@ -1126,7 +1126,7 @@ Framingham, MA
 
 1 approved inspector
 
-* Brandon Waugh (SI #14205, approval expires 2027-06-30)
+* [Brandon Waugh](https://title5roster.com/inspectors/brandon-waugh-si14205/) (SI #14205, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14205)
 
@@ -1140,7 +1140,7 @@ Framingham, MA
 
 1 approved inspector
 
-* Bret Mistretta (SI #14692, approval expires 2028-06-30)
+* [Bret Mistretta](https://title5roster.com/inspectors/bret-mistretta-si14692/) (SI #14692, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14692)
 
@@ -1154,7 +1154,7 @@ Tewksbury, MA
 
 1 approved inspector
 
-* Charles J. Roux (SI #891, approval expires 2028-06-30)
+* [Charles J. Roux](https://title5roster.com/inspectors/charles-j-roux-si891/) (SI #891, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T891)
 
@@ -1168,7 +1168,7 @@ Hopkinton, MA
 
 1 approved inspector
 
-* Chris Nation (SI #3978, approval expires 2028-06-30)
+* [Chris Nation](https://title5roster.com/inspectors/chris-nation-si3978/) (SI #3978, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3978)
 
@@ -1182,7 +1182,7 @@ Holliston, MA
 
 1 approved inspector
 
-* Christopher Gaboriault (SI #12242, approval expires 2028-02-01)
+* [Christopher Gaboriault](https://title5roster.com/inspectors/christopher-gaboriault-si12242/) (SI #12242, approval expires 2028-02-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T12242)
 
@@ -1196,7 +1196,7 @@ Sudbury, MA
 
 1 approved inspector
 
-* Christopher Giunta (SI #14856, approval expires 2029-06-30)
+* [Christopher Giunta](https://title5roster.com/inspectors/christopher-giunta-si14856/) (SI #14856, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14856)
 
@@ -1210,7 +1210,7 @@ Waltham, MA
 
 1 approved inspector
 
-* Christopher Hayward (SI #14498, approval expires 2027-06-30)
+* [Christopher Hayward](https://title5roster.com/inspectors/christopher-hayward-si14498/) (SI #14498, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14498)
 
@@ -1224,7 +1224,7 @@ Stow, MA
 
 1 approved inspector
 
-* Craig D. Martin (SI #14714, approval expires 2029-06-30)
+* [Craig D. Martin](https://title5roster.com/inspectors/craig-d-martin-si14714/) (SI #14714, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14714)
 
@@ -1238,7 +1238,7 @@ Natick, MA
 
 1 approved inspector
 
-* Dale MacKinnon (SI #1390, approval expires 2028-06-30)
+* [Dale MacKinnon](https://title5roster.com/inspectors/dale-mackinnon-si1390/) (SI #1390, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1390)
 
@@ -1252,7 +1252,7 @@ Wayland, MA
 
 1 approved inspector
 
-* Daniel Regan (SI #14519, approval expires 2027-06-30)
+* [Daniel Regan](https://title5roster.com/inspectors/daniel-regan-si14519/) (SI #14519, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14519)
 
@@ -1266,7 +1266,7 @@ Melrose, MA
 
 1 approved inspector
 
-* Daniel Thompson (SI #14669, approval expires 2026-11-01)
+* [Daniel Thompson](https://title5roster.com/inspectors/daniel-thompson-si14669/) (SI #14669, approval expires 2026-11-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14669)
 
@@ -1280,7 +1280,7 @@ Reading, MA
 
 1 approved inspector
 
-* Darren R. MacCaughey (SI #4309, approval expires 2028-06-30)
+* [Darren R. MacCaughey](https://title5roster.com/inspectors/darren-r-maccaughey-si4309/) (SI #4309, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4309)
 
@@ -1294,7 +1294,7 @@ Wilmington, MA
 
 1 approved inspector
 
-* Evan Brennan (SI #14290, approval expires 2027-06-30)
+* [Evan Brennan](https://title5roster.com/inspectors/evan-brennan-si14290/) (SI #14290, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14290)
 
@@ -1308,7 +1308,7 @@ Newton, MA (listed as West Newton)
 
 1 approved inspector
 
-* Frank Iebba (SI #13270, approval expires 2028-06-30)
+* [Frank Iebba](https://title5roster.com/inspectors/frank-iebba-si13270/) (SI #13270, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13270)
 
@@ -1322,7 +1322,7 @@ Pepperell, MA
 
 1 approved inspector
 
-* Frank J. Massarelli (SI #13802, approval expires 2029-06-30)
+* [Frank J. Massarelli](https://title5roster.com/inspectors/frank-j-massarelli-si13802/) (SI #13802, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13802)
 
@@ -1336,7 +1336,7 @@ Sudbury, MA
 
 1 approved inspector
 
-* Frank Vanaria (SI #3154, approval expires 2028-06-30)
+* [Frank Vanaria](https://title5roster.com/inspectors/frank-vanaria-si3154/) (SI #3154, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3154)
 
@@ -1350,7 +1350,7 @@ Maynard, MA
 
 1 approved inspector
 
-* Fred A. Weir (SI #242, approval expires 2028-06-30)
+* [Fred A. Weir](https://title5roster.com/inspectors/fred-a-weir-si242/) (SI #242, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T242)
 
@@ -1364,7 +1364,7 @@ Wakefield, MA
 
 1 approved inspector
 
-* Generoso (Joe) S. Cresta (SI #14638, approval expires 2028-06-30)
+* [Generoso (Joe) S. Cresta](https://title5roster.com/inspectors/generoso-joe-s-cresta-si14638/) (SI #14638, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14638)
 
@@ -1378,7 +1378,7 @@ Woburn, MA
 
 1 approved inspector
 
-* George J. Saraceno (SI #13785, approval expires 2029-06-30)
+* [George J. Saraceno](https://title5roster.com/inspectors/george-j-saraceno-si13785/) (SI #13785, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13785)
 
@@ -1392,7 +1392,7 @@ Burlington, MA
 
 1 approved inspector
 
-* Georgine Grissop (SI #4653, approval expires 2028-06-30)
+* [Georgine Grissop](https://title5roster.com/inspectors/georgine-grissop-si4653/) (SI #4653, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4653)
 
@@ -1406,7 +1406,7 @@ Acton, MA
 
 1 approved inspector
 
-* Glen Nichols (SI #177, approval expires 2028-06-30)
+* [Glen Nichols](https://title5roster.com/inspectors/glen-nichols-si177/) (SI #177, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T177)
 
@@ -1420,7 +1420,7 @@ Billerica, MA (listed as N. Billerica)
 
 1 approved inspector
 
-* James D. Lyons (SI #4598, approval expires 2028-06-30)
+* [James D. Lyons](https://title5roster.com/inspectors/james-d-lyons-si4598/) (SI #4598, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4598)
 
@@ -1434,7 +1434,7 @@ Dunstable, MA
 
 1 approved inspector
 
-* Jared A. Davis (SI #15002, approval expires 2028-02-01)
+* [Jared A. Davis](https://title5roster.com/inspectors/jared-a-davis-si15002/) (SI #15002, approval expires 2028-02-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15002)
 
@@ -1448,7 +1448,7 @@ Billerica, MA
 
 1 approved inspector
 
-* John W. Morris (SI #297, approval expires 2028-06-30)
+* [John W. Morris](https://title5roster.com/inspectors/john-w-morris-si297/) (SI #297, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T297)
 
@@ -1462,7 +1462,7 @@ Hudson, MA
 
 1 approved inspector
 
-* Jonathan Fairbank (SI #14429, approval expires 2028-06-30)
+* [Jonathan Fairbank](https://title5roster.com/inspectors/jonathan-fairbank-si14429/) (SI #14429, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14429)
 
@@ -1476,7 +1476,7 @@ Westford, MA
 
 1 approved inspector
 
-* Joseph Greenwood (SI #15143, approval expires 2029-02-01)
+* [Joseph Greenwood](https://title5roster.com/inspectors/joseph-greenwood-si15143/) (SI #15143, approval expires 2029-02-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15143)
 
@@ -1490,7 +1490,7 @@ Wayland, MA
 
 1 approved inspector
 
-* Julia Junghanns (SI #4212, approval expires 2028-06-30)
+* [Julia Junghanns](https://title5roster.com/inspectors/julia-junghanns-si4212/) (SI #4212, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4212)
 
@@ -1504,7 +1504,7 @@ Wayland, MA
 
 1 approved inspector
 
-* Justin Rowe (SI #14472, approval expires 2029-06-30)
+* [Justin Rowe](https://title5roster.com/inspectors/justin-rowe-si14472/) (SI #14472, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14472)
 
@@ -1518,7 +1518,7 @@ Acton, MA
 
 1 approved inspector
 
-* Kanayo Lala (SI #1108, approval expires 2028-06-30)
+* [Kanayo Lala](https://title5roster.com/inspectors/kanayo-lala-si1108/) (SI #1108, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1108)
 
@@ -1532,7 +1532,7 @@ Lowell, MA
 
 1 approved inspector
 
-* Kelechi B. Obika (SI #14637, approval expires 2028-06-30)
+* [Kelechi B. Obika](https://title5roster.com/inspectors/kelechi-b-obika-si14637/) (SI #14637, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14637)
 
@@ -1546,7 +1546,7 @@ Winchester, MA
 
 1 approved inspector
 
-* Kevin P. Duffy (SI #14983, approval expires 2027-12-01)
+* [Kevin P. Duffy](https://title5roster.com/inspectors/kevin-p-duffy-si14983/) (SI #14983, approval expires 2027-12-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14983)
 
@@ -1560,7 +1560,7 @@ Dracut, MA
 
 1 approved inspector
 
-* Kyle Elmy (SI #14274, approval expires 2027-06-30)
+* [Kyle Elmy](https://title5roster.com/inspectors/kyle-elmy-si14274/) (SI #14274, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14274)
 
@@ -1574,7 +1574,7 @@ Littleton, MA
 
 1 approved inspector
 
-* Kyle Mann (SI #13828, approval expires 2027-06-30)
+* [Kyle Mann](https://title5roster.com/inspectors/kyle-mann-si13828/) (SI #13828, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13828)
 
@@ -1588,7 +1588,7 @@ Tewksbury, MA
 
 1 approved inspector
 
-* Kyle Merchant (SI #14662, approval expires 2028-06-30)
+* [Kyle Merchant](https://title5roster.com/inspectors/kyle-merchant-si14662/) (SI #14662, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14662)
 
@@ -1602,7 +1602,7 @@ Westford, MA
 
 1 approved inspector
 
-* Lewis Tarbox (SI #13541, approval expires 2029-06-30)
+* [Lewis Tarbox](https://title5roster.com/inspectors/lewis-tarbox-si13541/) (SI #13541, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13541)
 
@@ -1616,7 +1616,7 @@ Groton, MA
 
 1 approved inspector
 
-* Lisa McCarthy (SI #3181, approval expires 2028-06-30)
+* [Lisa McCarthy](https://title5roster.com/inspectors/lisa-mccarthy-si3181/) (SI #3181, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3181)
 
@@ -1630,7 +1630,7 @@ Marlborough, MA
 
 1 approved inspector
 
-* Mark A. Oram (SI #4895, approval expires 2028-06-30)
+* [Mark A. Oram](https://title5roster.com/inspectors/mark-a-oram-si4895/) (SI #4895, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4895)
 
@@ -1644,7 +1644,7 @@ Holliston, MA
 
 1 approved inspector
 
-* Mark Smith (SI #13819, approval expires 2029-06-30)
+* [Mark Smith](https://title5roster.com/inspectors/mark-smith-si13819/) (SI #13819, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13819)
 
@@ -1658,7 +1658,7 @@ Melrose, MA
 
 1 approved inspector
 
-* Matthew Cote (SI #14915, approval expires 2027-07-01)
+* [Matthew Cote](https://title5roster.com/inspectors/matthew-cote-si14915/) (SI #14915, approval expires 2027-07-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14915)
 
@@ -1672,7 +1672,7 @@ Holliston, MA
 
 1 approved inspector
 
-* Matthew Kampersal (SI #14086, approval expires 2029-06-30)
+* [Matthew Kampersal](https://title5roster.com/inspectors/matthew-kampersal-si14086/) (SI #14086, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14086)
 
@@ -1686,7 +1686,7 @@ Westford, MA
 
 1 approved inspector
 
-* Michael Bonenfant (SI #13673, approval expires 2028-06-30)
+* [Michael Bonenfant](https://title5roster.com/inspectors/michael-bonenfant-si13673/) (SI #13673, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13673)
 
@@ -1700,7 +1700,7 @@ Hopkinton, MA
 
 1 approved inspector
 
-* Nicholas Geneseo (SI #13988, approval expires 2028-06-30)
+* [Nicholas Geneseo](https://title5roster.com/inspectors/nicholas-geneseo-si13988/) (SI #13988, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13988)
 
@@ -1714,7 +1714,7 @@ Westford, MA
 
 1 approved inspector
 
-* Nicholas Greenwood (SI #15142, approval expires 2029-02-01)
+* [Nicholas Greenwood](https://title5roster.com/inspectors/nicholas-greenwood-si15142/) (SI #15142, approval expires 2029-02-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15142)
 
@@ -1728,7 +1728,7 @@ Ashby, MA
 
 1 approved inspector
 
-* Paul C. Bergquist (SI #4620, approval expires 2028-06-30)
+* [Paul C. Bergquist](https://title5roster.com/inspectors/paul-c-bergquist-si4620/) (SI #4620, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4620)
 
@@ -1742,7 +1742,7 @@ Winchester, MA
 
 1 approved inspector
 
-* Peter Byrne (SI #4431, approval expires 2028-06-30)
+* [Peter Byrne](https://title5roster.com/inspectors/peter-byrne-si4431/) (SI #4431, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4431)
 
@@ -1756,7 +1756,7 @@ Newton, MA
 
 1 approved inspector
 
-* Rajit Gupta (SI #14135, approval expires 2029-06-30)
+* [Rajit Gupta](https://title5roster.com/inspectors/rajit-gupta-si14135/) (SI #14135, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14135)
 
@@ -1770,7 +1770,7 @@ Wilmington, MA
 
 1 approved inspector
 
-* Raymond N. Lepore (SI #2294, approval expires 2028-06-30)
+* [Raymond N. Lepore](https://title5roster.com/inspectors/raymond-n-lepore-si2294/) (SI #2294, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2294)
 
@@ -1784,7 +1784,7 @@ Belmont, MA
 
 1 approved inspector
 
-* Regina Hanson (SI #14142, approval expires 2029-06-30)
+* [Regina Hanson](https://title5roster.com/inspectors/regina-hanson-si14142/) (SI #14142, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14142)
 
@@ -1798,7 +1798,7 @@ Chelmsford, MA
 
 1 approved inspector
 
-* Richard D. Berube (SI #3053, approval expires 2028-06-30)
+* [Richard D. Berube](https://title5roster.com/inspectors/richard-d-berube-si3053/) (SI #3053, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3053)
 
@@ -1812,7 +1812,7 @@ Burlington, MA
 
 1 approved inspector
 
-* Robert C. LeBlanc (SI #4707, approval expires 2028-06-30)
+* [Robert C. LeBlanc](https://title5roster.com/inspectors/robert-c-leblanc-si4707/) (SI #4707, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4707)
 
@@ -1826,7 +1826,7 @@ Westford, MA
 
 1 approved inspector
 
-* Robert E. Johnson (SI #15145, approval expires 2029-02-01)
+* [Robert E. Johnson](https://title5roster.com/inspectors/robert-e-johnson-si15145/) (SI #15145, approval expires 2029-02-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15145)
 
@@ -1840,7 +1840,7 @@ Lexington, MA
 
 1 approved inspector
 
-* Robert Kefalas (SI #15109, approval expires 2028-11-01)
+* [Robert Kefalas](https://title5roster.com/inspectors/robert-kefalas-si15109/) (SI #15109, approval expires 2028-11-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15109)
 
@@ -1854,7 +1854,7 @@ Ayer, MA
 
 1 approved inspector
 
-* Robert M. Ratta (SI #879, approval expires 2028-06-30)
+* [Robert M. Ratta](https://title5roster.com/inspectors/robert-m-ratta-si879/) (SI #879, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T879)
 
@@ -1868,7 +1868,7 @@ Natick, MA
 
 1 approved inspector
 
-* Ronald Tiberi (SI #2204, approval expires 2028-06-30)
+* [Ronald Tiberi](https://title5roster.com/inspectors/ronald-tiberi-si2204/) (SI #2204, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2204)
 
@@ -1882,7 +1882,7 @@ Ayer, MA
 
 1 approved inspector
 
-* Samuel Fontaine (SI #14657, approval expires 2029-06-30)
+* [Samuel Fontaine](https://title5roster.com/inspectors/samuel-fontaine-si14657/) (SI #14657, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14657)
 
@@ -1896,7 +1896,7 @@ Watertown, MA
 
 1 approved inspector
 
-* Shane Michniewicz (SI #13976, approval expires 2028-06-30)
+* [Shane Michniewicz](https://title5roster.com/inspectors/shane-michniewicz-si13976/) (SI #13976, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13976)
 
@@ -1910,7 +1910,7 @@ Tewksbury, MA
 
 1 approved inspector
 
-* Shannon Gillis (SI #14532, approval expires 2027-06-30)
+* [Shannon Gillis](https://title5roster.com/inspectors/shannon-gillis-si14532/) (SI #14532, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14532)
 
@@ -1924,7 +1924,7 @@ Littleton, MA
 
 1 approved inspector
 
-* Shawn Freund (SI #15014, approval expires 2028-05-01)
+* [Shawn Freund](https://title5roster.com/inspectors/shawn-freund-si15014/) (SI #15014, approval expires 2028-05-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15014)
 
@@ -1938,7 +1938,7 @@ Hudson, MA
 
 1 approved inspector
 
-* Shawn Murphy (SI #14996, approval expires 2028-02-01)
+* [Shawn Murphy](https://title5roster.com/inspectors/shawn-murphy-si14996/) (SI #14996, approval expires 2028-02-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14996)
 
@@ -1952,7 +1952,7 @@ Medford, MA
 
 1 approved inspector
 
-* Shawn P. Callahan (SI #14623, approval expires 2028-06-30)
+* [Shawn P. Callahan](https://title5roster.com/inspectors/shawn-p-callahan-si14623/) (SI #14623, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14623)
 
@@ -1966,7 +1966,7 @@ Wakefield, MA
 
 1 approved inspector
 
-* Stephen Casey, Jr. (SI #14408, approval expires 2028-06-30)
+* [Stephen Casey, Jr.](https://title5roster.com/inspectors/stephen-casey-jr-si14408/) (SI #14408, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14408)
 
@@ -1980,7 +1980,7 @@ Hudson, MA
 
 1 approved inspector
 
-* Steven Blackburn (SI #15004, approval expires 2028-02-01)
+* [Steven Blackburn](https://title5roster.com/inspectors/steven-blackburn-si15004/) (SI #15004, approval expires 2028-02-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15004)
 
@@ -1994,7 +1994,7 @@ Littleton, MA
 
 1 approved inspector
 
-* Steven Calichman (SI #4974, approval expires 2028-06-30)
+* [Steven Calichman](https://title5roster.com/inspectors/steven-calichman-si4974/) (SI #4974, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4974)
 
@@ -2008,7 +2008,7 @@ Chelmsford, MA
 
 1 approved inspector
 
-* Susan E. Carter (SI #4954, approval expires 2028-06-30)
+* [Susan E. Carter](https://title5roster.com/inspectors/susan-e-carter-si4954/) (SI #4954, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4954)
 
@@ -2022,7 +2022,7 @@ Hopkinton, MA
 
 1 approved inspector
 
-* Susan L. Costanza (SI #13392, approval expires 2028-06-30)
+* [Susan L. Costanza](https://title5roster.com/inspectors/susan-l-costanza-si13392/) (SI #13392, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13392)
 
@@ -2036,7 +2036,7 @@ Hudson, MA
 
 1 approved inspector
 
-* Susan Rask (SI #1853, approval expires 2028-06-30)
+* [Susan Rask](https://title5roster.com/inspectors/susan-rask-si1853/) (SI #1853, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1853)
 
@@ -2050,7 +2050,7 @@ Sudbury, MA
 
 1 approved inspector
 
-* Thomas DiModica (SI #2226, approval expires 2028-06-30)
+* [Thomas DiModica](https://title5roster.com/inspectors/thomas-dimodica-si2226/) (SI #2226, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2226)
 
@@ -2064,7 +2064,7 @@ Billerica, MA (listed as North Billerica)
 
 1 approved inspector
 
-* Thomas J. Griffin (SI #14315, approval expires 2027-06-30)
+* [Thomas J. Griffin](https://title5roster.com/inspectors/thomas-j-griffin-si14315/) (SI #14315, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14315)
 
@@ -2078,7 +2078,7 @@ Westford, MA
 
 1 approved inspector
 
-* Timothy J. Hall (SI #4572, approval expires 2027-06-30)
+* [Timothy J. Hall](https://title5roster.com/inspectors/timothy-j-hall-si4572/) (SI #4572, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4572)
 
@@ -2092,7 +2092,7 @@ Bedford, MA
 
 1 approved inspector
 
-* Timothy J. Williams (SI #10809, approval expires 2027-07-01)
+* [Timothy J. Williams](https://title5roster.com/inspectors/timothy-j-williams-si10809/) (SI #10809, approval expires 2027-07-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T10809)
 
@@ -2106,7 +2106,7 @@ Stoneham, MA
 
 1 approved inspector
 
-* Traci Mello (SI #14190, approval expires 2029-06-30)
+* [Traci Mello](https://title5roster.com/inspectors/traci-mello-si14190/) (SI #14190, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14190)
 
@@ -2120,7 +2120,7 @@ Weston, MA
 
 1 approved inspector
 
-* Walter T. Chaffee (SI #14255, approval expires 2027-06-30)
+* [Walter T. Chaffee](https://title5roster.com/inspectors/walter-t-chaffee-si14255/) (SI #14255, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14255)
 
@@ -2134,7 +2134,7 @@ Waltham, MA
 
 1 approved inspector
 
-* William Doyle (SI #3582, approval expires 2028-06-30)
+* [William Doyle](https://title5roster.com/inspectors/william-doyle-si3582/) (SI #3582, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3582)
 
@@ -2148,7 +2148,7 @@ Westford, MA
 
 1 approved inspector
 
-* William J. Brookings (SI #4808, approval expires 2028-06-30)
+* [William J. Brookings](https://title5roster.com/inspectors/william-j-brookings-si4808/) (SI #4808, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4808)
 
@@ -2162,7 +2162,7 @@ Woburn, MA
 
 1 approved inspector
 
-* Yoann S. Jean-Felix (SI #15009, approval expires 2028-01-01)
+* [Yoann S. Jean-Felix](https://title5roster.com/inspectors/yoann-s-jean-felix-si15009/) (SI #15009, approval expires 2028-01-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15009)
 

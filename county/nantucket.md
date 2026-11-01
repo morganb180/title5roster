@@ -24,7 +24,7 @@ Nantucket, MA
 
 1 approved inspector
 
-* Edward F. King, Jr (SI #3007, approval expires 2028-06-30)
+* [Edward F. King, Jr](https://title5roster.com/inspectors/edward-f-king-jr-si3007/) (SI #3007, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3007)
 
@@ -36,7 +36,7 @@ Nantucket, MA
 
 1 approved inspector
 
-* Arthur D. Gasbarro, III (SI #3006, approval expires 2028-06-30)
+* [Arthur D. Gasbarro, III](https://title5roster.com/inspectors/arthur-d-gasbarro-iii-si3006/) (SI #3006, approval expires 2028-06-30)
 
 ☎ [(508) 825-5053](tel:5088255053)  
 🌐 [nantucketengineer.com](http://www.nantucketengineer.com/)  
@@ -53,7 +53,7 @@ Nantucket, MA
 
 1 approved inspector
 
-* Stephen J. Visco (SI #240, approval expires 2028-06-30)
+* [Stephen J. Visco](https://title5roster.com/inspectors/stephen-j-visco-si240/) (SI #240, approval expires 2028-06-30)
 
 ☎ [(508) 228-2339](tel:5082282339)  
 Google rating 5.0 (3 reviews)  
@@ -69,7 +69,7 @@ Nantucket, MA
 
 1 approved inspector
 
-* Christopher M. Gould (SI #15061, approval expires 2028-08-01)
+* [Christopher M. Gould](https://title5roster.com/inspectors/christopher-m-gould-si15061/) (SI #15061, approval expires 2028-08-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15061)
 
@@ -81,7 +81,7 @@ Nantucket, MA
 
 1 approved inspector
 
-* Christopher Oberg (SI #14988, approval expires 2028-02-01)
+* [Christopher Oberg](https://title5roster.com/inspectors/christopher-oberg-si14988/) (SI #14988, approval expires 2028-02-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14988)
 
@@ -93,7 +93,7 @@ Nantucket, MA
 
 1 approved inspector
 
-* David Visco (SI #13236, approval expires 2028-06-30)
+* [David Visco](https://title5roster.com/inspectors/david-visco-si13236/) (SI #13236, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13236)
 
@@ -105,7 +105,7 @@ Nantucket, MA
 
 1 approved inspector
 
-* Gordon Fraser (SI #15136, approval expires 2029-01-01)
+* [Gordon Fraser](https://title5roster.com/inspectors/gordon-fraser-si15136/) (SI #15136, approval expires 2029-01-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15136)
 
@@ -117,7 +117,7 @@ Nantucket, MA
 
 1 approved inspector
 
-* John Hedden (SI #14536, approval expires 2027-06-30)
+* [John Hedden](https://title5roster.com/inspectors/john-hedden-si14536/) (SI #14536, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14536)
 
@@ -129,7 +129,7 @@ Nantucket, MA
 
 1 approved inspector
 
-* Oscar Waldman (SI #15213, approval expires 2029-07-01)
+* [Oscar Waldman](https://title5roster.com/inspectors/oscar-waldman-si15213/) (SI #15213, approval expires 2029-07-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15213)
 
@@ -141,7 +141,7 @@ Nantucket, MA
 
 1 approved inspector
 
-* Roque Miramontes Jr. (SI #15015, approval expires 2028-05-01)
+* [Roque Miramontes Jr.](https://title5roster.com/inspectors/roque-miramontes-jr-si15015/) (SI #15015, approval expires 2028-05-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15015)
 

@@ -26,7 +26,7 @@ Boston, MA
 
 1 approved inspector
 
-* Adam Hill (SI #15206, approval expires 2029-07-01)
+* [Adam Hill](https://title5roster.com/inspectors/adam-hill-si15206/) (SI #15206, approval expires 2029-07-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15206)
 
@@ -38,7 +38,7 @@ Boston, MA (listed as West Roxbury)
 
 1 approved inspector
 
-* Ethan Mascoop (SI #148, approval expires 2028-06-30)
+* [Ethan Mascoop](https://title5roster.com/inspectors/ethan-mascoop-si148/) (SI #148, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T148)
 
@@ -50,7 +50,7 @@ Boston, MA
 
 1 approved inspector
 
-* Patrick Rutledge (SI #14198, approval expires 2027-06-30)
+* [Patrick Rutledge](https://title5roster.com/inspectors/patrick-rutledge-si14198/) (SI #14198, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14198)
 
@@ -62,7 +62,7 @@ Boston, MA
 
 1 approved inspector
 
-* Paul Kenny (SI #4865, approval expires 2028-06-30)
+* [Paul Kenny](https://title5roster.com/inspectors/paul-kenny-si4865/) (SI #4865, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4865)
 
@@ -80,7 +80,7 @@ Chelsea, MA
 
 1 approved inspector
 
-* Pierce Louis (SI #15001, approval expires 2028-02-01)
+* [Pierce Louis](https://title5roster.com/inspectors/pierce-louis-si15001/) (SI #15001, approval expires 2028-02-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15001)
 

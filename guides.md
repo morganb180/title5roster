@@ -12,6 +12,7 @@ Plain-language guides to Title 5 septic inspections at property transfer in Mass
 - [Seller's guide](https://title5roster.com/sellers-guide/): Seller's checklist: when to inspect, choosing an approved System Inspector, what happens on a conditional pass or failure, and exemptions.
 - [Buyer's guide](https://title5roster.com/buyers-guide/): Buyer's checklist for Title 5: get the report, check its date and result, plan for a conditional pass or failure, and questions to ask.
 - [Title 5 inspection cost](https://title5roster.com/title-5-inspection-cost/): What a Title 5 septic inspection costs in Massachusetts, what pumping and a failed system add, and the 60% state septic tax credit, with sources.
+- [Title 5 inspector data](https://title5roster.com/title-5-inspector-data/): 1,139 approved System Inspectors counted by county and approval expiry, with a CSV.
 
 ## Find an approved inspector
 

@@ -26,7 +26,7 @@ Edgartown, MA
 
 1 approved inspector
 
-* Brooks D. Billingham (SI #2925, approval expires 2028-06-30)
+* [Brooks D. Billingham](https://title5roster.com/inspectors/brooks-d-billingham-si2925/) (SI #2925, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2925)
 
@@ -38,7 +38,7 @@ Edgartown, MA
 
 1 approved inspector
 
-* Connor Downing (SI #14575, approval expires 2027-06-30)
+* [Connor Downing](https://title5roster.com/inspectors/connor-downing-si14575/) (SI #14575, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14575)
 
@@ -50,7 +50,7 @@ Edgartown, MA
 
 1 approved inspector
 
-* Douglas E. Cooper (SI #2857, approval expires 2028-06-30)
+* [Douglas E. Cooper](https://title5roster.com/inspectors/douglas-e-cooper-si2857/) (SI #2857, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2857)
 
@@ -62,7 +62,7 @@ Edgartown, MA
 
 1 approved inspector
 
-* Meegan Anderson (SI #14110, approval expires 2027-06-30)
+* [Meegan Anderson](https://title5roster.com/inspectors/meegan-anderson-si14110/) (SI #14110, approval expires 2027-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14110)
 
@@ -80,7 +80,7 @@ Tisbury, MA (listed as Vineyard Haven)
 
 1 approved inspector
 
-* George A. Sourati (SI #5001, approval expires 2028-06-30)
+* [George A. Sourati](https://title5roster.com/inspectors/george-a-sourati-si5001/) (SI #5001, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T5001)
 
@@ -94,7 +94,7 @@ Chilmark, MA
 
 1 approved inspector
 
-* Anna McCaffrey (SI #14770, approval expires 2026-11-01)
+* [Anna McCaffrey](https://title5roster.com/inspectors/anna-mccaffrey-si14770/) (SI #14770, approval expires 2026-11-01)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14770)
 
@@ -108,7 +108,7 @@ Oak Bluffs, MA
 
 1 approved inspector
 
-* Matthew Parker (SI #14449, approval expires 2028-06-30)
+* [Matthew Parker](https://title5roster.com/inspectors/matthew-parker-si14449/) (SI #14449, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14449)
 
@@ -122,7 +122,7 @@ Tisbury, MA (listed as Vineyard Haven)
 
 1 approved inspector
 
-* Patricia Peters (SI #14185, approval expires 2029-06-30)
+* [Patricia Peters](https://title5roster.com/inspectors/patricia-peters-si14185/) (SI #14185, approval expires 2029-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14185)
 
@@ -136,7 +136,7 @@ West Tisbury, MA
 
 1 approved inspector
 
-* Reid G. Silva (SI #4094, approval expires 2028-06-30)
+* [Reid G. Silva](https://title5roster.com/inspectors/reid-g-silva-si4094/) (SI #4094, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4094)
 
@@ -150,7 +150,7 @@ Tisbury, MA (listed as Vineyard Haven)
 
 1 approved inspector
 
-* William M. Austin (SI #3464, approval expires 2028-06-30)
+* [William M. Austin](https://title5roster.com/inspectors/william-m-austin-si3464/) (SI #3464, approval expires 2028-06-30)
 
 No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3464)
 
