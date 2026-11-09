@@ -3,61 +3,76 @@
 User-agent: GPTBot
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
+Disallow: /data/
 
 User-agent: OAI-SearchBot
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
+Disallow: /data/
 
 User-agent: ChatGPT-User
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
+Disallow: /data/
 
 User-agent: ClaudeBot
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
+Disallow: /data/
 
 User-agent: Claude-User
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
+Disallow: /data/
 
 User-agent: Claude-SearchBot
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
+Disallow: /data/
 
 User-agent: PerplexityBot
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
+Disallow: /data/
 
 User-agent: Perplexity-User
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
+Disallow: /data/
 
 User-agent: Google-Extended
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
+Disallow: /data/
 
 User-agent: Googlebot
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
+Disallow: /data/
 
 User-agent: Bingbot
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
+Disallow: /data/
 
 User-agent: Applebot
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
+Disallow: /data/
 
 User-agent: Applebot-Extended
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
+Disallow: /data/
 
 User-agent: CCBot
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
+Disallow: /data/
 
 User-agent: *
 Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
+Disallow: /data/
 
 Sitemap: https://title5roster.com/sitemap.xml

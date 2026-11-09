@@ -28,7 +28,7 @@ Oak Bluffs, MA
 
 * [Matthew Parker](https://title5roster.com/inspectors/matthew-parker-si14449/) (SI #14449, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14449)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14449)
 
 ## Which other Dukes County Title 5 inspectors may cover Oak Bluffs? (9)
 
@@ -46,7 +46,7 @@ Edgartown, MA
 
 * [Brooks D. Billingham](https://title5roster.com/inspectors/brooks-d-billingham-si2925/) (SI #2925, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2925)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2925)
 
 ✔ MassDEP-approved System Inspector
 
@@ -60,7 +60,7 @@ Tisbury, MA (listed as Vineyard Haven)
 
 * [George A. Sourati](https://title5roster.com/inspectors/george-a-sourati-si5001/) (SI #5001, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T5001)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T5001)
 
 ✔ MassDEP-approved System Inspector
 
@@ -74,7 +74,7 @@ Chilmark, MA
 
 * [Anna McCaffrey](https://title5roster.com/inspectors/anna-mccaffrey-si14770/) (SI #14770, approval expires 2026-11-01)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14770)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14770)
 
 ✔ MassDEP-approved System Inspector
 
@@ -88,7 +88,7 @@ Edgartown, MA
 
 * [Connor Downing](https://title5roster.com/inspectors/connor-downing-si14575/) (SI #14575, approval expires 2027-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14575)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14575)
 
 ✔ MassDEP-approved System Inspector
 
@@ -102,7 +102,7 @@ Edgartown, MA
 
 * [Douglas E. Cooper](https://title5roster.com/inspectors/douglas-e-cooper-si2857/) (SI #2857, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2857)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2857)
 
 ✔ MassDEP-approved System Inspector
 
@@ -116,7 +116,7 @@ Edgartown, MA
 
 * [Meegan Anderson](https://title5roster.com/inspectors/meegan-anderson-si14110/) (SI #14110, approval expires 2027-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14110)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14110)
 
 ✔ MassDEP-approved System Inspector
 
@@ -130,7 +130,7 @@ Tisbury, MA (listed as Vineyard Haven)
 
 * [Patricia Peters](https://title5roster.com/inspectors/patricia-peters-si14185/) (SI #14185, approval expires 2029-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14185)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14185)
 
 ✔ MassDEP-approved System Inspector
 
@@ -144,7 +144,7 @@ West Tisbury, MA
 
 * [Reid G. Silva](https://title5roster.com/inspectors/reid-g-silva-si4094/) (SI #4094, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4094)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4094)
 
 ✔ MassDEP-approved System Inspector
 
@@ -158,7 +158,7 @@ Tisbury, MA (listed as Vineyard Haven)
 
 * [William M. Austin](https://title5roster.com/inspectors/william-m-austin-si3464/) (SI #3464, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3464)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3464)
 
 [All Dukes County inspectors →](https://title5roster.com/county/dukes/)
 
@@ -168,14 +168,14 @@ Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System 
 
 ## Ready to book a Title 5 inspection in Oak Bluffs?
 
-1. Call two or three of the approved inspectors above and ask about availability and price.
+1. Compare the SI numbers above and ask each inspector for availability and a written price.
 2. Check the inspector's approval on [NEIWPCC's list of MassDEP-approved System Inspectors](https://neiwpcc.org/our-programs/wastewater/mass-title-5/listings-of-approved-system-inspectors-and-soil-evaluators/).
 3. Read the [seller's guide](https://title5roster.com/sellers-guide/) or [buyer's guide](https://title5roster.com/buyers-guide/) so you know what the report covers and talk to the Oak Bluffs Board of Health about local rules.
 
 [See typical costs](https://title5roster.com/title-5-inspection-cost/)
 
 
-Get free quotes: https://title5roster.com/quotes/ sends one request to up to 3 MassDEP-approved Title 5 System Inspectors near you. Free, no obligation.
+Get free quotes: https://title5roster.com/quotes/ connects you with up to 3 nearby MassDEP-approved Title 5 inspectors. They contact you directly. Free, and no obligation to hire.
 
 ## Frequently asked questions
 
