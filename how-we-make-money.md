@@ -11,7 +11,7 @@ Title 5 Roster is free to use. Here is how it is, and will be, paid for, and the
 ## Today
 
 * Nothing is for sale. Every listing is free and built from official public records.
-* [Quote requests](https://title5roster.com/quotes/) are free for homeowners, and listed businesses don't pay for them today. Each request goes to up to 3 of the nearest inspectors with a published email (or the one you picked plus the 2 nearest others).
+* [Quote requests](https://title5roster.com/quotes/) are free for homeowners, and listed businesses don't pay for them today. Each request connects you with up to 3 of the nearest MassDEP-approved inspectors (or the one you picked plus the 2 nearest others). They contact you directly.
 * Listings are ordered by location and name. No one can pay to appear higher, to get a license badge, or to have a competitor removed.
 
 ## Planned

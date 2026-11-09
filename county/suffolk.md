@@ -26,7 +26,7 @@ Boston, MA
 
 * [Adam Hill](https://title5roster.com/inspectors/adam-hill-si15206/) (SI #15206, approval expires 2029-07-01)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15206)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15206)
 
 ✔ MassDEP-approved System Inspector
 
@@ -38,7 +38,7 @@ Boston, MA (listed as West Roxbury)
 
 * [Ethan Mascoop](https://title5roster.com/inspectors/ethan-mascoop-si148/) (SI #148, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T148)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T148)
 
 ✔ MassDEP-approved System Inspector
 
@@ -50,7 +50,7 @@ Boston, MA
 
 * [Patrick Rutledge](https://title5roster.com/inspectors/patrick-rutledge-si14198/) (SI #14198, approval expires 2027-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14198)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14198)
 
 ✔ MassDEP-approved System Inspector
 
@@ -62,7 +62,7 @@ Boston, MA
 
 * [Paul Kenny](https://title5roster.com/inspectors/paul-kenny-si4865/) (SI #4865, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4865)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4865)
 
 ## Chelsea
 
@@ -76,7 +76,7 @@ Chelsea, MA
 
 * [Pierce Louis](https://title5roster.com/inspectors/pierce-louis-si15001/) (SI #15001, approval expires 2028-02-01)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15001)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15001)
 
 [How Title 5 inspections work →](https://title5roster.com/title-5-inspection/) · [Buyer's guide](https://title5roster.com/buyers-guide/) · [Seller's guide](https://title5roster.com/sellers-guide/) · [Cost estimates](https://title5roster.com/title-5-inspection-cost/)
 
@@ -84,14 +84,14 @@ Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System 
 
 ## Ready to book a Title 5 inspection in Suffolk County?
 
-1. Call two or three of the approved inspectors above and ask about availability and price.
+1. Compare the SI numbers above and ask each inspector for availability and a written price.
 2. Check the inspector's approval on [NEIWPCC's list of MassDEP-approved System Inspectors](https://neiwpcc.org/our-programs/wastewater/mass-title-5/listings-of-approved-system-inspectors-and-soil-evaluators/).
 3. Read the [seller's guide](https://title5roster.com/sellers-guide/) or [buyer's guide](https://title5roster.com/buyers-guide/) so you know what the report covers.
 
 [See typical costs](https://title5roster.com/title-5-inspection-cost/)
 
 
-Get free quotes: https://title5roster.com/quotes/ sends one request to up to 3 MassDEP-approved Title 5 System Inspectors near you. Free, no obligation.
+Get free quotes: https://title5roster.com/quotes/ connects you with up to 3 nearby MassDEP-approved Title 5 inspectors. They contact you directly. Free, and no obligation to hire.
 
 ## Frequently asked questions
 

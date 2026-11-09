@@ -28,7 +28,7 @@ Nantucket, MA
 
 * [Edward F. King, Jr](https://title5roster.com/inspectors/edward-f-king-jr-si3007/) (SI #3007, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3007)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3007)
 
 ✔ MassDEP-approved System Inspector
 
@@ -40,12 +40,10 @@ Nantucket, MA
 
 * [Arthur D. Gasbarro, III](https://title5roster.com/inspectors/arthur-d-gasbarro-iii-si3006/) (SI #3006, approval expires 2028-06-30)
 
-☎ [(508) 825-5053](tel:5088255053)  
-🌐 [nantucketengineer.com](http://www.nantucketengineer.com/)  
 Google rating 5.0 (1 review)  
-Added by us, not on the state list: phone, website and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=359718849481256496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating from the firm's [Google Maps listing](https://maps.google.com/?cid=359718849481256496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3006)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3006)
 
 ✔ MassDEP-approved System Inspector
 
@@ -57,11 +55,10 @@ Nantucket, MA
 
 * [Stephen J. Visco](https://title5roster.com/inspectors/stephen-j-visco-si240/) (SI #240, approval expires 2028-06-30)
 
-☎ [(508) 228-2339](tel:5082282339)  
 Google rating 5.0 (3 reviews)  
-Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14786906695511547068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating from the firm's [Google Maps listing](https://maps.google.com/?cid=14786906695511547068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T240)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T240)
 
 ✔ MassDEP-approved System Inspector
 
@@ -73,7 +70,7 @@ Nantucket, MA
 
 * [Christopher M. Gould](https://title5roster.com/inspectors/christopher-m-gould-si15061/) (SI #15061, approval expires 2028-08-01)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15061)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15061)
 
 ✔ MassDEP-approved System Inspector
 
@@ -85,7 +82,7 @@ Nantucket, MA
 
 * [Christopher Oberg](https://title5roster.com/inspectors/christopher-oberg-si14988/) (SI #14988, approval expires 2028-02-01)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14988)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14988)
 
 ✔ MassDEP-approved System Inspector
 
@@ -97,7 +94,7 @@ Nantucket, MA
 
 * [David Visco](https://title5roster.com/inspectors/david-visco-si13236/) (SI #13236, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13236)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13236)
 
 ✔ MassDEP-approved System Inspector
 
@@ -109,7 +106,7 @@ Nantucket, MA
 
 * [Gordon Fraser](https://title5roster.com/inspectors/gordon-fraser-si15136/) (SI #15136, approval expires 2029-01-01)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15136)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15136)
 
 ✔ MassDEP-approved System Inspector
 
@@ -121,7 +118,7 @@ Nantucket, MA
 
 * [John Hedden](https://title5roster.com/inspectors/john-hedden-si14536/) (SI #14536, approval expires 2027-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14536)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14536)
 
 ✔ MassDEP-approved System Inspector
 
@@ -133,7 +130,7 @@ Nantucket, MA
 
 * [Oscar Waldman](https://title5roster.com/inspectors/oscar-waldman-si15213/) (SI #15213, approval expires 2029-07-01)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15213)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15213)
 
 ✔ MassDEP-approved System Inspector
 
@@ -145,7 +142,7 @@ Nantucket, MA
 
 * [Roque Miramontes Jr.](https://title5roster.com/inspectors/roque-miramontes-jr-si15015/) (SI #15015, approval expires 2028-05-01)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15015)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15015)
 
 [All Nantucket County inspectors →](https://title5roster.com/county/nantucket/)
 
@@ -155,14 +152,14 @@ Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System 
 
 ## Ready to book a Title 5 inspection in Nantucket?
 
-1. Call two or three of the approved inspectors above and ask about availability and price.
+1. Compare the SI numbers above and ask each inspector for availability and a written price.
 2. Check the inspector's approval on [NEIWPCC's list of MassDEP-approved System Inspectors](https://neiwpcc.org/our-programs/wastewater/mass-title-5/listings-of-approved-system-inspectors-and-soil-evaluators/).
 3. Read the [seller's guide](https://title5roster.com/sellers-guide/) or [buyer's guide](https://title5roster.com/buyers-guide/) so you know what the report covers and talk to the Nantucket Board of Health about local rules.
 
 [See typical costs](https://title5roster.com/title-5-inspection-cost/)
 
 
-Get free quotes: https://title5roster.com/quotes/ sends one request to up to 3 MassDEP-approved Title 5 System Inspectors near you. Free, no obligation.
+Get free quotes: https://title5roster.com/quotes/ connects you with up to 3 nearby MassDEP-approved Title 5 inspectors. They contact you directly. Free, and no obligation to hire.
 
 ## Frequently asked questions
 

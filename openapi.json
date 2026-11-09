@@ -453,7 +453,7 @@
               "null"
             ],
             "format": "uri",
-            "description": "Public listing page (has phone/contact details where published)."
+            "description": "Public listing page (name, town, and SI number). Phone, email and website are not published."
           },
           "quote_url": {
             "type": [

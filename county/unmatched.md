@@ -26,7 +26,7 @@ Avington, MA
 
 * [Winston Steadman II](https://title5roster.com/inspectors/winston-steadman-ii-si13045/) (SI #13045, approval expires 2028-08-01)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13045)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13045)
 
 [How Title 5 inspections work →](https://title5roster.com/title-5-inspection/) · [Buyer's guide](https://title5roster.com/buyers-guide/) · [Seller's guide](https://title5roster.com/sellers-guide/) · [Cost estimates](https://title5roster.com/title-5-inspection-cost/)
 
@@ -34,14 +34,14 @@ Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System 
 
 ## Ready to book a Title 5 inspection in Unmatched County?
 
-1. Call two or three of the approved inspectors above and ask about availability and price.
+1. Compare the SI numbers above and ask each inspector for availability and a written price.
 2. Check the inspector's approval on [NEIWPCC's list of MassDEP-approved System Inspectors](https://neiwpcc.org/our-programs/wastewater/mass-title-5/listings-of-approved-system-inspectors-and-soil-evaluators/).
 3. Read the [seller's guide](https://title5roster.com/sellers-guide/) or [buyer's guide](https://title5roster.com/buyers-guide/) so you know what the report covers.
 
 [See typical costs](https://title5roster.com/title-5-inspection-cost/)
 
 
-Get free quotes: https://title5roster.com/quotes/ sends one request to up to 3 MassDEP-approved Title 5 System Inspectors near you. Free, no obligation.
+Get free quotes: https://title5roster.com/quotes/ connects you with up to 3 nearby MassDEP-approved Title 5 inspectors. They contact you directly. Free, and no obligation to hire.
 
 ## Frequently asked questions
 

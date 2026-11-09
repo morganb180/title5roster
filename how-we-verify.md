@@ -18,7 +18,7 @@ Every listing comes from NEIWPCC's public lists of MassDEP-approved Title 5 Syst
 ## What we don't verify
 
 * Workmanship, prices, insurance or availability.
-* Phone numbers, websites, ratings and emails we added from Google Maps listings and firm websites (labelled on each card). We match them carefully, but they are not part of the official record.
+* Google ratings added from Google Maps listings (labelled on the card with the retrieval date). They are not part of the official record. Phone numbers, emails and websites are not shown.
 
 ## Corrections
 

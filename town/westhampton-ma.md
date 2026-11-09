@@ -28,7 +28,7 @@ Westhampton, MA
 
 * [Bryan Balicki](https://title5roster.com/inspectors/bryan-balicki-si12586/) (SI #12586, approval expires 2029-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T12586)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T12586)
 
 ✔ MassDEP-approved System Inspector
 
@@ -40,7 +40,7 @@ Westhampton, MA
 
 * [Timothy E. Maginnis](https://title5roster.com/inspectors/timothy-e-maginnis-si1039/) (SI #1039, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1039)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1039)
 
 ## Which other Hampshire County Title 5 inspectors may cover Westhampton? (32)
 
@@ -58,7 +58,7 @@ Granby, MA
 
 * [William A. Shaheen](https://title5roster.com/inspectors/william-a-shaheen-si1264/) (SI #1264, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1264)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1264)
 
 ✔ MassDEP-approved System Inspector
 
@@ -72,12 +72,8 @@ Belchertown, MA
 
 * [Alan E. Weiss](https://title5roster.com/inspectors/alan-e-weiss-si738/) (SI #738, approval expires 2028-06-30)
 
-☎ [(413) 323-5957](tel:4133235957)  
-🌐 [coldspringenvironmental.com](https://www.coldspringenvironmental.com/Contact.html)  
-✉ [aweiss@coldspringenvironmental.com](mailto:aweiss@coldspringenvironmental.com)  
-Added by us, not on the state list: phone and website from the firm's [Google Maps listing](https://maps.google.com/?cid=5976198409432950556&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30; email as published at [coldspringenvironmental.com](https://www.coldspringenvironmental.com/Contact.html), retrieved 2026-10-30.
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T738)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T738)
 
 ✔ MassDEP-approved System Inspector
 
@@ -91,7 +87,7 @@ Hadley, MA
 
 * [Aiidan Gibbons](https://title5roster.com/inspectors/aiidan-gibbons-si15141/) (SI #15141, approval expires 2029-02-01)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15141)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15141)
 
 ✔ MassDEP-approved System Inspector
 
@@ -105,11 +101,10 @@ Ware, MA
 
 * [Anthony J. DeSantis](https://title5roster.com/inspectors/anthony-j-desantis-si1533/) (SI #1533, approval expires 2028-06-30)
 
-☎ [(413) 967-6527](tel:4139676527)  
 Google rating 5.0 (3 reviews)  
-Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9126139281822581457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9126139281822581457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1533)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1533)
 
 ✔ MassDEP-approved System Inspector
 
@@ -123,11 +118,10 @@ Ware, MA
 
 * [Richard L. DeSantis](https://title5roster.com/inspectors/richard-l-desantis-si1532/) (SI #1532, approval expires 2028-06-30)
 
-☎ [(413) 967-6527](tel:4139676527)  
 Google rating 5.0 (3 reviews)  
-Added by us, not on the state list: phone and rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9126139281822581457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
+Google rating from the firm's [Google Maps listing](https://maps.google.com/?cid=9126139281822581457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA), retrieved 2026-10-30.
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1532)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1532)
 
 ✔ MassDEP-approved System Inspector
 
@@ -141,7 +135,7 @@ Chesterfield, MA
 
 * [John A. Wallen](https://title5roster.com/inspectors/john-a-wallen-si13641/) (SI #13641, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13641)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13641)
 
 ✔ MassDEP-approved System Inspector
 
@@ -155,7 +149,7 @@ Southampton, MA
 
 * [Barry Searle](https://title5roster.com/inspectors/barry-searle-si3758/) (SI #3758, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3758)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3758)
 
 ✔ MassDEP-approved System Inspector
 
@@ -169,7 +163,7 @@ Belchertown, MA
 
 * [Brianna Dupras](https://title5roster.com/inspectors/brianna-dupras-si13929/) (SI #13929, approval expires 2027-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13929)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13929)
 
 ✔ MassDEP-approved System Inspector
 
@@ -183,7 +177,7 @@ Southampton, MA (listed as Southhampton)
 
 * [Charles D. Kaniecki](https://title5roster.com/inspectors/charles-d-kaniecki-si14764/) (SI #14764, approval expires 2027-05-01)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14764)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14764)
 
 ✔ MassDEP-approved System Inspector
 
@@ -197,7 +191,7 @@ Southampton, MA
 
 * [Charles J. Kaniecki](https://title5roster.com/inspectors/charles-j-kaniecki-si119/) (SI #119, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T119)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T119)
 
 ✔ MassDEP-approved System Inspector
 
@@ -211,7 +205,7 @@ Southampton, MA
 
 * [Claudia Sarti](https://title5roster.com/inspectors/claudia-sarti-si14526/) (SI #14526, approval expires 2027-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14526)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14526)
 
 ✔ MassDEP-approved System Inspector
 
@@ -225,7 +219,7 @@ Hadley, MA
 
 * [David J. Fill II](https://title5roster.com/inspectors/david-j-fill-ii-si15128/) (SI #15128, approval expires 2029-01-01)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15128)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T15128)
 
 ✔ MassDEP-approved System Inspector
 
@@ -239,7 +233,7 @@ Granby, MA
 
 * [Gregory Everson](https://title5roster.com/inspectors/gregory-everson-si13750/) (SI #13750, approval expires 2029-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13750)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13750)
 
 ✔ MassDEP-approved System Inspector
 
@@ -253,7 +247,7 @@ Southampton, MA
 
 * [Hunter Laurin](https://title5roster.com/inspectors/hunter-laurin-si14733/) (SI #14733, approval expires 2029-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14733)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14733)
 
 ✔ MassDEP-approved System Inspector
 
@@ -267,7 +261,7 @@ Granby, MA
 
 * [Jesse M. Moreno](https://title5roster.com/inspectors/jesse-m-moreno-si4329/) (SI #4329, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4329)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4329)
 
 ✔ MassDEP-approved System Inspector
 
@@ -281,7 +275,7 @@ Chesterfield, MA
 
 * [John L. Chandler](https://title5roster.com/inspectors/john-l-chandler-si5045/) (SI #5045, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T5045)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T5045)
 
 ✔ MassDEP-approved System Inspector
 
@@ -295,7 +289,7 @@ Worthington, MA
 
 * [Keith R. Manley](https://title5roster.com/inspectors/keith-r-manley-si2239/) (SI #2239, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2239)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2239)
 
 ✔ MassDEP-approved System Inspector
 
@@ -309,7 +303,7 @@ Southampton, MA
 
 * [Kevin Kuehner](https://title5roster.com/inspectors/kevin-kuehner-si13846/) (SI #13846, approval expires 2027-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13846)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13846)
 
 ✔ MassDEP-approved System Inspector
 
@@ -323,7 +317,7 @@ Hadley, MA
 
 * [Kevin Quinlan](https://title5roster.com/inspectors/kevin-quinlan-si14471/) (SI #14471, approval expires 2029-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14471)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14471)
 
 ✔ MassDEP-approved System Inspector
 
@@ -337,7 +331,7 @@ South Hadley, MA
 
 * [Lawrence Rusiecki](https://title5roster.com/inspectors/lawrence-rusiecki-si3986/) (SI #3986, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3986)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3986)
 
 ✔ MassDEP-approved System Inspector
 
@@ -351,7 +345,7 @@ Granby, MA (listed as Grandby)
 
 * [Mark S. Haley](https://title5roster.com/inspectors/mark-s-haley-si1556/) (SI #1556, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1556)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1556)
 
 ✔ MassDEP-approved System Inspector
 
@@ -365,7 +359,7 @@ Chesterfield, MA
 
 * [Mark T. Thompson](https://title5roster.com/inspectors/mark-t-thompson-si3588/) (SI #3588, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3588)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3588)
 
 ✔ MassDEP-approved System Inspector
 
@@ -379,7 +373,7 @@ Belchertown, MA
 
 * [Neil Jackson](https://title5roster.com/inspectors/neil-jackson-si3579/) (SI #3579, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3579)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T3579)
 
 ✔ MassDEP-approved System Inspector
 
@@ -393,7 +387,7 @@ Goshen, MA
 
 * [Randall Baker](https://title5roster.com/inspectors/randall-baker-si14801/) (SI #14801, approval expires 2029-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14801)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14801)
 
 ✔ MassDEP-approved System Inspector
 
@@ -407,7 +401,7 @@ Hadley, MA
 
 * [Raymond Mieczkowski](https://title5roster.com/inspectors/raymond-mieczkowski-si2720/) (SI #2720, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2720)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T2720)
 
 ✔ MassDEP-approved System Inspector
 
@@ -421,7 +415,7 @@ Granby, MA
 
 * [Robert F. Sheehan, Jr.](https://title5roster.com/inspectors/robert-f-sheehan-jr-si4066/) (SI #4066, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4066)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4066)
 
 ✔ MassDEP-approved System Inspector
 
@@ -435,7 +429,7 @@ Ware, MA
 
 * [Robert H. LeMaitre](https://title5roster.com/inspectors/robert-h-lemaitre-si1175/) (SI #1175, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1175)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T1175)
 
 ✔ MassDEP-approved System Inspector
 
@@ -449,7 +443,7 @@ Granby, MA
 
 * [Robert R. Normand Jr.](https://title5roster.com/inspectors/robert-r-normand-jr-si14291/) (SI #14291, approval expires 2027-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14291)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14291)
 
 ✔ MassDEP-approved System Inspector
 
@@ -463,7 +457,7 @@ Belchertown, MA
 
 * [Roger W. Bacon](https://title5roster.com/inspectors/roger-w-bacon-si4774/) (SI #4774, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4774)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T4774)
 
 ✔ MassDEP-approved System Inspector
 
@@ -477,7 +471,7 @@ Southampton, MA
 
 * [Ronald D. Laurin](https://title5roster.com/inspectors/ronald-d-laurin-si13546/) (SI #13546, approval expires 2029-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13546)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13546)
 
 ✔ MassDEP-approved System Inspector
 
@@ -491,7 +485,7 @@ Plainfield, MA
 
 * [Ronald Weeks](https://title5roster.com/inspectors/ronald-weeks-si14682/) (SI #14682, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14682)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T14682)
 
 ✔ MassDEP-approved System Inspector
 
@@ -505,7 +499,7 @@ Ware, MA
 
 * [Scott Tetreault](https://title5roster.com/inspectors/scott-tetreault-si13658/) (SI #13658, approval expires 2028-06-30)
 
-No phone or email is published on the source list. Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13658)
+Source: [NEIWPCC SI list](https://neiwpcc.org/wp-content/uploads/2026/10/SI-Instate-10.2.2026.pdf), retrieved 2026-10-12 · [Claim, correct or remove](https://title5roster.com/list-your-business/?id=T13658)
 
 [All Hampshire County inspectors →](https://title5roster.com/county/hampshire/)
 
@@ -515,14 +509,14 @@ Data last verified 2026-10-12 against NEIWPCC's list of MassDEP-approved System 
 
 ## Ready to book a Title 5 inspection in Westhampton?
 
-1. Call two or three of the approved inspectors above and ask about availability and price.
+1. Compare the SI numbers above and ask each inspector for availability and a written price.
 2. Check the inspector's approval on [NEIWPCC's list of MassDEP-approved System Inspectors](https://neiwpcc.org/our-programs/wastewater/mass-title-5/listings-of-approved-system-inspectors-and-soil-evaluators/).
 3. Read the [seller's guide](https://title5roster.com/sellers-guide/) or [buyer's guide](https://title5roster.com/buyers-guide/) so you know what the report covers and talk to the Westhampton Board of Health about local rules.
 
 [See typical costs](https://title5roster.com/title-5-inspection-cost/)
 
 
-Get free quotes: https://title5roster.com/quotes/ sends one request to up to 3 MassDEP-approved Title 5 System Inspectors near you. Free, no obligation.
+Get free quotes: https://title5roster.com/quotes/ connects you with up to 3 nearby MassDEP-approved Title 5 inspectors. They contact you directly. Free, and no obligation to hire.
 
 ## Frequently asked questions
 
