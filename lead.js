@@ -12,7 +12,7 @@ function cslug(c){return String(c||"").toLowerCase().replace(/[^a-z]+/g,"-")}
 var NEXT="<h3 class=\"lf-h\">What happens next</h3><ol><li>Inspectors contact you directly by phone or email.</li><li>Ask each for its MassDEP System Inspector approval number, price and timing in writing. The inspection report goes to the local Board of Health.</li></ol>";
 forms.forEach(function(f){var src=f.querySelector("[name=source]");if(src)src.value=location.pathname;
  var id=f.querySelector("[name=idem]");if(id&&!id.value)id.value=uid();
- f.addEventListener("focusin",loadTS,{once:true});f.addEventListener("pointerenter",loadTS,{once:true});
+ f.addEventListener("focusin",loadTS,{once:true});f.addEventListener("change",loadTS,{once:true}); /* Turnstile loads on first focus or change, never on hover */
  var cs=f.querySelector("select[name=county]");if(cs&&pre&&!cs.value)cs.value=pre;
  var fi=f.querySelector("input[name=firm]"),fid=q.get("firm"),fr=fid&&(window.NET_FIRMS||{})[fid];
  if(fi&&fr){var SL={"i": "Title 5 inspection"},SN={},fn=fr[0],sv=fr[1];fi.value=fid;var fl=f.querySelector(".lf-firm");if(fl){fl.innerHTML='We connect you with <strong>'+esc(fn)+'</strong> and up to 2 other nearby MassDEP-approved inspectors. They contact you directly. '+esc(fn)+' offers: '+sv.split("").map(function(c){return SL[c]}).join(", ")+'.';fl.hidden=false}var r0=f.querySelector('input[name=need][value="'+SN[sv[0]]+'"]');if(r0&&!f.querySelector("input[name=need]:checked"))r0.checked=true}
